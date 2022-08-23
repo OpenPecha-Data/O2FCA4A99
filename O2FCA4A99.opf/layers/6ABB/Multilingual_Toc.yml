@@ -1,0 +1,121 @@
+id: 9fc13cd34741448a9bf81c936a93ea37
+annotation_type: index
+revision: '00001'
+annotations:
+  3cd49e4bfa2948e194f2d4efff65ad6c:
+    span:
+      start: 0
+      end: 142
+    metadata:
+      title: Title
+    page_info: null
+    imgnum: null
+    reference: null
+  c2d260acde5e42efa9001b6a969680ac:
+    span:
+      start: 142
+      end: 192
+    metadata: 
+     title: Preface
+    page_info: null
+    imgnum: null
+    reference: null
+  02cd3dec725840a39ef71e4e5ef0b96a:
+    span:
+      start: 192
+      end: 5075
+    metadata:
+      title: Chapter 1- Bodhicittānuśaṃsaḥ
+    page_info: null
+    imgnum: null
+    reference: null
+  40e236913f874765b850388ae5a32276:
+    span:
+      start: 5075
+      end: 13237
+    metadata:
+      title: Chapter 2- Pāpadeśanā
+    page_info: null
+    imgnum: null
+    reference: null
+  8b424eca4de941de99ce2c8db6794646:
+    span:
+      start: 13237
+      end: 17249
+    metadata:
+      title: Chapter 3- Bodhicittaparigraho
+    page_info: null
+    imgnum: null
+    reference: null
+  e846a6d4bdb343a5ae31b4c244e33817:
+    span:
+      start: 17249
+      end: 23312
+    metadata:
+      title: Chapter 4- Bodhicittāpramādo
+    page_info: null
+    imgnum: null
+    reference: null
+  47b848c358794e64a16edb599f2b46b5:
+    span:
+      start: 23312
+      end: 35855
+    metadata:
+      title: Chapter 5- Saṃprajanyarakṣaṇaḥ
+    page_info: null
+    imgnum: null
+    reference: null
+  19b231ff8d81490ca45908ff33071c18:
+    span:
+      start: 35855
+      end: 51461
+    metadata:
+      title: Chapter 6- Kṣāntipāramitā
+    page_info: null
+    imgnum: null
+    reference: null
+  0f5e8a3fbb924701923e697c4dab22df:
+    span:
+      start: 51461
+      end: 60591
+    metadata:
+      title: Chapter 7- Vīryapāramitā
+    page_info: null
+    imgnum: null
+    reference: null
+  07aace03c8844e95a6e80910e4d683db:
+    span:
+      start: 60591
+      end: 82121
+    metadata:
+      title: Chapter 8- Dhyānapāramitā
+    page_info: null
+    imgnum: null
+    reference: null
+  da866e559f954bd2b890246581c2185f:
+    span:
+      start: 82121
+      end: 101171
+    metadata:
+      title: Chapter 9- Prajñāpāramitā
+    page_info: null
+    imgnum: null
+    reference: null
+  c6fad181b2a245ad81013f056e9e219c:
+    span:
+      start: 101171
+      end: 108507
+    metadata:
+      title: Chapter 10- Pariṇāmanā
+    page_info: null
+    imgnum: null
+    reference: null
+  41f2f453cb9345dab556d7dad5cbe895:
+    span:
+      start: 108507
+      end: 109025
+    metadata:
+      title: Colophon
+    page_info: null
+    imgnum: null
+    reference: null
