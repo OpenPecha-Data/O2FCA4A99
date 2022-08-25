@@ -1,0 +1,3556 @@
+id: 9ebca3bcb674480c8a55c00a5bde51be
+annotation_type: Diff
+revision: '00001'
+annotations:
+  111f053e3b324c12be2ec1e8580954ad:
+    span:
+      start: 81
+      end: 85
+      errors: null
+    metadata: null
+    src_diff: ཙརྱ་
+    diff_payload: ཙམླཻ་
+  27257e053cdb4f2bbf2bfcbcb66fce46:
+    span:
+      start: 254
+      end: 257
+      errors: null
+    metadata: null
+    src_diff: པར་
+    diff_payload: པས་
+  3e25ecbef4d14bf0bf9cf89b4d21d546:
+    span:
+      start: 1091
+      end: 1094
+      errors: null
+    metadata: null
+    src_diff: མར་
+    diff_payload: མའ་
+  8c3815b17bab42b1a56171eead1272e0:
+    span:
+      start: 2694
+      end: 2697
+      errors: null
+    metadata: null
+    src_diff: དགྲ
+    diff_payload: བསྒྲ
+  37664fdaf46d46e4a6ec28ddaf211230:
+    span:
+      start: 2916
+      end: 2920
+      errors: null
+    metadata: null
+    src_diff: གིས་
+    diff_payload: ཀྱིས་
+  86e26da796894d46ac8ea795a47bbe76:
+    span:
+      start: 3076
+      end: 3079
+      errors: null
+    metadata: null
+    src_diff: དེ།
+    diff_payload: ཏེ།
+  d604a531546e4bfa822e3ee5f118944f:
+    span:
+      start: 3527
+      end: 3530
+      errors: null
+    metadata: null
+    src_diff: སྔ་
+    diff_payload: བླ་
+  4c958ffb0b384fe3bef18b23106388cf:
+    span:
+      start: 3663
+      end: 3667
+      errors: null
+    metadata: null
+    src_diff: གཞལ་
+    diff_payload: གཞན་
+  49166d7dd0424e63aaa6c33455a037db:
+    span:
+      start: 4146
+      end: 4151
+      errors: null
+    metadata: null
+    src_diff: བཏགས་
+    diff_payload: གཏགས་
+  24372efc5f6547ac8bd0ed8e3976756b:
+    span:
+      start: 5091
+      end: 5096
+      errors: null
+    metadata: null
+    src_diff: གཟུང་
+    diff_payload: བཟུང་
+  335a327683254c578fd42f8ca4a90769:
+    span:
+      start: 5277
+      end: 5281
+      errors: null
+    metadata: null
+    src_diff: ཞིག་
+    diff_payload: དག་
+  980dec5fd1de47acbc1c2709b90ca61e:
+    span:
+      start: 6453
+      end: 6457
+      errors: null
+    metadata: null
+    src_diff: ལྟར།
+    diff_payload: བསྟར།
+  97cbc3aa77f44d9a93148d3cf56fdfc2:
+    span:
+      start: 6511
+      end: 6514
+      errors: null
+    metadata: null
+    src_diff: རེ་
+    diff_payload: བྲེ་
+  fe51b522432a4f9bbf7cd15b648484c6:
+    span:
+      start: 6796
+      end: 6801
+      errors: null
+    metadata: null
+    src_diff: འབུལ།
+    diff_payload: དབུལ།
+  aa60b25298534816bdff502b47513e9a:
+    span:
+      start: 8435
+      end: 8437
+      errors: null
+    metadata: null
+    src_diff: ཡི
+    diff_payload: ནི
+  35dcede9e5a743f28fa4d0d77bee402c:
+    span:
+      start: 8495
+      end: 8500
+      errors: null
+    metadata: null
+    src_diff: རྣམས་
+    diff_payload: ཀུན་
+  5583082ad62e4ff38b20db40b0f4b6ac:
+    span:
+      start: 9167
+      end: 9170
+      errors: null
+    metadata: null
+    src_diff: མས་
+    diff_payload: མའི་
+  6affb44fc1de42fdaf60bea6d1dfd329:
+    span:
+      start: 9264
+      end: 9269
+      errors: null
+    metadata: null
+    src_diff: བཤགས།
+    diff_payload: འཆགས།
+  f4e2205174984304bc1a6c9878e134ae:
+    span:
+      start: 9519
+      end: 9522
+      errors: null
+    metadata: null
+    src_diff: པར།
+    diff_payload: པས།
+  44771b86f81e4acb981a6bf2760af959:
+    span:
+      start: 9961
+      end: 9965
+      errors: null
+    metadata: null
+    src_diff: གློ་
+    diff_payload: བློ་
+  1350237480f54299acbe2647c3807065:
+    span:
+      start: 11094
+      end: 11097
+      errors: null
+    metadata: null
+    src_diff: ཉིད
+    diff_payload: འད
+  82d09bd80277488bba323578f2c7bafb:
+    span:
+      start: 11295
+      end: 11299
+      errors: null
+    metadata: null
+    src_diff: པའི་
+    diff_payload: པལ་
+  c3d405be9d92456f8c653b6962a26000:
+    span:
+      start: 11660
+      end: 11665
+      errors: null
+    metadata: null
+    src_diff: བྱེད་
+    diff_payload: མཛད་
+  5749da6e2c5b4322b07df7bdb399f7e9:
+    span:
+      start: 12460
+      end: 12467
+      errors: null
+    metadata: null
+    src_diff: ཇི་ལྟར་
+    diff_payload: ཅི་ཕྱིར་
+  7f42d3683eaf443f8ca8881b9541d399:
+    span:
+      start: 12551
+      end: 12556
+      errors: null
+    metadata: null
+    src_diff: མངོན་
+    diff_payload: སྔོན་
+  a013bdf9f3d74dd4974e3dad39c42439:
+    span:
+      start: 14134
+      end: 14139
+      errors: null
+    metadata: null
+    src_diff: བསྔལ་
+    diff_payload: པ་
+  c3b5f67bff4148d98e323fe7f739cc56:
+    span:
+      start: 14530
+      end: 14534
+      errors: null
+    metadata: null
+    src_diff: བཏང་
+    diff_payload: གཏང་
+  a53261906e5e4c4681a930fb42b9ae13:
+    span:
+      start: 14898
+      end: 14902
+      errors: null
+    metadata: null
+    src_diff: གི །
+    diff_payload: གིས།
+  8f04075fbbca42729fb903d90f6f2771:
+    span:
+      start: 14925
+      end: 14927
+      errors: null
+    metadata: null
+    src_diff: བ།
+    diff_payload: ན།
+  7505c55378ae4f918113c4abc4364186:
+    span:
+      start: 15320
+      end: 15323
+      errors: null
+    metadata: null
+    src_diff: པར་
+    diff_payload: བར་
+  de2617a5f1324d64bb65d85dc6a41c9d:
+    span:
+      start: 15341
+      end: 15344
+      errors: null
+    metadata: null
+    src_diff: དང་
+    diff_payload: བུ་
+  0eecc151cf41451abdaba6747fd3882e:
+    span:
+      start: 16858
+      end: 16864
+      errors: null
+    metadata: null
+    src_diff: མགྲོན་
+    diff_payload: འགྲོན་
+  441a057b359b4068a47024a780fb3644:
+    span:
+      start: 17211
+      end: 17216
+      errors: null
+    metadata: null
+    src_diff: གཟུང་
+    diff_payload: བཟུང་
+  bc68e5f4e3d2458ba831ea71b187a5f2:
+    span:
+      start: 17453
+      end: 17457
+      errors: null
+    metadata: null
+    src_diff: བཏང་
+    diff_payload: གཏང་
+  638383598bdd490fba8e0c41c2f3d531:
+    span:
+      start: 18158
+      end: 18166
+      errors: null
+    metadata: null
+    src_diff: སྐད་ཅིག་
+    diff_payload: འགའ་ཞིག་
+  ad2785c564544052ae5c940c27878694:
+    span:
+      start: 18166
+      end: 18172
+      errors: null
+    metadata: null
+    src_diff: ཙམ་ཡང་
+    diff_payload: འདི་ཡི་
+  1fd9fbba73ed42c69bada6d5a52ed392:
+    span:
+      start: 18172
+      end: 18178
+      errors: null
+    metadata: null
+    src_diff: འདིའི།
+    diff_payload: ནི།
+  11258a904f3047f497b555c6488105ff:
+    span:
+      start: 18722
+      end: 18725
+      errors: null
+    metadata: null
+    src_diff: ཏོ།
+    diff_payload: ཏེ།
+  efa05553681045d4bdb2a96bcb5cecd7:
+    span:
+      start: 18809
+      end: 18813
+      errors: null
+    metadata: null
+    src_diff: བཅད་
+    diff_payload: གཅད་
+  1b74b0aea01d41deb2c47f56872d74e1:
+    span:
+      start: 19005
+      end: 19008
+      errors: null
+    metadata: null
+    src_diff: ནི་
+    diff_payload: འདི་
+  8ba4810c688d40fbb920f33c80d3a029:
+    span:
+      start: 19033
+      end: 19036
+      errors: null
+    metadata: null
+    src_diff: ནི་
+    diff_payload: འདི་
+  385ec77737a1492eaff9c3d88aa1637f:
+    span:
+      start: 20399
+      end: 20402
+      errors: null
+    metadata: null
+    src_diff: ཇི་
+    diff_payload: ཅི་
+  2e7f797250c44b4b925f3b14434024cd:
+    span:
+      start: 20473
+      end: 20478
+      errors: null
+    metadata: null
+    src_diff: མགུར་
+    diff_payload: དགུར་
+  2181e2c6af6347a59b0fb4403cc09761:
+    span:
+      start: 20868
+      end: 20872
+      errors: null
+    metadata: null
+    src_diff: ཐུབ་
+    diff_payload: ཐུག་
+  10928d8480984041a8c3ea93cd10f8e4:
+    span:
+      start: 20937
+      end: 20939
+      errors: null
+    metadata: null
+    src_diff: ལ།
+    diff_payload: ན།
+  2f9ff7533f614cf4bffe472b6bf87c9a:
+    span:
+      start: 21295
+      end: 21299
+      errors: null
+    metadata: null
+    src_diff: ལྟར་
+    diff_payload: ལྟས་
+  90fdcf4c7c0d405d8dbbf008dbcf3a0d:
+    span:
+      start: 21483
+      end: 21486
+      errors: null
+    metadata: null
+    src_diff: བས་
+    diff_payload: བའི་
+  1f85537e915f451cad746c111121f8b5:
+    span:
+      start: 21847
+      end: 21852
+      errors: null
+    metadata: null
+    src_diff: བཏོད་
+    diff_payload: གཏོང་
+  d718fcbb6cc64559b64d8d50f29e40ff:
+    span:
+      start: 22282
+      end: 22286
+      errors: null
+    metadata: null
+    src_diff: ལྟར་
+    diff_payload: ལྟས་
+  ecf416b423594b579ca1c4c71026a721:
+    span:
+      start: 22460
+      end: 22467
+      errors: null
+    metadata: null
+    src_diff: བསྲེགས་
+    diff_payload: བསྲོགས་
+  c86e038c402045589149c2c343122621:
+    span:
+      start: 22886
+      end: 22891
+      errors: null
+    metadata: null
+    src_diff: ཚོགས་
+    diff_payload: སོགས་
+  f8cf704bc02748a3b85ed1c50816de5b:
+    span:
+      start: 22974
+      end: 22979
+      errors: null
+    metadata: null
+    src_diff: སྒྱུ་
+    diff_payload: རྒྱུ་
+  620a4b177eab4557a926ffbd84bc6c62:
+    span:
+      start: 23223
+      end: 23227
+      errors: null
+    metadata: null
+    src_diff: ཡོད།
+    diff_payload: འགྱུར།
+  08de2a933d9f4ab4b1555b16aedf0ea4:
+    span:
+      start: 23380
+      end: 23384
+      errors: null
+    metadata: null
+    src_diff: འདི་
+    diff_payload: ནི་
+  935249cb9ce04670b4d3362718400c48:
+    span:
+      start: 23498
+      end: 23502
+      errors: null
+    metadata: null
+    src_diff: ཐུལ་
+    diff_payload: དུལ་
+  582856b1582948659405e57fe2cd431f:
+    span:
+      start: 23877
+      end: 23881
+      errors: null
+    metadata: null
+    src_diff: ཐུལ་
+    diff_payload: བཏུལ་
+  9833e79f3c1945efb10a4e0ed807438e:
+    span:
+      start: 24298
+      end: 24302
+      errors: null
+    metadata: null
+    src_diff: རུང་
+    diff_payload: དུང་
+  9e6d5728b49a48b49966b1cbf8cbe30a:
+    span:
+      start: 24466
+      end: 24469
+      errors: null
+    metadata: null
+    src_diff: དོ།
+    diff_payload: དེ།
+  14877e52a35f494cafde97a55418ec34:
+    span:
+      start: 24885
+      end: 24889
+      errors: null
+    metadata: null
+    src_diff: འདི་
+    diff_payload: ནི་
+  c441f088ed8544d9bc36358e58bc0341:
+    span:
+      start: 24953
+      end: 24960
+      errors: null
+    metadata: null
+    src_diff: བསྐྱེད་
+    diff_payload: བསྐྱེས་
+  28a400a435b6479c8a625fe3ec0de45a:
+    span:
+      start: 25424
+      end: 25429
+      errors: null
+    metadata: null
+    src_diff: དྲོལ་
+    diff_payload: གྲོལ་
+  26446860017c4dddb791251433d5e5b9:
+    span:
+      start: 25607
+      end: 25611
+      errors: null
+    metadata: null
+    src_diff: རིས་
+    diff_payload: ཆེན་
+  b4ce25ac91264364a62b7a618c3465b4:
+    span:
+      start: 25624
+      end: 25628
+      errors: null
+    metadata: null
+    src_diff: དག །
+    diff_payload: ཡིས། །
+  4b6ce3029b60441a873a3dfc4d009a6a:
+    span:
+      start: 25949
+      end: 25954
+      errors: null
+    metadata: null
+    src_diff: ཅད་འབ
+    diff_payload: ལ་བབ
+  02d816a53cb54bd3b36a539774733b4f:
+    span:
+      start: 25956
+      end: 25959
+      errors: null
+    metadata: null
+    src_diff: པས་
+    diff_payload: ཀྱང་
+  eff9046c81b845f38eee8fe7b74967ef:
+    span:
+      start: 25985
+      end: 25992
+      errors: null
+    metadata: null
+    src_diff: ལྟར་ཐལ་
+    diff_payload: སྐད་འདོམས་
+  d3a07adc22bf43a987ded48ddd76d73e:
+    span:
+      start: 25992
+      end: 25998
+      errors: null
+    metadata: null
+    src_diff: མོ་སྦྱ
+    diff_payload: པར་བྱ
+  12d7195284f34d43925c6395d884b1fc:
+    span:
+      start: 25998
+      end: 26001
+      errors: null
+    metadata: null
+    src_diff: ོར།
+    diff_payload: ེད།
+  b91501a109854a2c9d3ad5a31d1761d4:
+    span:
+      start: 26076
+      end: 26081
+      errors: null
+    metadata: null
+    src_diff: སེམས་
+    diff_payload: ལས་
+  887281e409f84d1e8d35a2df2a78bbde:
+    span:
+      start: 26266
+      end: 26271
+      errors: null
+    metadata: null
+    src_diff: ལྷུར་
+    diff_payload: མྱུར་
+  891c15754ede4ad0aa2282904c389563:
+    span:
+      start: 26673
+      end: 26677
+      errors: null
+    metadata: null
+    src_diff: འགྲོ
+    diff_payload: སོ
+  f0577bc8f87f4e80b66ac3a8a32e6813:
+    span:
+      start: 26709
+      end: 26712
+      errors: null
+    metadata: null
+    src_diff: བཞག
+    diff_payload: གཞག
+  59e25506e4fd4c7590426966f8187ae5:
+    span:
+      start: 26755
+      end: 26760
+      errors: null
+    metadata: null
+    src_diff: བརྟན་
+    diff_payload: བསྟན་
+  36bc18ab426e4531a3dae5c9d0fd37b4:
+    span:
+      start: 26978
+      end: 26985
+      errors: null
+    metadata: null
+    src_diff: ལྡན་དེ་
+    diff_payload: བཅས་དྲན་པ་རྟག་ཏུ་
+  bf8c348404f445a6801b00e7fb7dbec8:
+    span:
+      start: 27199
+      end: 27203
+      errors: null
+    metadata: null
+    src_diff: འདི་
+    diff_payload: འདེ་
+  a2fbb43c33294980ba14df2588995939:
+    span:
+      start: 27419
+      end: 27423
+      errors: null
+    metadata: null
+    src_diff: འགའ་
+    diff_payload: དགའ་
+  c97accc06f7d44cc9e7a8298e740bb19:
+    span:
+      start: 27627
+      end: 27630
+      errors: null
+    metadata: null
+    src_diff: དང་
+    diff_payload: ནས་
+  36da0d0393914a79a8e5418cadcaf982:
+    span:
+      start: 27886
+      end: 27888
+      errors: null
+    metadata: null
+    src_diff: ཀ་
+    diff_payload: ག་
+  272070d74880466f873d67a6ad5eac49:
+    span:
+      start: 27946
+      end: 27950
+      errors: null
+    metadata: null
+    src_diff: བརྟག
+    diff_payload: བཏག
+  a07abc8f2d4d45f0bdfd54941bbe7d15:
+    span:
+      start: 28095
+      end: 28098
+      errors: null
+    metadata: null
+    src_diff: བར།
+    diff_payload: བས།
+  0ca6f0747f794013b561979d84a42b9f:
+    span:
+      start: 28250
+      end: 28256
+      errors: null
+    metadata: null
+    src_diff: གཏང་པ་
+    diff_payload: བསྟང་བ་
+  6998d6cb288041f1b801052167d47427:
+    span:
+      start: 28900
+      end: 28905
+      errors: null
+    metadata: null
+    src_diff: འབྲུ་
+    diff_payload: འདྲུ་
+  748dda67145744978c8fe0588a024933:
+    span:
+      start: 29018
+      end: 29024
+      errors: null
+    metadata: null
+    src_diff: འགྱོད་
+    diff_payload: འགྱང་
+  ddf4a8819fdb403a8e0d37d5107e52cf:
+    span:
+      start: 29240
+      end: 29244
+      errors: null
+    metadata: null
+    src_diff: དང་།
+    diff_payload: དག།
+  52986d6e3bc54e638b570d0b0ca36a0d:
+    span:
+      start: 29526
+      end: 29531
+      errors: null
+    metadata: null
+    src_diff: གཟུང་
+    diff_payload: བཟུང་
+  c2b15c24e3c4488b8c8d8442bf81a10e:
+    span:
+      start: 29627
+      end: 29631
+      errors: null
+    metadata: null
+    src_diff: གཞན་
+    diff_payload: རབ་
+  1bf261828bb54b26be20501261f41563:
+    span:
+      start: 29817
+      end: 29821
+      errors: null
+    metadata: null
+    src_diff: ཤིང་
+    diff_payload: ཞིང་
+  2e72a53f96424e7d80dd1cf6fb2585d6:
+    span:
+      start: 29947
+      end: 29950
+      errors: null
+    metadata: null
+    src_diff: རི་
+    diff_payload: རབ་
+  73c96c978ebd45f29b92652a5e533c9d:
+    span:
+      start: 30023
+      end: 30027
+      errors: null
+    metadata: null
+    src_diff: བཤལ་
+    diff_payload: གཤལ་
+  be0aaaf7798c4143891bd942c249f690:
+    span:
+      start: 30039
+      end: 30043
+      errors: null
+    metadata: null
+    src_diff: ཡིད་
+    diff_payload: ལུས་
+  f1d6daa05f904712bf56ae0508e76d2c:
+    span:
+      start: 30844
+      end: 30847
+      errors: null
+    metadata: null
+    src_diff: འོ་
+    diff_payload: བོ་
+  48d468e09707496391302cee0e34616d:
+    span:
+      start: 31373
+      end: 31376
+      errors: null
+    metadata: null
+    src_diff: དེ།
+    diff_payload: ཏེ།
+  4e81e19b796d47849a7e0843124eafa8:
+    span:
+      start: 31661
+      end: 31667
+      errors: null
+    metadata: null
+    src_diff: སྒྲུབ་
+    diff_payload: འགྲུབ་
+  f307fa2c6b054a25ab960f7ebcd805dd:
+    span:
+      start: 32110
+      end: 32114
+      errors: null
+    metadata: null
+    src_diff: ལྟས་
+    diff_payload: ལྟར་
+  16e5f44adf3a4c6ca691d1c302b44481:
+    span:
+      start: 32596
+      end: 32598
+      errors: null
+    metadata: null
+    src_diff: བ་
+    diff_payload: ཅན་
+  2c73bda4ec5247f791bbfa14568e170d:
+    span:
+      start: 32624
+      end: 32628
+      errors: null
+    metadata: null
+    src_diff: ལྡང་
+    diff_payload: དགའ་
+  17c6006ae9434af2aca0a46cd8f22d9f:
+    span:
+      start: 32881
+      end: 32884
+      errors: null
+    metadata: null
+    src_diff: པར་
+    diff_payload: པས་
+  1af427cda75d48f3bbf790d324ee3634:
+    span:
+      start: 33221
+      end: 33225
+      errors: null
+    metadata: null
+    src_diff: གཏང་
+    diff_payload: བཏང་
+  3e86ce96252444a2b7037007509c8aae:
+    span:
+      start: 33290
+      end: 33294
+      errors: null
+    metadata: null
+    src_diff: གཏང་
+    diff_payload: བཏང་
+  091ecf3968c540beaef14e111bed8694:
+    span:
+      start: 33361
+      end: 33365
+      errors: null
+    metadata: null
+    src_diff: འཁར་
+    diff_payload: མཁར་
+  3f0466d46d68409e8d418fe2be4369d4:
+    span:
+      start: 33504
+      end: 33507
+      errors: null
+    metadata: null
+    src_diff: པས་
+    diff_payload: པར་
+  736eb6c0015844b49f664a0c8fac2593:
+    span:
+      start: 33578
+      end: 33582
+      errors: null
+    metadata: null
+    src_diff: སྤྱོ
+    diff_payload: མདོ
+  40fa4745e8044ea2831bc4a963d8e021:
+    span:
+      start: 33584
+      end: 33591
+      errors: null
+    metadata: null
+    src_diff: པ་ཡོངས་
+    diff_payload: སྔགས་
+  0299147d9c5c42b0ac43e0207af765d0:
+    span:
+      start: 33594
+      end: 33598
+      errors: null
+    metadata: null
+    src_diff: དོར་
+    diff_payload: དྲིད་
+  eae868d43ba049d5a3d15fb3fa154241:
+    span:
+      start: 33606
+      end: 33609
+      errors: null
+    metadata: null
+    src_diff: མདོ
+    diff_payload: སྤྱོ
+  f2b356575a874d3ca6b1db806db16631:
+    span:
+      start: 33610
+      end: 33618
+      errors: null
+    metadata: null
+    src_diff: དང་སྔགས་
+    diff_payload: པའང་ཡོངས་
+  7c8ce935bb8540989ae6530ed711a689:
+    span:
+      start: 33623
+      end: 33629
+      errors: null
+    metadata: null
+    src_diff: འདྲིད་
+    diff_payload: འདོར་
+  fd74f42835a549a888a35065309ec818:
+    span:
+      start: 33991
+      end: 33994
+      errors: null
+    metadata: null
+    src_diff: པས་
+    diff_payload: པའི་
+  b6f5dfe0ce81431d94dec90f958cd568:
+    span:
+      start: 34131
+      end: 34142
+      errors: null
+    metadata: null
+    src_diff: བརྡ་བྱས་ཏེ།
+    diff_payload: བརྣམས་བྱསྟེ།
+  270b5ff3d2db43e7b8b29942526ef2d3:
+    span:
+      start: 34153
+      end: 34159
+      errors: null
+    metadata: null
+    src_diff: བསྡམས་
+    diff_payload: བསྟམས་
+  5db7d4970bfe4db99c0c122d92f2c215:
+    span:
+      start: 34973
+      end: 34977
+      errors: null
+    metadata: null
+    src_diff: བཏང་
+    diff_payload: གཏང་
+  18e4d2dfdfab47d2a973703698802f4a:
+    span:
+      start: 35935
+      end: 35942
+      errors: null
+    metadata: null
+    src_diff: ཀུན་ཡང་
+    diff_payload: ཀྱང་
+  0300bcf07053402ba114a72384c30e3d:
+    span:
+      start: 36939
+      end: 36942
+      errors: null
+    metadata: null
+    src_diff: གལ་
+    diff_payload: འོན་
+  defadc22dd064e648486ff130c9e41e7:
+    span:
+      start: 36959
+      end: 36962
+      errors: null
+    metadata: null
+    src_diff: ནི།
+    diff_payload: ཡང་།
+  2c2979b39a9a493bbfcbcfc4542d8752:
+    span:
+      start: 36992
+      end: 36995
+      errors: null
+    metadata: null
+    src_diff: གམ་
+    diff_payload: དང་
+  70310fae7b9841e49c651e66b3ee38c6:
+    span:
+      start: 37245
+      end: 37249
+      errors: null
+    metadata: null
+    src_diff: ཀརྣ་
+    diff_payload: ཀརྞ་
+  9bc22bf68ad5411096818d1827138e30:
+    span:
+      start: 37262
+      end: 37264
+      errors: null
+    metadata: null
+    src_diff: བཅ
+    diff_payload: གཅ
+  5061006e58f341189dcf48677c5ec3b7:
+    span:
+      start: 37344
+      end: 37347
+      errors: null
+    metadata: null
+    src_diff: ནི་
+    diff_payload: ཏེ་
+  6a93beea541448549c00a2de110ef5d1:
+    span:
+      start: 37416
+      end: 37419
+      errors: null
+    metadata: null
+    src_diff: པས།
+    diff_payload: ཤིང་།
+  790502ccb4a94449a2f64562c5620cfe:
+    span:
+      start: 37477
+      end: 37483
+      errors: null
+    metadata: null
+    src_diff: བཀྲེས་
+    diff_payload: བསྐྲེས་
+  5d48a7de901c47ecba59ca08c2dab0ff:
+    span:
+      start: 37605
+      end: 37610
+      errors: null
+    metadata: null
+    src_diff: རྡེག་
+    diff_payload: རྟེག་
+  f0b6a67af9b248a2be952777fdfcc1a0:
+    span:
+      start: 37627
+      end: 37631
+      errors: null
+    metadata: null
+    src_diff: བཟེ་
+    diff_payload: གཟེ་
+  fe547e3e093d4cd3adbdb11353ea185c:
+    span:
+      start: 38399
+      end: 38403
+      errors: null
+    metadata: null
+    src_diff: འདི་
+    diff_payload: ནི་
+  1ee281ce8878486187a496f171006b0d:
+    span:
+      start: 38800
+      end: 38807
+      errors: null
+    metadata: null
+    src_diff: བསྐྱེད་
+    diff_payload: མེད་
+  1228a5f463e3411485536114d58fc836:
+    span:
+      start: 39029
+      end: 39031
+      errors: null
+    metadata: null
+    src_diff: བ།
+    diff_payload: པས།
+  dc5dd4cf2ee84080995dc57db9b2d589:
+    span:
+      start: 39046
+      end: 39050
+      errors: null
+    metadata: null
+    src_diff: བའང་
+    diff_payload: གང་
+  22bc128e99054f19a33a1f5518f7e7cb:
+    span:
+      start: 39158
+      end: 39160
+      errors: null
+    metadata: null
+    src_diff: ལ་
+    diff_payload: པ་
+  152b19c4497b4d41afc509ce091a23a3:
+    span:
+      start: 39616
+      end: 39621
+      errors: null
+    metadata: null
+    src_diff: སོམས་
+    diff_payload: སེམས་
+  6b0c7e763c3e4456a2f2f7ebc588301a:
+    span:
+      start: 40027
+      end: 40032
+      errors: null
+    metadata: null
+    src_diff: གསོད་
+    diff_payload: གནོད་
+  0e3d85db13d14e1f8da129645516de2b:
+    span:
+      start: 40037
+      end: 40039
+      errors: null
+    metadata: null
+    src_diff: པ།
+    diff_payload: ན།
+  9c3d1d0b99634378b4b085bf6546413f:
+    span:
+      start: 40506
+      end: 40510
+      errors: null
+    metadata: null
+    src_diff: ཉེས་
+    diff_payload: ཉིས་
+  6c89c779ddef4cdaa759acbbcefbd2dc:
+    span:
+      start: 40674
+      end: 40676
+      errors: null
+    metadata: null
+    src_diff: ག་
+    diff_payload: ཀའང་
+  3622bc304acd4b949ca83c9bea3be546:
+    span:
+      start: 40813
+      end: 40819
+      errors: null
+    metadata: null
+    src_diff: མདོངས་
+    diff_payload: ལྡོངས་
+  74010888e1f449eebe6a874607378a71:
+    span:
+      start: 41060
+      end: 41062
+      errors: null
+    metadata: null
+    src_diff: པ།
+    diff_payload: ན།
+  e00ea4ca37c24be1972ce0fd37cd7ae9:
+    span:
+      start: 41739
+      end: 41742
+      errors: null
+    metadata: null
+    src_diff: ནི་
+    diff_payload: འདི་
+  1df85651915643d794d0c4b65023b24e:
+    span:
+      start: 42414
+      end: 42417
+      errors: null
+    metadata: null
+    src_diff: སུ་
+    diff_payload: ན་
+  0c474735fc274129b284bc0048c99434:
+    span:
+      start: 42947
+      end: 42950
+      errors: null
+    metadata: null
+    src_diff: པས།
+    diff_payload: པའི།
+  04dd9aaa3b8346f6b0a3e2cc6e8f7f63:
+    span:
+      start: 43257
+      end: 43260
+      errors: null
+    metadata: null
+    src_diff: གས་
+    diff_payload: ཀས་
+  be6f72b803dc4572b6424f0ffb9d5c28:
+    span:
+      start: 43265
+      end: 43269
+      errors: null
+    metadata: null
+    src_diff: བྱས་
+    diff_payload: བྱེད་
+  18e68e697bfb41f59c6c31509edee708:
+    span:
+      start: 43883
+      end: 43892
+      errors: null
+    metadata: null
+    src_diff: གསད་བྱའི་
+    diff_payload: བསད་པའི་
+  cf478fb7f3bb4cbfb77354c7983091a1:
+    span:
+      start: 44156
+      end: 44161
+      errors: null
+    metadata: null
+    src_diff: མྱོང་
+    diff_payload: མྱོས་
+  7336671e1c734e82a1bed23ed4105b45:
+    span:
+      start: 44634
+      end: 44638
+      errors: null
+    metadata: null
+    src_diff: རྔན་
+    diff_payload: ངན་
+  cdcac7ba4bf34d629bf7fae5a2f2b95e:
+    span:
+      start: 44894
+      end: 44898
+      errors: null
+    metadata: null
+    src_diff: ན། །
+    diff_payload: ནས།
+  c614a49e512f4d16980c952142dca4b8:
+    span:
+      start: 45019
+      end: 45022
+      errors: null
+    metadata: null
+    src_diff: ཅི་
+    diff_payload: དེ་
+  e8f35455957f46a68efaa4b95077014b:
+    span:
+      start: 45061
+      end: 45064
+      errors: null
+    metadata: null
+    src_diff: ཁྱོ
+    diff_payload: ཁྲོ
+  bb2b8523cab749759ad9002e1460fca4:
+    span:
+      start: 45423
+      end: 45430
+      errors: null
+    metadata: null
+    src_diff: འདོར། །
+    diff_payload: འདོད།
+  bebfd2c9051341f0922c3bb482138cdc:
+    span:
+      start: 45452
+      end: 45454
+      errors: null
+    metadata: null
+    src_diff: པ།
+    diff_payload: ལ།
+  8564d5b9602f425993954ea82de56a3e:
+    span:
+      start: 46171
+      end: 46176
+      errors: null
+    metadata: null
+    src_diff: རྒྱན་
+    diff_payload: རྒྱལ་
+  0111483eb04b4bcdbef0f02ae6581921:
+    span:
+      start: 46228
+      end: 46232
+      errors: null
+    metadata: null
+    src_diff: ཅིང་
+    diff_payload: ཞིང་
+  839b42a45fee4c71b6d60aca2b669bd7:
+    span:
+      start: 46437
+      end: 46441
+      errors: null
+    metadata: null
+    src_diff: སྒྲ་
+    diff_payload: དགྲ་
+  5a85bfc44701469db469da2b0d7597f0:
+    span:
+      start: 46706
+      end: 46713
+      errors: null
+    metadata: null
+    src_diff: ཇི་ལྟར་
+    diff_payload: ཅི་ཕྱིར་
+  b3614de479374e83b090772de25c6a75:
+    span:
+      start: 46738
+      end: 46743
+      errors: null
+    metadata: null
+    src_diff: གྱུར་
+    diff_payload: བྱུང་
+  9502734b29fb4306a57838724c7c9537:
+    span:
+      start: 48071
+      end: 48074
+      errors: null
+    metadata: null
+    src_diff: ནི།
+    diff_payload: འདི།
+  d0edb339127e4e5b97b8d33a2f2219f4:
+    span:
+      start: 48268
+      end: 48272
+      errors: null
+    metadata: null
+    src_diff: བའི།
+    diff_payload: ཡི།
+  036d08f20c22462db9a994b64d92aa86:
+    span:
+      start: 48456
+      end: 48461
+      errors: null
+    metadata: null
+    src_diff: མཆོད་
+    diff_payload: བྱེད་
+  64acb9c66a904a5ea15738026ce5a729:
+    span:
+      start: 49135
+      end: 49138
+      errors: null
+    metadata: null
+    src_diff: བར་
+    diff_payload: པར་
+  c37ba8a044914eea957147dfb3501b25:
+    span:
+      start: 49212
+      end: 49215
+      errors: null
+    metadata: null
+    src_diff: ངག་
+    diff_payload: ཞིག་
+  912e921a0cf644bea85924787a2e81bd:
+    span:
+      start: 49496
+      end: 49500
+      errors: null
+    metadata: null
+    src_diff: དགུ་
+    diff_payload: མགུ་
+  61d68eaebb3f4e3c814223951514a7c8:
+    span:
+      start: 49504
+      end: 49507
+      errors: null
+    metadata: null
+    src_diff: ཏུ་
+    diff_payload: དུ་
+  fcea82fa8cd9409f9af1abb348ed5ff7:
+    span:
+      start: 49755
+      end: 49757
+      errors: null
+    metadata: null
+    src_diff: པ་
+    diff_payload: དབང་
+  ab87501388014ba3b37e58079a19c3e1:
+    span:
+      start: 49970
+      end: 49972
+      errors: null
+    metadata: null
+    src_diff: ལ་
+    diff_payload: བ་
+  a048ccaeebb44347b438f28e0846c35d:
+    span:
+      start: 50081
+      end: 50085
+      errors: null
+    metadata: null
+    src_diff: ཐུབ་
+    diff_payload: ཀུན་
+  dd7a8425fc15426c9e01457900cb7806:
+    span:
+      start: 50188
+      end: 50193
+      errors: null
+    metadata: null
+    src_diff: རྡོག་
+    diff_payload: རྟོག་
+  52ea966b9f52465b85a7a519ce508a39:
+    span:
+      start: 50214
+      end: 50217
+      errors: null
+    metadata: null
+    src_diff: གམ།
+    diff_payload: གང་།
+  ff94ce896ea94243bff3631c7a3c9fe4:
+    span:
+      start: 50232
+      end: 50236
+      errors: null
+    metadata: null
+    src_diff: བསྡོ
+    diff_payload: བསྟོ
+  03edaa39e7734056840707033cbb6e96:
+    span:
+      start: 50731
+      end: 50734
+      errors: null
+    metadata: null
+    src_diff: མཐུ
+    diff_payload: དཔུ
+  a6587a1225284b06b68c48d227c472e2:
+    span:
+      start: 50854
+      end: 50857
+      errors: null
+    metadata: null
+    src_diff: དེ་
+    diff_payload: ཇི་
+  f75a0722f4ea44228f1ee1c4b37874c4:
+    span:
+      start: 51233
+      end: 51239
+      errors: null
+    metadata: null
+    src_diff: སྐྱེད་
+    diff_payload: སྐྱིད་
+  837919383f174769b0ee5e079f04c0ab:
+    span:
+      start: 51310
+      end: 51314
+      errors: null
+    metadata: null
+    src_diff: ཡིས།
+    diff_payload: དང་།
+  00141c45f79848eab730f9b8c8336b8e:
+    span:
+      start: 51641
+      end: 51644
+      errors: null
+    metadata: null
+    src_diff: བྱ།
+    diff_payload: ན།
+  f153eb07325946868fb425dc894491f0:
+    span:
+      start: 51727
+      end: 51732
+      errors: null
+    metadata: null
+    src_diff: གཉིད་
+    diff_payload: གཉིས་
+  f7d5d08b578e4c0c904257601b5ef316:
+    span:
+      start: 51795
+      end: 51797
+      errors: null
+    metadata: null
+    src_diff: ཉེ
+    diff_payload: ངེ
+  f742b9122da74be0abc944f5208361cf:
+    span:
+      start: 51798
+      end: 51801
+      errors: null
+    metadata: null
+    src_diff: བར་
+    diff_payload: པར་
+  0f8abb67524d403f898c7cc315a9ad36:
+    span:
+      start: 52294
+      end: 52299
+      errors: null
+    metadata: null
+    src_diff: ཕྱེད་
+    diff_payload: བྱེད་
+  7a09eaf126a64f5898d7e2ec3b60f504:
+    span:
+      start: 52316
+      end: 52320
+      errors: null
+    metadata: null
+    src_diff: གློ་
+    diff_payload: བློ་
+  765efb9ea4db474f924b655279493d8b:
+    span:
+      start: 52507
+      end: 52509
+      errors: null
+    metadata: null
+    src_diff: བ་
+    diff_payload: པ་
+  1f521cc1fdbe47509d26fc5a3c917f6f:
+    span:
+      start: 52617
+      end: 52622
+      errors: null
+    metadata: null
+    src_diff: འགྲེ་
+    diff_payload: འདྲེ་
+  a257aa7d0ff44d94bca3eb50df70bd4f:
+    span:
+      start: 52855
+      end: 52859
+      errors: null
+    metadata: null
+    src_diff: བཟེ་
+    diff_payload: གཟེ་
+  e5f56799d66c473ba396159024550a44:
+    span:
+      start: 52894
+      end: 52899
+      errors: null
+    metadata: null
+    src_diff: བཞིན་
+    diff_payload: བཞིང་
+  d84471f7e1e34c8ca09a49d0f0580116:
+    span:
+      start: 52990
+      end: 52996
+      errors: null
+    metadata: null
+    src_diff: སྒྲོལ།
+    diff_payload: གྲོལ།
+  bd4f106af5d640bca8f35949a096418b:
+    span:
+      start: 53390
+      end: 53393
+      errors: null
+    metadata: null
+    src_diff: བས་
+    diff_payload: པས་
+  6075a1871ff946a6a804bcc46ca3915c:
+    span:
+      start: 53638
+      end: 53643
+      errors: null
+    metadata: null
+    src_diff: འཐོབ།
+    diff_payload: མཐོང་།
+  243ca88ee8574fa8bbb2e79b5f80d7f8:
+    span:
+      start: 53794
+      end: 53798
+      errors: null
+    metadata: null
+    src_diff: བཅད་
+    diff_payload: བཅས་
+  6838b480dc6342a480d9bbb5bc476397:
+    span:
+      start: 53800
+      end: 53806
+      errors: null
+    metadata: null
+    src_diff: དང་། །
+    diff_payload: ན།
+  0410abda0be14aef8112fd84c33df2eb:
+    span:
+      start: 54523
+      end: 54528
+      errors: null
+    metadata: null
+    src_diff: སེམས་
+    diff_payload: ལུས་
+  af23f90a79b9488caa03a196e4330b8d:
+    span:
+      start: 54531
+      end: 54535
+      errors: null
+    metadata: null
+    src_diff: ལུས་
+    diff_payload: སེམས་
+  773ec5c5ffb9492a800433bc194b3f29:
+    span:
+      start: 54768
+      end: 54771
+      errors: null
+    metadata: null
+    src_diff: པས་
+    diff_payload: ལས་
+  72acc1a4ff1547dfbcba74e0cd122045:
+    span:
+      start: 54913
+      end: 54918
+      errors: null
+    metadata: null
+    src_diff: གྲུབ་
+    diff_payload: སྒྲུབ་
+  e3a5d9aeb30e4e9f889046168c014c61:
+    span:
+      start: 55084
+      end: 55088
+      errors: null
+    metadata: null
+    src_diff: ལེན་
+    diff_payload: བླང་
+  66e4ea3028484379b72ad35125b9587f:
+    span:
+      start: 55346
+      end: 55351
+      errors: null
+    metadata: null
+    src_diff: ཕྱིར་
+    diff_payload: སྟེང་
+  a0c4e4e750a044ef86e60c390f29ee50:
+    span:
+      start: 55479
+      end: 55481
+      errors: null
+    metadata: null
+    src_diff: ནི
+    diff_payload: གི
+  b0a2a9b0ac0c476aae4b51187c7ca838:
+    span:
+      start: 55548
+      end: 55551
+      errors: null
+    metadata: null
+    src_diff: ནི།
+    diff_payload: ཡང་།
+  05c1baa9cdf0438cbe521fadf9cac48d:
+    span:
+      start: 55739
+      end: 55744
+      errors: null
+    metadata: null
+    src_diff: བྱིན་
+    diff_payload: བྱས་
+  5efe86bebd704f0da484b99a97213bb7:
+    span:
+      start: 55980
+      end: 55983
+      errors: null
+    metadata: null
+    src_diff: ཡི་
+    diff_payload: ཡང་
+  e876c898d4fc4ac09cc5522ff7ee753e:
+    span:
+      start: 56790
+      end: 56795
+      errors: null
+    metadata: null
+    src_diff: ལྷུང་
+    diff_payload: ལྟུང་
+  ebd4c598dbcc43ff8fb4391f84cd442a:
+    span:
+      start: 56964
+      end: 56967
+      errors: null
+    metadata: null
+    src_diff: མམ་
+    diff_payload: འམ་
+  6313c5a9bbb24cc08296802e42653ce3:
+    span:
+      start: 57149
+      end: 57155
+      errors: null
+    metadata: null
+    src_diff: སྒྲུབ་
+    diff_payload: འགྲུབ་
+  f010df863a434915bced65ac9fa83fdc:
+    span:
+      start: 57185
+      end: 57191
+      errors: null
+    metadata: null
+    src_diff: པས་ཏེ།
+    diff_payload: པསྟེ།
+  07a70cc92a78444191ec04f877449056:
+    span:
+      start: 57461
+      end: 57468
+      errors: null
+    metadata: null
+    src_diff: བྱས་ཏེ།
+    diff_payload: བྱེད་དེ།
+  b31eb841907440c386f53cf5636924ef:
+    span:
+      start: 57764
+      end: 57767
+      errors: null
+    metadata: null
+    src_diff: བྱ་
+    diff_payload: པ་
+  a3cb04b1539d4888a1b2fe4d066eb012:
+    span:
+      start: 57795
+      end: 57797
+      errors: null
+    metadata: null
+    src_diff: ན།
+    diff_payload: ཏེ།
+  d1c941794d6848eabad3a77faac73fa3:
+    span:
+      start: 57912
+      end: 57916
+      errors: null
+    metadata: null
+    src_diff: གིས།
+    diff_payload: པས།
+  518d1dd5d4414ed78daefcbebc6c6ac7:
+    span:
+      start: 58160
+      end: 58163
+      errors: null
+    metadata: null
+    src_diff: ཟས་
+    diff_payload: ཟན་
+  7d70e70ac51d44d1acd86f9158c82f8e:
+    span:
+      start: 58367
+      end: 58369
+      errors: null
+    metadata: null
+    src_diff: ནི
+    diff_payload: ཉི
+  6890fee7a5164f70aad2cbb6ae77a85e:
+    span:
+      start: 58567
+      end: 58570
+      errors: null
+    metadata: null
+    src_diff: པས་
+    diff_payload: པའི་
+  24876f534fa54e9898320da8207821b1:
+    span:
+      start: 58593
+      end: 58598
+      errors: null
+    metadata: null
+    src_diff: ཚོགས་
+    diff_payload: ཕྱོགས་
+  03d3bf698d354dbea55d4edc2104b26d:
+    span:
+      start: 58941
+      end: 58945
+      errors: null
+    metadata: null
+    src_diff: བའི་
+    diff_payload: པའི་
+  812e8bd93c0944c696dd0cc2915570c2:
+    span:
+      start: 59341
+      end: 59344
+      errors: null
+    metadata: null
+    src_diff: ཡང་
+    diff_payload: ནི་
+  2f6d8b03c63d414892d9c291bf01e8af:
+    span:
+      start: 59471
+      end: 59476
+      errors: null
+    metadata: null
+    src_diff: རྙིང་
+    diff_payload: སྙིང་
+  f0485b9402ad45cca4d357c79443f2ea:
+    span:
+      start: 59508
+      end: 59510
+      errors: null
+    metadata: null
+    src_diff: ཁ་
+    diff_payload: ག་
+  20701940b95d435d92827cf90b7cd261:
+    span:
+      start: 59541
+      end: 59546
+      errors: null
+    metadata: null
+    src_diff: གཟུར་
+    diff_payload: བཟུར་
+  cce8466f15c848289980cc05884b598c:
+    span:
+      start: 59574
+      end: 59579
+      errors: null
+    metadata: null
+    src_diff: གཞོམ་
+    diff_payload: འཇེབས་
+  c4f2af151ac447b49b73720ff1355717:
+    span:
+      start: 59742
+      end: 59744
+      errors: null
+    metadata: null
+    src_diff: ནི
+    diff_payload: གི
+  6359197439f64394b4e6cc7b7c52ce41:
+    span:
+      start: 59824
+      end: 59829
+      errors: null
+    metadata: null
+    src_diff: ཡུངས་
+    diff_payload: ཉུངས་
+  22912482ee8b4a1ba9f016684e1b0069:
+    span:
+      start: 59879
+      end: 59882
+      errors: null
+    metadata: null
+    src_diff: དེ།
+    diff_payload: སྟེ།
+  2d40871a4b68403681a72787c6a224ab:
+    span:
+      start: 60363
+      end: 60367
+      errors: null
+    metadata: null
+    src_diff: ཉིད་
+    diff_payload: གིས་
+  7fdaaf2f577c47adaa153f9e869c1374:
+    span:
+      start: 60646
+      end: 60649
+      errors: null
+    metadata: null
+    src_diff: བཞག
+    diff_payload: གཞག
+  6ae478e9c5ae4c219023e577fe2d176e:
+    span:
+      start: 60773
+      end: 60783
+      errors: null
+    metadata: null
+    src_diff: འཇིག་རྟེན་
+    diff_payload: སྡུག་བསྔལ་
+  caf1a40ef71d435398258c1d1a914a66:
+    span:
+      start: 60881
+      end: 60885
+      errors: null
+    metadata: null
+    src_diff: སྟེ།
+    diff_payload: ཏེ།
+  83e640a2d69c4c15a8d990a70c707063:
+    span:
+      start: 61158
+      end: 61162
+      errors: null
+    metadata: null
+    src_diff: ཕྲག་
+    diff_payload: དག་
+  e9dfc670f62044a995352dc6cadb4b92:
+    span:
+      start: 61647
+      end: 61653
+      errors: null
+    metadata: null
+    src_diff: བསྟེན་
+    diff_payload: བརྟེན་
+  f0096a0085684c3697878c904ae53e6b:
+    span:
+      start: 61685
+      end: 61689
+      errors: null
+    metadata: null
+    src_diff: མཛའ་
+    diff_payload: མཛར་
+  8c70cac078294fbeb189afaf71fa3853:
+    span:
+      start: 61711
+      end: 61714
+      errors: null
+    metadata: null
+    src_diff: ནི་
+    diff_payload: གི་
+  8c7eb3ab1c9e49de892ae2ac9ffe330a:
+    span:
+      start: 61882
+      end: 61886
+      errors: null
+    metadata: null
+    src_diff: འགྲོ
+    diff_payload: འདོ
+  a710476cd6b04457b7cc56e36fecff66:
+    span:
+      start: 61916
+      end: 61919
+      errors: null
+    metadata: null
+    src_diff: དང་
+    diff_payload: ལ་
+  5a8daf199be74f86b34f45721ad35ca5:
+    span:
+      start: 62318
+      end: 62321
+      errors: null
+    metadata: null
+    src_diff: བར།
+    diff_payload: བས།
+  5829f746cb4b483db6ad16d444c896c9:
+    span:
+      start: 62636
+      end: 62643
+      errors: null
+    metadata: null
+    src_diff: བསྡོངས་
+    diff_payload: བསྟོངས་
+  ba6e90deec4d4542be3b319a00191ff6:
+    span:
+      start: 62681
+      end: 62685
+      errors: null
+    metadata: null
+    src_diff: ཅིང་
+    diff_payload: ཞིང་
+  14b149cebad6466ca31d889157541503:
+    span:
+      start: 63317
+      end: 63326
+      errors: null
+    metadata: null
+    src_diff: པ་འགའ་ཡང་
+    diff_payload: དང་
+  12bf70d4f0d34be994e5755a7f7f9b22:
+    span:
+      start: 63331
+      end: 63339
+      errors: null
+    metadata: null
+    src_diff: མིན་ཞེས།
+    diff_payload: མེད་ཅེས།
+  cae0435b6a2c4c11ac95d95a4456930b:
+    span:
+      start: 63392
+      end: 63397
+      errors: null
+    metadata: null
+    src_diff: རྣམས་
+    diff_payload: དག་
+  33dc16b35c9f4a698bc171ae6b74c11f:
+    span:
+      start: 63783
+      end: 63787
+      errors: null
+    metadata: null
+    src_diff: འདི་
+    diff_payload: ནི་
+  b403d47720df401fb7e811e31185394d:
+    span:
+      start: 63900
+      end: 63904
+      errors: null
+    metadata: null
+    src_diff: ཆོས་
+    diff_payload: ཚོག་
+  a6a2ad97676745fb9b523a7357776099:
+    span:
+      start: 64163
+      end: 64166
+      errors: null
+    metadata: null
+    src_diff: དག་
+    diff_payload: ལྟ་
+  413e27812484432aa3ee848467dd046f:
+    span:
+      start: 64703
+      end: 64707
+      errors: null
+    metadata: null
+    src_diff: འདི་
+    diff_payload: འདེ་
+  732041f9a94c46ac9d3ebcf201785359:
+    span:
+      start: 64815
+      end: 64821
+      errors: null
+    metadata: null
+    src_diff: སྐྱིད་
+    diff_payload: སྐྱེད་
+  0c0aeb05342840f881d1f625b3b98f1c:
+    span:
+      start: 64893
+      end: 64895
+      errors: null
+    metadata: null
+    src_diff: ནི
+    diff_payload: གྱི
+  42d21697fe0a464a839a3f07e05b99f5:
+    span:
+      start: 64988
+      end: 64991
+      errors: null
+    metadata: null
+    src_diff: ཏེ་
+    diff_payload: དེ་
+  b8554cee3ae148afb3837e7970c9548d:
+    span:
+      start: 65060
+      end: 65065
+      errors: null
+    metadata: null
+    src_diff: འདིར་
+    diff_payload: འདིས་
+  ce15862061fd4982a7bfbd914993995d:
+    span:
+      start: 65220
+      end: 65226
+      errors: null
+    metadata: null
+    src_diff: འཛོམས་
+    diff_payload: གཟེམས་
+  3c20857ed1de49f9ae48fce9dfaa95c0:
+    span:
+      start: 65301
+      end: 65307
+      errors: null
+    metadata: null
+    src_diff: འཁྱུད་
+    diff_payload: བཞུད་
+  fe09685d6a3e4519974c7ab0a86a70db:
+    span:
+      start: 65631
+      end: 65636
+      errors: null
+    metadata: null
+    src_diff: རྒོད་
+    diff_payload: རྒོས་
+  65f09ed1566c43bf9e854c63412ce229:
+    span:
+      start: 65641
+      end: 65645
+      errors: null
+    metadata: null
+    src_diff: བསལ་
+    diff_payload: གསལ་
+  8407afca4c444f64af37c1dfd245c62a:
+    span:
+      start: 65672
+      end: 65681
+      errors: null
+    metadata: null
+    src_diff: འབྱེར་བར་
+    diff_payload: འབྱེད་པར་
+  e9c3770bf76d40b1b9098d0c411ee5c2:
+    span:
+      start: 65717
+      end: 65720
+      errors: null
+    metadata: null
+    src_diff: གང་
+    diff_payload: གའ་
+  173b1c9cfb4645fa87d7b14ac3f1461e:
+    span:
+      start: 66471
+      end: 66476
+      errors: null
+    metadata: null
+    src_diff: གཟེབ་
+    diff_payload: བཟེབ་
+  fb3099f9bf66456ebe8c8b51de3a530f:
+    span:
+      start: 66595
+      end: 66599
+      errors: null
+    metadata: null
+    src_diff: གཏན་
+    diff_payload: བརྟན་
+  0d57d71b6d424ab0bfbc467194b1c775:
+    span:
+      start: 66716
+      end: 66719
+      errors: null
+    metadata: null
+    src_diff: ཀོ།
+    diff_payload: གོ།
+  d5840390e6f44151be5c0cdb2aff0141:
+    span:
+      start: 66759
+      end: 66764
+      errors: null
+    metadata: null
+    src_diff: ཀོ་ཇི
+    diff_payload: གོ་ཅི
+  84a18765f1d44f63a5adece794ff33bd:
+    span:
+      start: 66765
+      end: 66769
+      errors: null
+    metadata: null
+    src_diff: ལྟར་
+    diff_payload: མི་
+  b69a1b4743a84d76b645a61a11f0981d:
+    span:
+      start: 67024
+      end: 67028
+      errors: null
+    metadata: null
+    src_diff: བའི།
+    diff_payload: བའོ།
+  9f595fbef65a422cad4fac19b92ec480:
+    span:
+      start: 67305
+      end: 67310
+      errors: null
+    metadata: null
+    src_diff: ཁྱོད་
+    diff_payload: ཡོད་
+  d566393b83c04f6696cd71d61fc9be7b:
+    span:
+      start: 67463
+      end: 67465
+      errors: null
+    metadata: null
+    src_diff: ཉི
+    diff_payload: གི
+  3147aa2729eb4b61921dd9e7144a7a39:
+    span:
+      start: 67658
+      end: 67663
+      errors: null
+    metadata: null
+    src_diff: བཙོག་
+    diff_payload: བརྩོག་
+  e3b397c96da24901a3cb34065158be55:
+    span:
+      start: 67964
+      end: 67972
+      errors: null
+    metadata: null
+    src_diff: དེས་གཞན་
+    diff_payload: ཡིས་གཞད་
+  0866377a977442cea5353f310beefca5:
+    span:
+      start: 68075
+      end: 68080
+      errors: null
+    metadata: null
+    src_diff: སྲེག་
+    diff_payload: སྲེད་
+  91d39fc1ca9b40e685fc56450769f636:
+    span:
+      start: 68086
+      end: 68089
+      errors: null
+    metadata: null
+    src_diff: ཇི་
+    diff_payload: ཅི་
+  8fa215dc6dc643ddbb1230589d8ec741:
+    span:
+      start: 68271
+      end: 68287
+      errors: null
+    metadata: null
+    src_diff: དྲིས། །བསྒོས་པས་
+    diff_payload: དྲིས་བསྒོས་གཅེར་
+  980b92008b574b2993964a8cf3e7f97f:
+    span:
+      start: 68322
+      end: 68328
+      errors: null
+    metadata: null
+    src_diff: པ་ཉིད་
+    diff_payload: བཅས་
+  2d25fff845fb46eeadfe9af3c97048ec:
+    span:
+      start: 68360
+      end: 68363
+      errors: null
+    metadata: null
+    src_diff: དུ།
+    diff_payload: ན།
+  c1a407a5b533414291779f6290ffa62f:
+    span:
+      start: 68462
+      end: 68466
+      errors: null
+    metadata: null
+    src_diff: འབའ་
+    diff_payload: འགའ་
+  059fa1c0e1c04239bd565804db1d0a91:
+    span:
+      start: 68664
+      end: 68668
+      errors: null
+    metadata: null
+    src_diff: པའི་
+    diff_payload: པས་
+  dafc136ec4ed4114a9f670ec19dd2c8a:
+    span:
+      start: 68722
+      end: 68729
+      errors: null
+    metadata: null
+    src_diff: འདི་ཅི་
+    diff_payload: འདིར་
+  bd74158bd043436d97cf32f344d1655a:
+    span:
+      start: 68750
+      end: 68753
+      errors: null
+    metadata: null
+    src_diff: ཚེ་
+    diff_payload: ཚིག་
+  60153263dd1d4ecd908cab1a53876d82:
+    span:
+      start: 69037
+      end: 69042
+      errors: null
+    metadata: null
+    src_diff: འདོད་
+    diff_payload: འདོགས་
+  ce1b2b052a7d4b8ea955709509336f6e:
+    span:
+      start: 69071
+      end: 69075
+      errors: null
+    metadata: null
+    src_diff: བཙོང
+    diff_payload: བརྩོང
+  4f315b4f0a694f5087a428972eaa6758:
+    span:
+      start: 69076
+      end: 69078
+      errors: null
+    metadata: null
+    src_diff: བ་
+    diff_payload: པ་
+  02a54efb367745228f308afb4d2f5edd:
+    span:
+      start: 69154
+      end: 69158
+      errors: null
+    metadata: null
+    src_diff: བཙོང
+    diff_payload: བརྩོང
+  3a3b6b5fa72a4b80867bbd7f40c6f52a:
+    span:
+      start: 69159
+      end: 69163
+      errors: null
+    metadata: null
+    src_diff: ཞིང་
+    diff_payload: ཤིང་
+  8edeabc484c640a4adb5f09ca8a074cd:
+    span:
+      start: 69311
+      end: 69316
+      errors: null
+    metadata: null
+    src_diff: སྲོག་
+    diff_payload: སྲེག་
+  882211d3db0a40af95ab61bbe99e82bc:
+    span:
+      start: 70600
+      end: 70603
+      errors: null
+    metadata: null
+    src_diff: པར་
+    diff_payload: པའི་
+  ccf63c7d6ca747ac87bacd73a2d5c04e:
+    span:
+      start: 70672
+      end: 70674
+      errors: null
+    metadata: null
+    src_diff: ' །'
+    diff_payload: པའི།
+  f0a9627caffd4421bc4a681bdf07eacf:
+    span:
+      start: 71038
+      end: 71045
+      errors: null
+    metadata: null
+    src_diff: བ་ཐ་དད་
+    diff_payload: པའི་
+  9a56347a92eb4e898ccb793a09ec766c:
+    span:
+      start: 71292
+      end: 71295
+      errors: null
+    metadata: null
+    src_diff: དེ།
+    diff_payload: ཏེ།
+  9d69d924d9704bd1ac752aa8a2b903a1:
+    span:
+      start: 72216
+      end: 72220
+      errors: null
+    metadata: null
+    src_diff: སྤང་
+    diff_payload: དབང་
+  bf89249203b7425ea339f2030e0f0983:
+    span:
+      start: 72325
+      end: 72329
+      errors: null
+    metadata: null
+    src_diff: དེར་
+    diff_payload: དེས་
+  8665e9658bd243cab939b183cc77f795:
+    span:
+      start: 72493
+      end: 72495
+      errors: null
+    metadata: null
+    src_diff: པ།
+    diff_payload: བས།
+  b90f393d74ce4a36867edf7d0ce7ef6d:
+    span:
+      start: 72632
+      end: 72635
+      errors: null
+    metadata: null
+    src_diff: པོ་
+    diff_payload: དུ་
+  29fbd61de84248629199cdd3c8f6081b:
+    span:
+      start: 72952
+      end: 72955
+      errors: null
+    metadata: null
+    src_diff: པར་
+    diff_payload: ནི་
+  553a65048f0a4f0e80b8503829ef78d2:
+    span:
+      start: 73049
+      end: 73053
+      errors: null
+    metadata: null
+    src_diff: ལྟས་
+    diff_payload: ལྟར་
+  a7d8316800164b9ea341f371fba91c78:
+    span:
+      start: 73086
+      end: 73089
+      errors: null
+    metadata: null
+    src_diff: དང་
+    diff_payload: དེ་
+  9ea8956ef02247d48b59e3465cfbc37a:
+    span:
+      start: 73467
+      end: 73471
+      errors: null
+    metadata: null
+    src_diff: བཞག་
+    diff_payload: གཞག་
+  ff44adfd976e4af1ab13f74653aaf583:
+    span:
+      start: 74192
+      end: 74197
+      errors: null
+    metadata: null
+    src_diff: ལྡོག་
+    diff_payload: བཟློག་
+  22d7c7b912d04be287d87b06b0411e49:
+    span:
+      start: 74372
+      end: 74375
+      errors: null
+    metadata: null
+    src_diff: བྱ་
+    diff_payload: བར་
+  535afedf18db42e8a577b9347152d4e7:
+    span:
+      start: 74950
+      end: 74954
+      errors: null
+    metadata: null
+    src_diff: ཅེས།
+    diff_payload: ཞེས།
+  3e54239dfa3c42caadb38c8ee123ca22:
+    span:
+      start: 75032
+      end: 75035
+      errors: null
+    metadata: null
+    src_diff: པར་
+    diff_payload: བར་
+  1f11aecd7df8491ab43306a5390004d8:
+    span:
+      start: 75740
+      end: 75744
+      errors: null
+    metadata: null
+    src_diff: རྔན་
+    diff_payload: ངན་
+  a48d687f223d4d2abdf1ff7fca52849f:
+    span:
+      start: 75882
+      end: 75888
+      errors: null
+    metadata: null
+    src_diff: རྒྱུས།
+    diff_payload: རྒྱུད།
+  14ea37e0fef44731b6bb13480aa1a714:
+    span:
+      start: 75937
+      end: 75941
+      errors: null
+    metadata: null
+    src_diff: འཚེ་
+    diff_payload: འཚོ་
+  7d847b0b91d24f6f9161fa2ff78c2531:
+    span:
+      start: 76173
+      end: 76177
+      errors: null
+    metadata: null
+    src_diff: ལྟར་
+    diff_payload: ལྟས་
+  d57d3453c3b54b83b4dcf526494a5b69:
+    span:
+      start: 76181
+      end: 76186
+      errors: null
+    metadata: null
+    src_diff: གནོད་
+    diff_payload: ཉིད་
+  7a0ff7b9f7ae4bd59c2b4d766c986664:
+    span:
+      start: 76244
+      end: 76254
+      errors: null
+    metadata: null
+    src_diff: གཏང་བྱ་དང་
+    diff_payload: བཏང་བར་
+  950f5f544de14fc8a0455ab42a41d2ba:
+    span:
+      start: 76275
+      end: 76280
+      errors: null
+    metadata: null
+    src_diff: གཟུང་
+    diff_payload: བཟུང་
+  5a34b217eb564a6da9cc94e049bc8f6f:
+    span:
+      start: 76444
+      end: 76447
+      errors: null
+    metadata: null
+    src_diff: པར་
+    diff_payload: པའི་
+  626857fb474b49b3ad507388d4300291:
+    span:
+      start: 76533
+      end: 76537
+      errors: null
+    metadata: null
+    src_diff: སྟེ།
+    diff_payload: ས་ཏེ།
+  996b22af0cf444a780a344317d71eee3:
+    span:
+      start: 76543
+      end: 76545
+      errors: null
+    metadata: null
+    src_diff: གི
+    diff_payload: ཉི
+  62a2fd8a6dae44449843926104c73114:
+    span:
+      start: 77087
+      end: 77091
+      errors: null
+    metadata: null
+    src_diff: གུད་
+    diff_payload: རྒུད་
+  1b958c98023d477aa4ab5dd702ec0f03:
+    span:
+      start: 77399
+      end: 77403
+      errors: null
+    metadata: null
+    src_diff: བདོ་
+    diff_payload: སྡོ་
+  e057d6a7202c4f76b71fabd403415eb4:
+    span:
+      start: 77449
+      end: 77451
+      errors: null
+    metadata: null
+    src_diff: ཉི
+    diff_payload: གི
+  f1b22644e32849a988c3c8c5b95ca1f2:
+    span:
+      start: 77473
+      end: 77476
+      errors: null
+    metadata: null
+    src_diff: གི་
+    diff_payload: ནི་
+  52508978fc49495bb14f3e7f188397f5:
+    span:
+      start: 77570
+      end: 77574
+      errors: null
+    metadata: null
+    src_diff: བསལ་
+    diff_payload: གསལ་
+  4e37c2a84d1148eca76e0dfe337f69e9:
+    span:
+      start: 77845
+      end: 77850
+      errors: null
+    metadata: null
+    src_diff: སྨོད་
+    diff_payload: གནོད་
+  076a9fa5b1c94b44af1ffafb2c457ac5:
+    span:
+      start: 77910
+      end: 77919
+      errors: null
+    metadata: null
+    src_diff: ཅེས་གྲག །
+    diff_payload: ཞེས་གྲགས།།
+  bba57bb93b434a99a6d8dc26b31a6215:
+    span:
+      start: 77990
+      end: 77997
+      errors: null
+    metadata: null
+    src_diff: བསྒྲགས་
+    diff_payload: གྲགས་
+  6873eb9f1fe34aa6833a598c5540188d:
+    span:
+      start: 78054
+      end: 78058
+      errors: null
+    metadata: null
+    src_diff: པའི།
+    diff_payload: བའི།
+  34f886c8aa8f41cbb901227f2799c3f6:
+    span:
+      start: 78209
+      end: 78212
+      errors: null
+    metadata: null
+    src_diff: ལས་
+    diff_payload: བས་
+  215722ab2a4f4c13b4f82b91af77d176:
+    span:
+      start: 78233
+      end: 78238
+      errors: null
+    metadata: null
+    src_diff: གནོད་
+    diff_payload: སྣོད་
+  57663d07882a4ede8d1a12c4fa722d39:
+    span:
+      start: 78358
+      end: 78362
+      errors: null
+    metadata: null
+    src_diff: འདས་
+    diff_payload: འདའ་
+  9cb5507ec1e94cb2938362c42270d3db:
+    span:
+      start: 78392
+      end: 78396
+      errors: null
+    metadata: null
+    src_diff: བུར།
+    diff_payload: བུས།
+  0007e1a588cd49fba9a051139c00aa7d:
+    span:
+      start: 78640
+      end: 78642
+      errors: null
+    metadata: null
+    src_diff: འད
+    diff_payload: སྲིད
+  f307a402a7d04a639c35a49555836be1:
+    span:
+      start: 78671
+      end: 78675
+      errors: null
+    metadata: null
+    src_diff: འདི་
+    diff_payload: ཇི་
+  c370383dc8214b48995e2946ca5dbc57:
+    span:
+      start: 78686
+      end: 78688
+      errors: null
+    metadata: null
+    src_diff: གི
+    diff_payload: ནི
+  ba60497da44d4966a7a495004788fd44:
+    span:
+      start: 79353
+      end: 79356
+      errors: null
+    metadata: null
+    src_diff: ཅན་
+    diff_payload: ཅས་
+  4a7c00ecaf7e4296b93cc7b2fcc7ee83:
+    span:
+      start: 79761
+      end: 79765
+      errors: null
+    metadata: null
+    src_diff: སྟེ།
+    diff_payload: ཏེ།
+  99a462d120ba46daa5a8e8a68115b53c:
+    span:
+      start: 79782
+      end: 79786
+      errors: null
+    metadata: null
+    src_diff: གཅད་
+    diff_payload: བཅད་
+  a10ef28dca684c51ac7b0d440bd91785:
+    span:
+      start: 79819
+      end: 79824
+      errors: null
+    metadata: null
+    src_diff: སེམས་
+    diff_payload: ཡིད་
+  b2965e62b89e4217b18f0342feece825:
+    span:
+      start: 79865
+      end: 79871
+      errors: null
+    metadata: null
+    src_diff: བསྟེན་
+    diff_payload: བརྟེན་
+  62fe45e04b874b35aa56674730ddc7b3:
+    span:
+      start: 79888
+      end: 79892
+      errors: null
+    metadata: null
+    src_diff: གཅད་
+    diff_payload: བཅད་
+  178beaef315b42e5b6e44958aa44bfbd:
+    span:
+      start: 80096
+      end: 80100
+      errors: null
+    metadata: null
+    src_diff: གིས།
+    diff_payload: ཀྱིས།
+  5044de4b1c77415cac21f984429bbfe7:
+    span:
+      start: 80416
+      end: 80419
+      errors: null
+    metadata: null
+    src_diff: ནི་
+    diff_payload: གི་
+  7a4fa6ac87df406699d694cdee1a2561:
+    span:
+      start: 80438
+      end: 80441
+      errors: null
+    metadata: null
+    src_diff: དག་
+    diff_payload: རྣམས་
+  00771eb79f09489e92358508e6c9bca9:
+    span:
+      start: 80483
+      end: 80486
+      errors: null
+    metadata: null
+    src_diff: ནི།
+    diff_payload: ལ།
+  a67c429b17434adbb959794ab0e5c0ea:
+    span:
+      start: 80515
+      end: 80517
+      errors: null
+    metadata: null
+    src_diff: པ།
+    diff_payload: བ།
+  065a6f074b854875b6f84d3e630e2113:
+    span:
+      start: 80544
+      end: 80548
+      errors: null
+    metadata: null
+    src_diff: བཟེ་
+    diff_payload: གཟེ་
+  fa47d2befecc4e7d9f5045812d21d1da:
+    span:
+      start: 80695
+      end: 80697
+      errors: null
+    metadata: null
+    src_diff: པ་
+    diff_payload: ལ་
+  ef23859a60664a53b5127f9e0d014132:
+    span:
+      start: 80962
+      end: 80964
+      errors: null
+    metadata: null
+    src_diff: བ།
+    diff_payload: པ།
+  a980c3330897432eac29561bcb2e2862:
+    span:
+      start: 81176
+      end: 81180
+      errors: null
+    metadata: null
+    src_diff: ཉེར་
+    diff_payload: ཉེས་
+  12bcb7ff47714601a202d7700bd9128a:
+    span:
+      start: 81493
+      end: 81495
+      errors: null
+    metadata: null
+    src_diff: བ།
+    diff_payload: པ།
+  36f6c3c9fe4e44a18afe8495583a7a02:
+    span:
+      start: 81672
+      end: 81677
+      errors: null
+    metadata: null
+    src_diff: གཟུང་
+    diff_payload: བཟུང་
+  9ec7da7bab5f48108495a5b9c623c3b5:
+    span:
+      start: 81971
+      end: 81975
+      errors: null
+    metadata: null
+    src_diff: བླན་
+    diff_payload: གླན་
+  ab70fead13f84ad186f0fe3715224793:
+    span:
+      start: 82022
+      end: 82026
+      errors: null
+    metadata: null
+    src_diff: གཞག་
+    diff_payload: བཞག་
+  f75bdc0eaac24c5a83c2c3bb7ed67f39:
+    span:
+      start: 82454
+      end: 82459
+      errors: null
+    metadata: null
+    src_diff: གནོད་
+    diff_payload: གནོན་
+  52c7c92789b244a2aee9714c2a33bc73:
+    span:
+      start: 82832
+      end: 82836
+      errors: null
+    metadata: null
+    src_diff: གཞུག
+    diff_payload: བཞུག
+  0e89b92f39ec459395a932b38ec094fc:
+    span:
+      start: 83790
+      end: 83793
+      errors: null
+    metadata: null
+    src_diff: པས་
+    diff_payload: གྱུར་
+  bf0214a5d293486ab621f0fcc40100b8:
+    span:
+      start: 84726
+      end: 84731
+      errors: null
+    metadata: null
+    src_diff: མྱོང་
+    diff_payload: མྱོས་
+  4bbfaa4aa33b4275a25eb04c9763baa5:
+    span:
+      start: 85683
+      end: 85687
+      errors: null
+    metadata: null
+    src_diff: ཉིད།
+    diff_payload: ཞིང་།
+  e792831962934c35b27404523e42bcf0:
+    span:
+      start: 86273
+      end: 86277
+      errors: null
+    metadata: null
+    src_diff: པའི་
+    diff_payload: དང་
+  85bff864cecf4d248e3dca1cb0c303be:
+    span:
+      start: 86401
+      end: 86405
+      errors: null
+    metadata: null
+    src_diff: བྱས་
+    diff_payload: བྱེད་
+  3bbb656f9ded46a1ab72f86d7a63949e:
+    span:
+      start: 86479
+      end: 86486
+      errors: null
+    metadata: null
+    src_diff: ཉིད་དུ་
+    diff_payload: ཁོ་ནར་
+  d36ad2ae819d4e07a7a56e74e8eab875:
+    span:
+      start: 86631
+      end: 86634
+      errors: null
+    metadata: null
+    src_diff: བས་
+    diff_payload: བར་
+  d2918c57bbe9433b91e028e9f1ee8004:
+    span:
+      start: 86927
+      end: 86930
+      errors: null
+    metadata: null
+    src_diff: ནི།
+    diff_payload: མི།
+  aa447b1be56f4a15b790089604fadbf9:
+    span:
+      start: 86979
+      end: 86983
+      errors: null
+    metadata: null
+    src_diff: བཅས་
+    diff_payload: བཅད་
+  3f2d31fe41e148c381537e31888f677e:
+    span:
+      start: 87324
+      end: 87329
+      errors: null
+    metadata: null
+    src_diff: སྲེད་
+    diff_payload: སྲིད་
+  9fbf7a08f3ff4181bccf9eaaeefe9383:
+    span:
+      start: 87361
+      end: 87369
+      errors: null
+    metadata: null
+    src_diff: སྲེད་དེ་
+    diff_payload: སྲིད་དི་
+  09b83663849445309211e4be092512fc:
+    span:
+      start: 87678
+      end: 87681
+      errors: null
+    metadata: null
+    src_diff: དེ།
+    diff_payload: སྟེ།
+  7e7b6516075a477e906745000430a4ba:
+    span:
+      start: 87778
+      end: 87784
+      errors: null
+    metadata: null
+    src_diff: གཏོགས་
+    diff_payload: རྟོགས་
+  d02f3df3455d4179afd74e798c8d550d:
+    span:
+      start: 88177
+      end: 88181
+      errors: null
+    metadata: null
+    src_diff: དེས་
+    diff_payload: དུས་
+  78296dbdf96a4146bbcfd3588c5eca65:
+    span:
+      start: 88267
+      end: 88272
+      errors: null
+    metadata: null
+    src_diff: གཉེན་
+    diff_payload: སྙིང་
+  94dffd3c21904c2cae4916bcdac1c62f:
+    span:
+      start: 88709
+      end: 88713
+      errors: null
+    metadata: null
+    src_diff: གློ་
+    diff_payload: བློ་
+  3ba2faef314e484dbd85a1a299e6f0c1:
+    span:
+      start: 88968
+      end: 88977
+      errors: null
+    metadata: null
+    src_diff: ཞིག་རིག །
+    diff_payload: རིག་ན། །
+  2508609b71cc4e3788a0d967473c9a0a:
+    span:
+      start: 89537
+      end: 89539
+      errors: null
+    metadata: null
+    src_diff: ནི
+    diff_payload: ཉི
+  d3a78e47b15b4453853f321156240c9f:
+    span:
+      start: 89549
+      end: 89555
+      errors: null
+    metadata: null
+    src_diff: གཅིག །
+    diff_payload: གཅིང་། །
+  9a8533269fee4ba49ba7d7ff1570e842:
+    span:
+      start: 90124
+      end: 90128
+      errors: null
+    metadata: null
+    src_diff: བཞི་
+    diff_payload: གཞི་
+  90b7ce8def0a4b26a919f5b5d9562343:
+    span:
+      start: 90176
+      end: 90178
+      errors: null
+    metadata: null
+    src_diff: ག་
+    diff_payload: ཀ་
+  50e2dd6ab485424792a0a9faa1812c13:
+    span:
+      start: 90195
+      end: 90200
+      errors: null
+    metadata: null
+    src_diff: བརྩད་
+    diff_payload: བཅད་
+  044d50823040443a92beff6abb788217:
+    span:
+      start: 90276
+      end: 90282
+      errors: null
+    metadata: null
+    src_diff: རྒྱུད་
+    diff_payload: རྒྱུན་
+  de0baf178bd846f3b6c8649825aa82f3:
+    span:
+      start: 91089
+      end: 91092
+      errors: null
+    metadata: null
+    src_diff: དེ་
+    diff_payload: ལུས་
+  7b85a235a5824b6da3b1463d6325458a:
+    span:
+      start: 91139
+      end: 91142
+      errors: null
+    metadata: null
+    src_diff: ནི་
+    diff_payload: འདི་
+  f591210bde694ff0a5a465726dbf153c:
+    span:
+      start: 91530
+      end: 91537
+      errors: null
+    metadata: null
+    src_diff: དབྱིབས་
+    diff_payload: དབྱིངས་
+  623966016aaf4f02ba88130c42c02395:
+    span:
+      start: 91621
+      end: 91628
+      errors: null
+    metadata: null
+    src_diff: ལུས་ནི་
+    diff_payload: མཐོ་ཡོར་
+  91a1df11066744d5b4a41f86dad976d1:
+    span:
+      start: 91799
+      end: 91804
+      errors: null
+    metadata: null
+    src_diff: ཚིགས་
+    diff_payload: ཆགས་
+  90f2208992e140daac3441e5ed7e82fe:
+    span:
+      start: 91845
+      end: 91848
+      errors: null
+    metadata: null
+    src_diff: ཏེ།
+    diff_payload: ན།
+  de437eb2b01248dc9fe776a88cffba1b:
+    span:
+      start: 92143
+      end: 92146
+      errors: null
+    metadata: null
+    src_diff: ཅི་
+    diff_payload: ཞི་
+  f5022854defc4623b46ba47f26254969:
+    span:
+      start: 93119
+      end: 93126
+      errors: null
+    metadata: null
+    src_diff: གང་གིས་
+    diff_payload: གལ་ལས་
+  bf071da97f6448ce8217d62cbb5136cd:
+    span:
+      start: 93195
+      end: 93197
+      errors: null
+    metadata: null
+    src_diff: པ།
+    diff_payload: ན།
+  b66c259d3c0f4108992aed069790fca9:
+    span:
+      start: 93228
+      end: 93233
+      errors: null
+    metadata: null
+    src_diff: སྲེད་
+    diff_payload: སྲིད་
+  8661a2e50221486ca444b28accddb32d:
+    span:
+      start: 93769
+      end: 93771
+      errors: null
+    metadata: null
+    src_diff: པ།
+    diff_payload: དེ།
+  96f4aef0c91f444192e889cc5376380a:
+    span:
+      start: 94239
+      end: 94243
+      errors: null
+    metadata: null
+    src_diff: མིན་
+    diff_payload: མེད་
+  478c78d5d9614ed8b15894d555bff34f:
+    span:
+      start: 94803
+      end: 94805
+      errors: null
+    metadata: null
+    src_diff: ག་
+    diff_payload: ཀ་
+  85864e2322524cb490f9bd55927d3992:
+    span:
+      start: 94852
+      end: 94854
+      errors: null
+    metadata: null
+    src_diff: ཉི
+    diff_payload: ནི
+  0ed434a8b1ce4ecf848c6bf4bc7df884:
+    span:
+      start: 94875
+      end: 94878
+      errors: null
+    metadata: null
+    src_diff: བུ་
+    diff_payload: ཕ་
+  aab0d51d539a475d82ab21b74eed6c15:
+    span:
+      start: 94888
+      end: 94890
+      errors: null
+    metadata: null
+    src_diff: ཕ་
+    diff_payload: བུ་
+  692bb1773fd44431b7b54998cdfca523:
+    span:
+      start: 95296
+      end: 95298
+      errors: null
+    metadata: null
+    src_diff: ཞེ
+    diff_payload: ཤེ
+  a5d0960e4cf94bb58794285141985d04:
+    span:
+      start: 95566
+      end: 95571
+      errors: null
+    metadata: null
+    src_diff: འགོམ་
+    diff_payload: བགོམ་
+  e3da73cb41884e4abd33642281b488b8:
+    span:
+      start: 95935
+      end: 95939
+      errors: null
+    metadata: null
+    src_diff: ན། །
+    diff_payload: ལ།
+  dae5898a4e2b4dabb03e882e86fae5b8:
+    span:
+      start: 96184
+      end: 96192
+      errors: null
+    metadata: null
+    src_diff: དབང་མེད།
+    diff_payload: ད་པ་མིན།
+  5dc4e77e8eaf47d9bc1403cf08c00b0f:
+    span:
+      start: 96312
+      end: 96315
+      errors: null
+    metadata: null
+    src_diff: དག་
+    diff_payload: དང་
+  87ac958d02df41138c02404af3a0c133:
+    span:
+      start: 96780
+      end: 96787
+      errors: null
+    metadata: null
+    src_diff: རྒྱུའི་
+    diff_payload: རྒྱུའམ་
+  306b7e571ee44ea197999b4505f1c703:
+    span:
+      start: 97525
+      end: 97534
+      errors: null
+    metadata: null
+    src_diff: ཀྱིས་བཞག་
+    diff_payload: ཀྱིའང་གཞག་
+  96ba90575f044598b3350c5cc5c25f55:
+    span:
+      start: 97747
+      end: 97751
+      errors: null
+    metadata: null
+    src_diff: འཐད་
+    diff_payload: མཐར་
+  d63430765f404502b3dfa3299dcb85dd:
+    span:
+      start: 98222
+      end: 98227
+      errors: null
+    metadata: null
+    src_diff: རྒྱུ་
+    diff_payload: སྒྱུ་
+  da94fc854e71463d961c3f02c4219f81:
+    span:
+      start: 98262
+      end: 98265
+      errors: null
+    metadata: null
+    src_diff: ནས་
+    diff_payload: ལས་
+  b24ad9707a6f4b1da879237e58980393:
+    span:
+      start: 98275
+      end: 98280
+      errors: null
+    metadata: null
+    src_diff: ཅིང་།
+    diff_payload: ཅིག།
+  f20283fbbb284cfe9106a2927ed208d9:
+    span:
+      start: 98368
+      end: 98371
+      errors: null
+    metadata: null
+    src_diff: སུ་
+    diff_payload: བུ་
+  fd0cd04bf40d48889cc9ccfc068415bb:
+    span:
+      start: 98416
+      end: 98420
+      errors: null
+    metadata: null
+    src_diff: ཡོད།
+    diff_payload: ཡིན།
+  e91550f39e7c437cb39edf4c9a01e10c:
+    span:
+      start: 98751
+      end: 98754
+      errors: null
+    metadata: null
+    src_diff: དེ་
+    diff_payload: དང་
+  d42b4ee734784386a146454addf2c593:
+    span:
+      start: 99032
+      end: 99044
+      errors: null
+    metadata: null
+    src_diff: རྣམ་པར་དཔྱད་
+    diff_payload: ཆུ་ཤིང་
+  5c074899f58646f0891a6624722ff3d1:
+    span:
+      start: 99046
+      end: 99053
+      errors: null
+    metadata: null
+    src_diff: ཆུ་ཤིང་
+    diff_payload: དུ་སྙིང་
+  7a27c2eb74384435a1608275b3b247ec:
+    span:
+      start: 99053
+      end: 99055
+      errors: null
+    metadata: null
+    src_diff: འད
+    diff_payload: པོ་མེད
+  38a0ba4996ac4bae80c32143fde5f313:
+    span:
+      start: 99434
+      end: 99437
+      errors: null
+    metadata: null
+    src_diff: དང་
+    diff_payload: གང་
+  7f6a2507d3df4ea1b07a0554ce087ad5:
+    span:
+      start: 99678
+      end: 99683
+      errors: null
+    metadata: null
+    src_diff: ཚེགས་
+    diff_payload: ཚོགས་
+  46abfbcd21ed4f7dbcf3552a093682f1:
+    span:
+      start: 100070
+      end: 100074
+      errors: null
+    metadata: null
+    src_diff: ནའི་
+    diff_payload: པའི་
+  e8e7f237f0e94a9e82093b2b2edcea04:
+    span:
+      start: 100093
+      end: 100097
+      errors: null
+    metadata: null
+    src_diff: འཚེ་
+    diff_payload: འཚོ་
+  a09a6901083d4562a1c17eb9336fe67c:
+    span:
+      start: 100148
+      end: 100151
+      errors: null
+    metadata: null
+    src_diff: ནི་
+    diff_payload: འདི་
+  c71dc7e59a564b2fb4e7cde8126c7fc0:
+    span:
+      start: 100168
+      end: 100170
+      errors: null
+    metadata: null
+    src_diff: ཡི
+    diff_payload: ཞི
+  5f3ea1ae4c234fceb966be3dd865629f:
+    span:
+      start: 100227
+      end: 100230
+      errors: null
+    metadata: null
+    src_diff: ནི།
+    diff_payload: འདི།
+  96c13c9d9291491db0f67f4f7d74d67b:
+    span:
+      start: 100890
+      end: 100895
+      errors: null
+    metadata: null
+    src_diff: འཁྲུང
+    diff_payload: བྱུང
+  38638784f3c64aeea602ea66798d1458:
+    span:
+      start: 100897
+      end: 100901
+      errors: null
+    metadata: null
+    src_diff: པའི།
+    diff_payload: བའི།
+  047b44ae42444120ad9a67d22f7d9593:
+    span:
+      start: 101128
+      end: 101134
+      errors: null
+    metadata: null
+    src_diff: ཀྱི་ཕ་
+    diff_payload: བསྟན་པ་
+  428becfc0aa74df1adb565b5629581be:
+    span:
+      start: 101134
+      end: 101143
+      errors: null
+    metadata: null
+    src_diff: རོལ་ཏུ་ཕྱ
+    diff_payload: ཞེས་བྱ
+  e462732c0f7741b2b955ad61c7fe8b42:
+    span:
+      start: 101146
+      end: 101150
+      errors: null
+    metadata: null
+    src_diff: པའི་
+    diff_payload: བ་
+  f1f9e0a9cf6a44ffbc18c9f7556eaa3d:
+    span:
+      start: 101402
+      end: 101406
+      errors: null
+    metadata: null
+    src_diff: འཁོར
+    diff_payload: སངས་ར
+  cfda0939dbe849e7a866404282bd2054:
+    span:
+      start: 101409
+      end: 101415
+      errors: null
+    metadata: null
+    src_diff: ཇི་སྲི
+    diff_payload: ཐོབ་ཀྱི
+  c0f545b108eb4f11b264d515a08b4ecd:
+    span:
+      start: 101415
+      end: 101417
+      errors: null
+    metadata: null
+    src_diff: ད་
+    diff_payload: །བར་
+  f8f8cff6b2fe4f368b49d101123c518b:
+    span:
+      start: 101432
+      end: 101435
+      errors: null
+    metadata: null
+    src_diff: ལས་
+    diff_payload: བ་
+  f0cb08d56c274683b8c0d943251b7c32:
+    span:
+      start: 101456
+      end: 101464
+      errors: null
+    metadata: null
+    src_diff: བྱང་ཆུབ་
+    diff_payload: བླ་ན་
+  9387607349214c2581c8510f6352b95b:
+    span:
+      start: 101464
+      end: 101469
+      errors: null
+    metadata: null
+    src_diff: སེམས་
+    diff_payload: སེམེད་
+  93378f20345d46b4aca86b55dd71e8ee:
+    span:
+      start: 101763
+      end: 101766
+      errors: null
+    metadata: null
+    src_diff: སྟུ
+    diff_payload: སྡུ
+  56de6a0a420448ecaace939df254d173:
+    span:
+      start: 101829
+      end: 101834
+      errors: null
+    metadata: null
+    src_diff: འཐིང་
+    diff_payload: མཐིང་
+  8894a4574ca94c0da22245b3f99e528f:
+    span:
+      start: 101982
+      end: 101985
+      errors: null
+    metadata: null
+    src_diff: དག་
+    diff_payload: ཡང་
+  e4d4ee8e21c34bcc995914679cd85275:
+    span:
+      start: 102031
+      end: 102036
+      errors: null
+    metadata: null
+    src_diff: བསྟར་
+    diff_payload: བསྟན་
+  e682ac8fe78a42c99643dfdd9869bf4e:
+    span:
+      start: 102162
+      end: 102167
+      errors: null
+    metadata: null
+    src_diff: བཟུང་
+    diff_payload: གཟུང་
+  a97cb27b76de46a68aad6abd9bec1963:
+    span:
+      start: 102681
+      end: 102684
+      errors: null
+    metadata: null
+    src_diff: དང་
+    diff_payload: དག་
+  544aed85528a489b8cb30093b55bc9c8:
+    span:
+      start: 102793
+      end: 102797
+      errors: null
+    metadata: null
+    src_diff: གློ་
+    diff_payload: བློ་
+  2de60c7f6866422fb5c069ccbd7960a9:
+    span:
+      start: 102893
+      end: 102897
+      errors: null
+    metadata: null
+    src_diff: བོར་
+    diff_payload: འོར་
+  a41524c613ec49b5acab73401cf337ee:
+    span:
+      start: 102958
+      end: 102962
+      errors: null
+    metadata: null
+    src_diff: ཀུན་
+    diff_payload: ཐམས་ཅད་
+  cd510806e538457f989882d87b85cbdd:
+    span:
+      start: 102974
+      end: 102979
+      errors: null
+    metadata: null
+    src_diff: ཤུགས་
+    diff_payload: དབུགས་
+  13779485757d49d0a71b99858bcd44ef:
+    span:
+      start: 103174
+      end: 103180
+      errors: null
+    metadata: null
+    src_diff: རྗེའི་
+    diff_payload: རྗེས་
+  fade9ad0654a4608955914597b43dabf:
+    span:
+      start: 103184
+      end: 103189
+      errors: null
+    metadata: null
+    src_diff: སྤྱན་
+    diff_payload: ཅན་
+  fe556d97b1684519991192020c5fb354:
+    span:
+      start: 103282
+      end: 103286
+      errors: null
+    metadata: null
+    src_diff: ལྡན་
+    diff_payload: པ་
+  8c0d86eb6062448da02ffea272888206:
+    span:
+      start: 103341
+      end: 103343
+      errors: null
+    metadata: null
+    src_diff: ཅ་
+    diff_payload: ཀུ་
+  b4a36e91b6904d08acdc6ffb54e3fbba:
+    span:
+      start: 103468
+      end: 103472
+      errors: null
+    metadata: null
+    src_diff: ལྡན་
+    diff_payload: ལྡང་
+  95d217b24ca54f5fbfa861a8cd5f6a77:
+    span:
+      start: 103522
+      end: 103526
+      errors: null
+    metadata: null
+    src_diff: དགའ་
+    diff_payload: དགར་
+  aed8435b06124a17aea06485597ef37a:
+    span:
+      start: 103787
+      end: 103790
+      errors: null
+    metadata: null
+    src_diff: མིག
+    diff_payload: གཟུག
+  e35f4d6014b543dc80bc7ac17b68299a:
+    span:
+      start: 104006
+      end: 104012
+      errors: null
+    metadata: null
+    src_diff: བཀྲེན་
+    diff_payload: བཀྲེས་
+  59da2413cbbd4a2db656227c04538e78:
+    span:
+      start: 104347
+      end: 104353
+      errors: null
+    metadata: null
+    src_diff: འདྲོན་
+    diff_payload: འགྲོན་
+  a948b0c1e65d48e892f2714eb3286817:
+    span:
+      start: 104600
+      end: 104606
+      errors: null
+    metadata: null
+    src_diff: འདྲོན་
+    diff_payload: འགྲོན་
+  18eb46d24bbf4dd4870c0a59f884d2ba:
+    span:
+      start: 104608
+      end: 104611
+      errors: null
+    metadata: null
+    src_diff: དག་
+    diff_payload: རྣམས་
+  e53d1b54c01e49d2b5e7a8f4ce157d4c:
+    span:
+      start: 105353
+      end: 105358
+      errors: null
+    metadata: null
+    src_diff: བྱེད་
+    diff_payload: སྤྱོད་
+  e7e030f3c7f5451a88e2a817d22c9abb:
+    span:
+      start: 105450
+      end: 105455
+      errors: null
+    metadata: null
+    src_diff: གཟུང་
+    diff_payload: བཟུང་
+  8e57d335f66d4036b815ab01689828f6:
+    span:
+      start: 105666
+      end: 105670
+      errors: null
+    metadata: null
+    src_diff: སྙན་
+    diff_payload: ཉན་
+  ffcd0b2f77dd4c0e8dec4939755e34bd:
+    span:
+      start: 105709
+      end: 105712
+      errors: null
+    metadata: null
+    src_diff: གང་
+    diff_payload: གའ་
+  47b05defe448417b940a1f891c9eb7ff:
+    span:
+      start: 106439
+      end: 106446
+      errors: null
+    metadata: null
+    src_diff: །འཇིགས་
+    diff_payload: ་སྡིག་པར་མ་གྱུར་ན་མ་གྱུར་འཇིགས་
+  015189243577463c87b2e2fc7e1dc1a0:
+    span:
+      start: 106531
+      end: 106535
+      errors: null
+    metadata: null
+    src_diff: ཐོན་
+    diff_payload: ཏོན་
+  f86d6acc78274392aa0513e3048d0f80:
+    span:
+      start: 106540
+      end: 106546
+      errors: null
+    metadata: null
+    src_diff: བརྒྱན་
+    diff_payload: བརྒྱས་
+  a5acdfa9203d478981b825c8f87de79f:
+    span:
+      start: 106769
+      end: 106774
+      errors: null
+    metadata: null
+    src_diff: གནོད་
+    diff_payload: རྩོད་
+  3147a6ca198948ffaa429c0329ceb171:
+    span:
+      start: 108032
+      end: 108035
+      errors: null
+    metadata: null
+    src_diff: ནས།
+    diff_payload: ཏེ།
+  dddc284177934c79b063cd3807f2ed15:
+    span:
+      start: 108671
+      end: 108673
+      errors: null
+    metadata: null
+    src_diff: ཞུ
+    diff_payload: གཏུ
+  3ee3c5e8cd014affaae3e4a28ef8799e:
+    span:
+      start: 108755
+      end: 108758
+      errors: null
+    metadata: null
+    src_diff: ཙཱ་
+    diff_payload: ཙྪ་
+  2b72f06333e345c3a008417cd748614c:
+    span:
+      start: 108884
+      end: 108887
+      errors: null
+    metadata: null
+    src_diff: ཕྱི
+    diff_payload: ཀྱི
+  817cf22155e547bcb1ac6f1b91863611:
+    span:
+      start: 108889
+      end: 108896
+      errors: null
+    metadata: null
+    src_diff: རྒྱ་གར་
+    diff_payload: བལ་པོའི་
+  c2b90c1a78124aac870245bed977e975:
+    span:
+      start: 108896
+      end: 108907
+      errors: null
+    metadata: null
+    src_diff: གྱི་མཁན་པོ་
+    diff_payload: པཎྜི་ཏ་
+  7453397605c74a0184dbbf92fb2d32ab:
+    span:
+      start: 108941
+      end: 108944
+      errors: null
+    metadata: null
+    src_diff: ཙཱ་
+    diff_payload: ཙྪ་
+  77241fb8ae6648aaaba5188292611b46:
+    span:
+      start: 108990
+      end: 108997
+      errors: null
+    metadata: null
+    src_diff: བསྒྱུར་
+    diff_payload: ཞུས་
