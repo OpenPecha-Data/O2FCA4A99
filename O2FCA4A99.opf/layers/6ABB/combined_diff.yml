@@ -1,0 +1,4160 @@
+e773dc3473ac4b4fa6f7b50ed9c50a82:
+  span:
+    start: 254
+    end: 257
+    errors: null
+  diffs:
+  - Narthang: པས་
+  - Peking: པས་
+  - Derge: པར་
+  - Open-Edition: པར་
+a72c676a992a49cf9c60f03a14a973c0:
+  span:
+    start: 2694
+    end: 2697
+    errors: null
+  diffs:
+  - Narthang: བསྒྲ
+  - Peking: བསྒྲ
+  - Derge: དགྲ
+  - Open-Edition: དགྲ
+21612d2e8a984b72ac122af9009ae93b:
+  span:
+    start: 2916
+    end: 2920
+    errors: null
+  diffs:
+  - Narthang: ཀྱིས་
+  - Peking: ཀྱིས་
+  - Derge: གིས་
+  - Open-Edition: གིས་
+30dd11d95a334c8da3e435db40e5ce43:
+  span:
+    start: 3076
+    end: 3079
+    errors: null
+  diffs:
+  - Narthang: ཏེ།
+  - Peking: ཏེ།
+  - Derge: དེ།
+  - Open-Edition: དེ།
+6d4c0574c9ba4b9682bea8b99e650aa8:
+  span:
+    start: 3527
+    end: 3530
+    errors: null
+  diffs:
+  - Narthang: བླ་
+  - Peking: བླ་
+  - Derge: སྔ་
+  - Open-Edition: སྔ་
+f28bfd88b7474dfd91a81859b7985202:
+  span:
+    start: 3663
+    end: 3667
+    errors: null
+  diffs:
+  - Narthang: གཞན་
+  - Peking: གཞན་
+  - Derge: གཞལ་
+  - Open-Edition: གཞལ་
+9f30bd9c03f44dbe8649241f06d53f77:
+  span:
+    start: 5091
+    end: 5096
+    errors: null
+  diffs:
+  - Narthang: བཟུང་
+  - Peking: བཟུང་
+  - Derge: གཟུང་
+  - Open-Edition: གཟུང་
+ad64c0491f92405b89e6e13c1c08e5f8:
+  span:
+    start: 5277
+    end: 5281
+    errors: null
+  diffs:
+  - Narthang: དག་
+  - Peking: དག་
+  - Derge: ཞིག་
+  - Open-Edition: ཞིག་
+81fec66101fb488f899a7cb118d5a76b:
+  span:
+    start: 6453
+    end: 6457
+    errors: null
+  diffs:
+  - Narthang: བསྟར།
+  - Peking: བསྟར།
+  - Derge: ལྟར།
+  - Open-Edition: ལྟར།
+1a6f05ead9e94cbdb4dfe8f43e71710d:
+  span:
+    start: 6511
+    end: 6514
+    errors: null
+  diffs:
+  - Narthang: བྲེ་
+  - Peking: བྲེ་
+  - Derge: རེ་
+  - Open-Edition: རེ་
+940690e8cca944bd8cf0616ad02edfd1:
+  span:
+    start: 6796
+    end: 6801
+    errors: null
+  diffs:
+  - Narthang: དབུལ།
+  - Peking: དབུལ།
+  - Derge: འབུལ།
+  - Open-Edition: འབུལ།
+d26ce1c06442439b8ea48bb626ad20d0:
+  span:
+    start: 8435
+    end: 8437
+    errors: null
+  diffs:
+  - Narthang: ནི
+  - Peking: ནི
+  - Derge: ཡི
+  - Open-Edition: ཡི
+879edd029f4745ffaa24f94e6dcd9fda:
+  span:
+    start: 8495
+    end: 8500
+    errors: null
+  diffs:
+  - Narthang: ཀུན་
+  - Peking: ཀུན་
+  - Derge: རྣམས་
+  - Open-Edition: རྣམས་
+da773198031845c1946c6dc445005207:
+  span:
+    start: 9167
+    end: 9170
+    errors: null
+  diffs:
+  - Narthang: མའི་
+  - Peking: མའི་
+  - Derge: མས་
+  - Open-Edition: མས་
+eded3c850e0d46f8a50aa5b411aa7948:
+  span:
+    start: 9264
+    end: 9269
+    errors: null
+  diffs:
+  - Narthang: འཆགས།
+  - Peking: འཆགས།
+  - Derge: བཤགས།
+  - Open-Edition: བཤགས།
+8d42726d2f6f4483b12155cba459efd1:
+  span:
+    start: 9519
+    end: 9522
+    errors: null
+  diffs:
+  - Narthang: པས།
+  - Peking: པས།
+  - Derge: པར།
+  - Open-Edition: པར།
+6ae52dcb6ad742d0a6e1af5730a5c7fd:
+  span:
+    start: 9961
+    end: 9965
+    errors: null
+  diffs:
+  - Narthang: བློ་
+  - Peking: བློ་
+  - Derge: གློ་
+  - Open-Edition: གློ་
+ae718957df9e497993ad36f1fadb5ee5:
+  span:
+    start: 11295
+    end: 11299
+    errors: null
+  diffs:
+  - Narthang: པལ་
+  - Peking: པལ་
+  - Derge: པའི་
+  - Open-Edition: པའི་
+491e75b22d794705a21c3ed1c9f95bf6:
+  span:
+    start: 11660
+    end: 11665
+    errors: null
+  diffs:
+  - Narthang: མཛད་
+  - Peking: མཛད་
+  - Derge: བྱེད་
+  - Open-Edition: བྱེད་
+1cd0a577f8f249ea9bbb652b7ace92d6:
+  span:
+    start: 12460
+    end: 12467
+    errors: null
+  diffs:
+  - Narthang: ཅི་ཕྱིར་
+  - Peking: ཅི་ཕྱིར་
+  - Derge: ཇི་ལྟར་
+  - Open-Edition: ཇི་ལྟར་
+7eda3fdfb8944fe09c54dd5637496196:
+  span:
+    start: 12551
+    end: 12556
+    errors: null
+  diffs:
+  - Narthang: སྔོན་
+  - Peking: སྔོན་
+  - Derge: མངོན་
+  - Open-Edition: མངོན་
+ee7314ff4aef4cbdadb5dd69427d0caf:
+  span:
+    start: 14134
+    end: 14139
+    errors: null
+  diffs:
+  - Narthang: པ་
+  - Peking: པ་
+  - Derge: བསྔལ་
+  - Open-Edition: བསྔལ་
+7f4297fa05414b2f8cca2a8b11d70e1f:
+  span:
+    start: 14530
+    end: 14534
+    errors: null
+  diffs:
+  - Narthang: གཏད་
+  - Peking: གཏང་
+  - Derge: བཏང་
+  - Open-Edition: བཏང་
+a10f2800132b42d48b23977fc202c118:
+  span:
+    start: 14898
+    end: 14902
+    errors: null
+  diffs:
+  - Narthang: གིས།
+  - Peking: གིས།
+  - Derge: གི །
+  - Open-Edition: གི །
+05103b81581449aba1205b22590d8a3a:
+  span:
+    start: 14925
+    end: 14927
+    errors: null
+  diffs:
+  - Narthang: ན།
+  - Peking: ན།
+  - Derge: བ།
+  - Open-Edition: བ།
+18b43a53d0c44b59bc0164d6eac63bdd:
+  span:
+    start: 15320
+    end: 15323
+    errors: null
+  diffs:
+  - Narthang: བར་
+  - Peking: བར་
+  - Derge: པར་
+  - Open-Edition: པར་
+5d2f6cdba8f744a8b4c4e6cdb98ab59e:
+  span:
+    start: 15341
+    end: 15344
+    errors: null
+  diffs:
+  - Narthang: བུ་
+  - Peking: བུ་
+  - Derge: དང་
+  - Open-Edition: དང་
+cd1e367e8f564bb09800ae877f27dd4e:
+  span:
+    start: 16858
+    end: 16864
+    errors: null
+  diffs:
+  - Narthang: འགྲོན་
+  - Peking: འགྲོན་
+  - Derge: མགྲོན་
+  - Open-Edition: མགྲོན་
+e7a43001701046898e31998d1acf3193:
+  span:
+    start: 17211
+    end: 17216
+    errors: null
+  diffs:
+  - Narthang: བཟུང་
+  - Peking: བཟུང་
+  - Derge: གཟུང་
+  - Open-Edition: གཟུང་
+bad1900e598f421e9f75a5ac4d9cc2f3:
+  span:
+    start: 18158
+    end: 18166
+    errors: null
+  diffs:
+  - Narthang: འགའ་ཞིག་
+  - Peking: འགའ་ཞིག་
+  - Derge: སྐད་ཅིག་
+  - Open-Edition: སྐད་ཅིག་
+a5762a46c71a482ca64fc810a23a787e:
+  span:
+    start: 18166
+    end: 18172
+    errors: null
+  diffs:
+  - Narthang: འདི་
+  - Peking: འདི་ཡི་
+  - Derge: ཙམ་ཡང་
+  - Open-Edition: ཙམ་ཡང་
+7c58d141395746bc9eb78f4cc74dd8bb:
+  span:
+    start: 18172
+    end: 18178
+    errors: null
+  diffs:
+  - Narthang: འདི་ནི།
+  - Peking: ནི།
+  - Derge: འདིའི།
+  - Open-Edition: འདིའི།
+41b8423f98c643ef9d4cffc81ea3b1bb:
+  span:
+    start: 18809
+    end: 18813
+    errors: null
+  diffs:
+  - Narthang: གཅད་
+  - Peking: གཅད་
+  - Derge: བཅད་
+  - Open-Edition: བཅད་
+e6d8a411c2bf4773844da8fe20ccdee3:
+  span:
+    start: 19005
+    end: 19008
+    errors: null
+  diffs:
+  - Narthang: འདི་
+  - Peking: འདི་
+  - Derge: ནི་
+  - Open-Edition: ནི་
+f0161d3ff01a487d80f549fb7c3ab061:
+  span:
+    start: 19033
+    end: 19036
+    errors: null
+  diffs:
+  - Narthang: འདི་
+  - Peking: འདི་
+  - Derge: ནི་
+  - Open-Edition: ནི་
+45fb4e0c17764d7ab0221e04d6a38512:
+  span:
+    start: 20399
+    end: 20402
+    errors: null
+  diffs:
+  - Narthang: ཅི་
+  - Peking: ཅི་
+  - Derge: ཇི་
+  - Open-Edition: ཇི་
+6a9331ae983542f381399202af6e6e84:
+  span:
+    start: 20473
+    end: 20478
+    errors: null
+  diffs:
+  - Narthang: དགུར་
+  - Peking: དགུར་
+  - Derge: མགུར་
+  - Open-Edition: མགུར་
+c04b0ee6a2004db19b43cf0c7025d938:
+  span:
+    start: 20868
+    end: 20872
+    errors: null
+  diffs:
+  - Narthang: ཐུག་
+  - Peking: ཐུག་
+  - Derge: ཐུབ་
+  - Open-Edition: ཐུབ་
+90157f21f1be4bb2b9ac1a7453ef1ec9:
+  span:
+    start: 20937
+    end: 20939
+    errors: null
+  diffs:
+  - Narthang: ན།
+  - Peking: ན།
+  - Derge: ལ།
+  - Open-Edition: ལ།
+e3033d53a9b04ef0be24463bbabe25f0:
+  span:
+    start: 21295
+    end: 21299
+    errors: null
+  diffs:
+  - Narthang: ལྟས་
+  - Peking: ལྟས་
+  - Derge: ལྟར་
+  - Open-Edition: ལྟར་
+c0893b2aaa17487fa80e1d0cde29f322:
+  span:
+    start: 21483
+    end: 21486
+    errors: null
+  diffs:
+  - Narthang: བའི་
+  - Peking: བའི་
+  - Derge: བས་
+  - Open-Edition: བས་
+c53d799243894365aa019b57a2436572:
+  span:
+    start: 21847
+    end: 21852
+    errors: null
+  diffs:
+  - Narthang: གཏོང་
+  - Peking: གཏོང་
+  - Derge: བཏོད་
+  - Open-Edition: བཏོད་
+96476aec3f8a4cc0b23a7a0689d792b5:
+  span:
+    start: 22282
+    end: 22286
+    errors: null
+  diffs:
+  - Narthang: ལྟས་
+  - Peking: ལྟས་
+  - Derge: ལྟར་
+  - Open-Edition: ལྟར་
+67bf22b9c493469f8fc1df4bd3ab0b4e:
+  span:
+    start: 22460
+    end: 22467
+    errors: null
+  diffs:
+  - Narthang: བསྲོགས་
+  - Peking: བསྲོགས་
+  - Derge: བསྲེགས་
+  - Open-Edition: བསྲེགས་
+a8187ebe3507445ea025a02dab468c75:
+  span:
+    start: 22886
+    end: 22891
+    errors: null
+  diffs:
+  - Narthang: སོགས་
+  - Peking: སོགས་
+  - Derge: ཚོགས་
+  - Open-Edition: ཚོགས་
+f1dc434342fd425983175f1bc138b8b7:
+  span:
+    start: 22974
+    end: 22979
+    errors: null
+  diffs:
+  - Narthang: རྒྱུ་
+  - Peking: རྒྱུ་
+  - Derge: སྒྱུ་
+  - Open-Edition: སྒྱུ་
+13789e9be8d8495ea02f0180a6a63ee1:
+  span:
+    start: 23223
+    end: 23227
+    errors: null
+  diffs:
+  - Narthang: འགྱུར།
+  - Peking: འགྱུར།
+  - Derge: ཡོད།
+  - Open-Edition: ཡོད།
+8a2e5999a74241439a4dcbaaffa9351b:
+  span:
+    start: 23380
+    end: 23384
+    errors: null
+  diffs:
+  - Narthang: ནི་
+  - Peking: ནི་
+  - Derge: འདི་
+  - Open-Edition: འདི་
+a1d88905e97d4929ac505f313e841267:
+  span:
+    start: 23498
+    end: 23502
+    errors: null
+  diffs:
+  - Narthang: དུལ་
+  - Peking: དུལ་
+  - Derge: ཐུལ་
+  - Open-Edition: ཐུལ་
+85964e030a4a41a592ff5a5593422462:
+  span:
+    start: 23877
+    end: 23881
+    errors: null
+  diffs:
+  - Narthang: བཏུལ་
+  - Peking: བཏུལ་
+  - Derge: ཐུལ་
+  - Open-Edition: ཐུལ་
+d89a79dc769e4d20a59502784df55aa7:
+  span:
+    start: 24298
+    end: 24302
+    errors: null
+  diffs:
+  - Narthang: དུང་
+  - Peking: དུང་
+  - Derge: རུང་
+  - Open-Edition: རུང་
+fcf6a644244946b88d869e88c443b5d6:
+  span:
+    start: 24885
+    end: 24889
+    errors: null
+  diffs:
+  - Narthang: ནི་
+  - Peking: ནི་
+  - Derge: འདི་
+  - Open-Edition: འདི་
+f9ac7dbf592c46c0bffe579bf4672967:
+  span:
+    start: 24953
+    end: 24960
+    errors: null
+  diffs:
+  - Narthang: བསྐྱེས་
+  - Peking: བསྐྱེས་
+  - Derge: བསྐྱེད་
+  - Open-Edition: བསྐྱེད་
+af006fafadca4886939c5c0c1d36f2bc:
+  span:
+    start: 25424
+    end: 25429
+    errors: null
+  diffs:
+  - Narthang: གྲོལ་
+  - Peking: གྲོལ་
+  - Derge: དྲོལ་
+  - Open-Edition: དྲོལ་
+7fd074e6f5e14470afb621aad261dd11:
+  span:
+    start: 25607
+    end: 25611
+    errors: null
+  diffs:
+  - Narthang: ཆེན་
+  - Peking: ཆེན་
+  - Derge: རིས་
+  - Open-Edition: རིས་
+9359ce571a5b494e8bd3f4ff290815c5:
+  span:
+    start: 25624
+    end: 25628
+    errors: null
+  diffs:
+  - Narthang: ཡིས། །
+  - Peking: ཡིས། །
+  - Derge: དག །
+  - Open-Edition: དག །
+26e010545b4f478ba95df55f147944f1:
+  span:
+    start: 25949
+    end: 25954
+    errors: null
+  diffs:
+  - Narthang: ལ་བབ
+  - Peking: ལ་བབ
+  - Derge: ཅད་འབ
+  - Open-Edition: ཅད་འབ
+facfaadbafaa45b898f7ee185d4ac1a0:
+  span:
+    start: 25956
+    end: 25959
+    errors: null
+  diffs:
+  - Narthang: ཀྱང་
+  - Peking: ཀྱང་
+  - Derge: པས་
+  - Open-Edition: པས་
+d0af6cf97e654ebbad87b5d3bc8052e9:
+  span:
+    start: 25985
+    end: 25992
+    errors: null
+  diffs:
+  - Narthang: སྐད་འདོམས་
+  - Peking: སྐད་འདོམས་
+  - Derge: ལྟར་ཐལ་
+  - Open-Edition: ལྟར་ཐལ་
+0072c8c7069e461fbff238fb2e2ffecd:
+  span:
+    start: 25992
+    end: 25998
+    errors: null
+  diffs:
+  - Narthang: པར་བྱ
+  - Peking: པར་བྱ
+  - Derge: མོ་སྦྱ
+  - Open-Edition: མོ་སྦྱ
+d3b2b1a91aeb41a8bb62ef94f935f400:
+  span:
+    start: 25998
+    end: 26001
+    errors: null
+  diffs:
+  - Narthang: ེད།
+  - Peking: ེད།
+  - Derge: ོར།
+  - Open-Edition: ོར།
+96846b0bc3d24886ba659e2e28448ac1:
+  span:
+    start: 26266
+    end: 26271
+    errors: null
+  diffs:
+  - Narthang: མྱུར་
+  - Peking: མྱུར་
+  - Derge: ལྷུར་
+  - Open-Edition: ལྷུར་
+660e87aedb9b47e5b39cb6a0b0991a31:
+  span:
+    start: 26673
+    end: 26677
+    errors: null
+  diffs:
+  - Narthang: སོ
+  - Peking: སོ
+  - Derge: འགྲོ
+  - Open-Edition: འགྲོ
+988bc861d8d3482fbc51b1fc889bb3f5:
+  span:
+    start: 26709
+    end: 26712
+    errors: null
+  diffs:
+  - Narthang: གཞག
+  - Peking: གཞག
+  - Derge: བཞག
+  - Open-Edition: བཞག
+b8ea6ac8aa0c4d9fb030e649b2a289ba:
+  span:
+    start: 26755
+    end: 26760
+    errors: null
+  diffs:
+  - Narthang: བསྟན་
+  - Peking: བསྟན་
+  - Derge: བརྟན་
+  - Open-Edition: བརྟན་
+7c678819f4af41348b9b8d349bfc89cd:
+  span:
+    start: 26978
+    end: 26985
+    errors: null
+  diffs:
+  - Narthang: བཅས་དྲན་པ་རྟག་ཏུ་
+  - Peking: བཅས་དྲན་པ་རྟག་ཏུ་
+  - Derge: ལྡན་དེ་
+  - Open-Edition: ལྡན་དེ་
+fc62afe6102d4c0680967a76e9ed100a:
+  span:
+    start: 27199
+    end: 27203
+    errors: null
+  diffs:
+  - Narthang: འདེ་
+  - Peking: འདེ་
+  - Derge: འདི་
+  - Open-Edition: འདི་
+368438f525a74bafac4a9d52240fad31:
+  span:
+    start: 27419
+    end: 27423
+    errors: null
+  diffs:
+  - Narthang: དགའ་
+  - Peking: དགའ་
+  - Derge: འགའ་
+  - Open-Edition: འགའ་
+4d79cad87b3a4970b8875773b8602d0f:
+  span:
+    start: 27627
+    end: 27630
+    errors: null
+  diffs:
+  - Narthang: ནས་
+  - Peking: ནས་
+  - Derge: དང་
+  - Open-Edition: དང་
+4af7a09e95634305b696225079b3db21:
+  span:
+    start: 27886
+    end: 27888
+    errors: null
+  diffs:
+  - Narthang: ག་
+  - Peking: ག་
+  - Derge: ཀ་
+  - Open-Edition: ཀ་
+6fa8829a6713404789dd74289e031b5f:
+  span:
+    start: 27946
+    end: 27950
+    errors: null
+  diffs:
+  - Narthang: བཏག
+  - Peking: བཏག
+  - Derge: བརྟག
+  - Open-Edition: བརྟག
+b02261f5715e4a209b555322f4544582:
+  span:
+    start: 28095
+    end: 28098
+    errors: null
+  diffs:
+  - Narthang: བས།
+  - Peking: བས།
+  - Derge: བར།
+  - Open-Edition: བར།
+dbabd878ecba4f4a8fc8e880c5ba6180:
+  span:
+    start: 28250
+    end: 28256
+    errors: null
+  diffs:
+  - Narthang: བསྟང་བ་
+  - Peking: བསྟང་བ་
+  - Derge: གཏང་པ་
+  - Open-Edition: གཏང་པ་
+675bd16b38ea4aec8af7186bcc3dbb41:
+  span:
+    start: 28900
+    end: 28905
+    errors: null
+  diffs:
+  - Narthang: འདྲུ་
+  - Peking: འདྲུ་
+  - Derge: འབྲུ་
+  - Open-Edition: འབྲུ་
+132e53c542fb4d4383ea1bbcb875bb4e:
+  span:
+    start: 29240
+    end: 29244
+    errors: null
+  diffs:
+  - Narthang: དག།
+  - Peking: དག།
+  - Derge: དང་།
+  - Open-Edition: དང་།
+46f0a0f995b641a59436c889dfbab3d8:
+  span:
+    start: 29526
+    end: 29531
+    errors: null
+  diffs:
+  - Narthang: བཟུང་
+  - Peking: བཟུང་
+  - Derge: གཟུང་
+  - Open-Edition: གཟུང་
+116bf71ac10044a18cba869ba40d7ca9:
+  span:
+    start: 29627
+    end: 29631
+    errors: null
+  diffs:
+  - Narthang: རབ་
+  - Peking: རབ་
+  - Derge: གཞན་
+  - Open-Edition: གཞན་
+ef90a6ae1fc64d89935ffb99e6cc7819:
+  span:
+    start: 29817
+    end: 29821
+    errors: null
+  diffs:
+  - Narthang: ཞིང་
+  - Peking: ཞིང་
+  - Derge: ཤིང་
+  - Open-Edition: ཤིང་
+9d0faab2a5df4bf3afb421467fbe8431:
+  span:
+    start: 29947
+    end: 29950
+    errors: null
+  diffs:
+  - Narthang: རབ་
+  - Peking: རབ་
+  - Derge: རི་
+  - Open-Edition: རི་
+dbf24f3079b4429fa33a64278aecd844:
+  span:
+    start: 30023
+    end: 30027
+    errors: null
+  diffs:
+  - Narthang: གཤལ་
+  - Peking: གཤལ་
+  - Derge: བཤལ་
+  - Open-Edition: བཤལ་
+b937bd34784c44a8ae961ba0e477e859:
+  span:
+    start: 30039
+    end: 30043
+    errors: null
+  diffs:
+  - Narthang: ལུས་
+  - Peking: ལུས་
+  - Derge: ཡིད་
+  - Open-Edition: ཡིད་
+c57ff0ab96484613b8471faf7c31b40c:
+  span:
+    start: 30844
+    end: 30847
+    errors: null
+  diffs:
+  - Narthang: བོ་
+  - Peking: བོ་
+  - Derge: འོ་
+  - Open-Edition: འོ་
+408223e8272a494faae2a404795cdc9d:
+  span:
+    start: 31373
+    end: 31376
+    errors: null
+  diffs:
+  - Narthang: ཏེ།
+  - Peking: ཏེ།
+  - Derge: དེ།
+  - Open-Edition: དེ།
+4a3c5edb379c4174add1425219f42bb1:
+  span:
+    start: 31661
+    end: 31667
+    errors: null
+  diffs:
+  - Narthang: འགྲུབ་
+  - Peking: འགྲུབ་
+  - Derge: སྒྲུབ་
+  - Open-Edition: སྒྲུབ་
+f56971b486344db8ab69d66aa7ca7a19:
+  span:
+    start: 32110
+    end: 32114
+    errors: null
+  diffs:
+  - Narthang: ལྟར་
+  - Peking: ལྟར་
+  - Derge: ལྟས་
+  - Open-Edition: ལྟས་
+35dd7bd3044b41cba603ad961bba36eb:
+  span:
+    start: 32596
+    end: 32598
+    errors: null
+  diffs:
+  - Narthang: ཅན་
+  - Peking: ཅན་
+  - Derge: བ་
+  - Open-Edition: བ་
+f3cbbbfa6aa84306b08c0c17f0744298:
+  span:
+    start: 32624
+    end: 32628
+    errors: null
+  diffs:
+  - Narthang: དགའ་
+  - Peking: དགའ་
+  - Derge: ལྡང་
+  - Open-Edition: ལྡང་
+7b60357a94b64087824b3c3b5a10f25d:
+  span:
+    start: 32881
+    end: 32884
+    errors: null
+  diffs:
+  - Narthang: པས་
+  - Peking: པས་
+  - Derge: པར་
+  - Open-Edition: པར་
+1cbab132a45b45a097d4d1bb73fc639d:
+  span:
+    start: 33221
+    end: 33225
+    errors: null
+  diffs:
+  - Narthang: བཏང་
+  - Peking: བཏང་
+  - Derge: གཏང་
+  - Open-Edition: གཏང་
+15584e3fb96f4818990c24cb7bbbf9ee:
+  span:
+    start: 33290
+    end: 33294
+    errors: null
+  diffs:
+  - Narthang: བཏང་
+  - Peking: བཏང་
+  - Derge: གཏང་
+  - Open-Edition: གཏང་
+bb2f3e071d5844e1b3e8db5538db2e0b:
+  span:
+    start: 33361
+    end: 33365
+    errors: null
+  diffs:
+  - Narthang: མཁར་
+  - Peking: མཁར་
+  - Derge: འཁར་
+  - Open-Edition: འཁར་
+536b1fe5c2e34012a76be7fa3b2ae94a:
+  span:
+    start: 33504
+    end: 33507
+    errors: null
+  diffs:
+  - Narthang: པར་
+  - Peking: པར་
+  - Derge: པས་
+  - Open-Edition: པས་
+b4b052f153434632bdeecabe7cb6b0f2:
+  span:
+    start: 33578
+    end: 33582
+    errors: null
+  diffs:
+  - Narthang: མདོདང་
+  - Peking: མདོ
+  - Derge: སྤྱོ
+  - Open-Edition: སྤྱོ
+9f86bdc646ac47ff93781a87078581d2:
+  span:
+    start: 33594
+    end: 33598
+    errors: null
+  diffs:
+  - Narthang: དྲིད་
+  - Peking: དྲིད་
+  - Derge: དོར་
+  - Open-Edition: དོར་
+ab9fed4dbdbc461f958c70a39b0ca255:
+  span:
+    start: 33606
+    end: 33609
+    errors: null
+  diffs:
+  - Narthang: སྤྱོ
+  - Peking: སྤྱོ
+  - Derge: མདོ
+  - Open-Edition: མདོ
+ea17fbf210424de3b35c87db4806a672:
+  span:
+    start: 33610
+    end: 33618
+    errors: null
+  diffs:
+  - Narthang: པའང་ཡོངས་
+  - Peking: པའང་ཡོངས་
+  - Derge: དང་སྔགས་
+  - Open-Edition: དང་སྔགས་
+4fd63fa8f2c540d1af60ecbcf9fb6dc2:
+  span:
+    start: 33623
+    end: 33629
+    errors: null
+  diffs:
+  - Narthang: འདོར་
+  - Peking: འདོར་
+  - Derge: འདྲིད་
+  - Open-Edition: འདྲིད་
+e4db647ff927455e9d54f8d05dd923bd:
+  span:
+    start: 33991
+    end: 33994
+    errors: null
+  diffs:
+  - Narthang: པའི་
+  - Peking: པའི་
+  - Derge: པས་
+  - Open-Edition: པས་
+13340f4dea0d4425a9b57eea661a279f:
+  span:
+    start: 34131
+    end: 34142
+    errors: null
+  diffs:
+  - Narthang: བརྣམས་བྲ་
+  - Peking: བརྣམས་བྱསྟེ།
+  - Derge: བརྡ་བྱས་ཏེ།
+  - Open-Edition: བརྡ་བྱས་ཏེ།
+d46af6f5471b470787fee924779e7ff9:
+  span:
+    start: 34153
+    end: 34159
+    errors: null
+  diffs:
+  - Narthang: བསྟམས་
+  - Peking: བསྟམས་
+  - Derge: བསྡམས་
+  - Open-Edition: བསྡམས་
+8b884d07aa2a4f60af9f1b5317d25843:
+  span:
+    start: 34973
+    end: 34977
+    errors: null
+  diffs:
+  - Narthang: གཏང་
+  - Peking: གཏང་
+  - Derge: བཏང་
+  - Open-Edition: བཏང་
+bef9bdf087f6436e82251e40bf41956c:
+  span:
+    start: 35935
+    end: 35942
+    errors: null
+  diffs:
+  - Narthang: ཀྱང་
+  - Peking: ཀྱང་
+  - Derge: ཀུན་ཡང་
+  - Open-Edition: ཀུན་ཡང་
+0c331d4c1fb54eeab634bf2438a38f06:
+  span:
+    start: 36939
+    end: 36942
+    errors: null
+  diffs:
+  - Narthang: འོན་
+  - Peking: འོན་
+  - Derge: གལ་
+  - Open-Edition: གལ་
+9b576b75da414f3b90a10da6665598de:
+  span:
+    start: 36959
+    end: 36962
+    errors: null
+  diffs:
+  - Narthang: ཡང་།
+  - Peking: ཡང་།
+  - Derge: ནི།
+  - Open-Edition: ནི།
+0201915c9975464cb3265f880654cf59:
+  span:
+    start: 36992
+    end: 36995
+    errors: null
+  diffs:
+  - Narthang: དང་
+  - Peking: དང་
+  - Derge: གམ་
+  - Open-Edition: གམ་
+8c17b41bebf748778d4c8d9928670209:
+  span:
+    start: 37245
+    end: 37249
+    errors: null
+  diffs:
+  - Narthang: ཀརྞ་
+  - Peking: ཀརྞ་
+  - Derge: ཀརྣ་
+  - Open-Edition: ཀརྣ་
+5096ecedb7374870be09c36e190ee344:
+  span:
+    start: 37262
+    end: 37264
+    errors: null
+  diffs:
+  - Narthang: གཅ
+  - Peking: གཅ
+  - Derge: བཅ
+  - Open-Edition: བཅ
+83186b30fe764882953fe564d18cd15b:
+  span:
+    start: 37344
+    end: 37347
+    errors: null
+  diffs:
+  - Narthang: ཏེ་
+  - Peking: ཏེ་
+  - Derge: ནི་
+  - Open-Edition: ནི་
+136b66731aa5477980425dfd43717966:
+  span:
+    start: 37416
+    end: 37419
+    errors: null
+  diffs:
+  - Narthang: ཤིང་།
+  - Peking: ཤིང་།
+  - Derge: པས།
+  - Open-Edition: པས།
+b012cfe88c184c8b80d1d1bcdfba157d:
+  span:
+    start: 37605
+    end: 37610
+    errors: null
+  diffs:
+  - Narthang: རྟེག་
+  - Peking: རྟེག་
+  - Derge: རྡེག་
+  - Open-Edition: རྡེག་
+c3b77491497341399462db895d38e6a2:
+  span:
+    start: 37627
+    end: 37631
+    errors: null
+  diffs:
+  - Narthang: གཟེ་
+  - Peking: གཟེ་
+  - Derge: བཟེ་
+  - Open-Edition: བཟེ་
+05c0622503f04781867b45cc2a9bf6de:
+  span:
+    start: 38399
+    end: 38403
+    errors: null
+  diffs:
+  - Narthang: ནི་
+  - Peking: ནི་
+  - Derge: འདི་
+  - Open-Edition: འདི་
+d5c4d247ceef485cbebc5a789c02d66f:
+  span:
+    start: 38800
+    end: 38807
+    errors: null
+  diffs:
+  - Narthang: མེད་
+  - Peking: མེད་
+  - Derge: བསྐྱེད་
+  - Open-Edition: བསྐྱེད་
+0b1b2c38d19641aaa7211d75d4ce53a2:
+  span:
+    start: 39029
+    end: 39031
+    errors: null
+  diffs:
+  - Narthang: པས།
+  - Peking: པས།
+  - Derge: བ།
+  - Open-Edition: བ།
+8365034145ef4098b6a6502d5deb7876:
+  span:
+    start: 39046
+    end: 39050
+    errors: null
+  diffs:
+  - Narthang: གང་
+  - Peking: གང་
+  - Derge: བའང་
+  - Open-Edition: བའང་
+cae28f2423514eac9dce038d94264696:
+  span:
+    start: 39158
+    end: 39160
+    errors: null
+  diffs:
+  - Narthang: པ་
+  - Peking: པ་
+  - Derge: ལ་
+  - Open-Edition: ལ་
+8cd8062d51964af8b98eb49fd8597217:
+  span:
+    start: 39616
+    end: 39621
+    errors: null
+  diffs:
+  - Narthang: སེམས་
+  - Peking: སེམས་
+  - Derge: སོམས་
+  - Open-Edition: སོམས་
+90784e6fd7fa4db892c440edfe0ee078:
+  span:
+    start: 40027
+    end: 40032
+    errors: null
+  diffs:
+  - Narthang: གནོད་
+  - Peking: གནོད་
+  - Derge: གསོད་
+  - Open-Edition: གསོད་
+0658fd15c0b547cab81caa7f769ca8b8:
+  span:
+    start: 40037
+    end: 40039
+    errors: null
+  diffs:
+  - Narthang: ན།
+  - Peking: ན།
+  - Derge: པ།
+  - Open-Edition: པ།
+213031dd8d73497a93243f309ab9b2ee:
+  span:
+    start: 40506
+    end: 40510
+    errors: null
+  diffs:
+  - Narthang: ཉིས་
+  - Peking: ཉིས་
+  - Derge: ཉེས་
+  - Open-Edition: ཉེས་
+12bc160d5c5742778ffb928e39209905:
+  span:
+    start: 40674
+    end: 40676
+    errors: null
+  diffs:
+  - Narthang: ཀའང་
+  - Peking: ཀའང་
+  - Derge: ག་
+  - Open-Edition: ག་
+8f7e9a718882409391269ca16f6d1627:
+  span:
+    start: 40813
+    end: 40819
+    errors: null
+  diffs:
+  - Narthang: ལྡོངས་
+  - Peking: ལྡོངས་
+  - Derge: མདོངས་
+  - Open-Edition: མདོངས་
+9923d22ecab54a3a9d99642261c51206:
+  span:
+    start: 41060
+    end: 41062
+    errors: null
+  diffs:
+  - Narthang: ན།
+  - Peking: ན།
+  - Derge: པ།
+  - Open-Edition: པ།
+3fa2820b2e2a436fa0041a75b571b18f:
+  span:
+    start: 41739
+    end: 41742
+    errors: null
+  diffs:
+  - Narthang: འདི་
+  - Peking: འདི་
+  - Derge: ནི་
+  - Open-Edition: ནི་
+bfa9f0419ae0417092ba0e7e6221e29d:
+  span:
+    start: 42414
+    end: 42417
+    errors: null
+  diffs:
+  - Narthang: ན་
+  - Peking: ན་
+  - Derge: སུ་
+  - Open-Edition: སུ་
+c539ff4ff67140faaca0bb0e1f222572:
+  span:
+    start: 42947
+    end: 42950
+    errors: null
+  diffs:
+  - Narthang: པའི།
+  - Peking: པའི།
+  - Derge: པས།
+  - Open-Edition: པས།
+4b209cc1c34247ec80e170ddb86aeb88:
+  span:
+    start: 43257
+    end: 43260
+    errors: null
+  diffs:
+  - Narthang: ཀས་
+  - Peking: ཀས་
+  - Derge: གས་
+  - Open-Edition: གས་
+0abf88d3c5c84964a60ac1d754906195:
+  span:
+    start: 43265
+    end: 43269
+    errors: null
+  diffs:
+  - Narthang: བྱེད་
+  - Peking: བྱེད་
+  - Derge: བྱས་
+  - Open-Edition: བྱས་
+9557fa7683464d41adc2af07c4951c65:
+  span:
+    start: 43883
+    end: 43892
+    errors: null
+  diffs:
+  - Narthang: བསད་པའི་
+  - Peking: བསད་པའི་
+  - Derge: གསད་བྱའི་
+  - Open-Edition: གསད་བྱའི་
+a1566979a2594a579cb106e7ad744302:
+  span:
+    start: 44156
+    end: 44161
+    errors: null
+  diffs:
+  - Narthang: མྱོས་
+  - Peking: མྱོས་
+  - Derge: མྱོང་
+  - Open-Edition: མྱོང་
+163b1e2ef2344cc2b2bfb2700b389111:
+  span:
+    start: 44634
+    end: 44638
+    errors: null
+  diffs:
+  - Narthang: ངན་
+  - Peking: ངན་
+  - Derge: རྔན་
+  - Open-Edition: རྔན་
+c20cd6d9f34b4bff9e62d163be6fb8d7:
+  span:
+    start: 44894
+    end: 44898
+    errors: null
+  diffs:
+  - Narthang: ནས།
+  - Peking: ནས།
+  - Derge: ན། །
+  - Open-Edition: ན། །
+7a899614cab447209396930ae36a1a9f:
+  span:
+    start: 45019
+    end: 45022
+    errors: null
+  diffs:
+  - Narthang: དེ་
+  - Peking: དེ་
+  - Derge: ཅི་
+  - Open-Edition: ཅི་
+cb310c7a6a8d47bca80ba7cdf4fd2cba:
+  span:
+    start: 45423
+    end: 45430
+    errors: null
+  diffs:
+  - Narthang: འདོད།
+  - Peking: འདོད།
+  - Derge: འདོར། །
+  - Open-Edition: འདོར། །
+02fa958dbc0248beb916511d0fecbc89:
+  span:
+    start: 45452
+    end: 45454
+    errors: null
+  diffs:
+  - Narthang: ལ།
+  - Peking: ལ།
+  - Derge: པ།
+  - Open-Edition: པ།
+40ca10a1b701465bbe059f505f7e14a8:
+  span:
+    start: 46228
+    end: 46232
+    errors: null
+  diffs:
+  - Narthang: ཞིང་
+  - Peking: ཞིང་
+  - Derge: ཅིང་
+  - Open-Edition: ཅིང་
+fa28f83a2b244a1fa565891535231605:
+  span:
+    start: 46437
+    end: 46441
+    errors: null
+  diffs:
+  - Narthang: དགྲ་
+  - Peking: དགྲ་
+  - Derge: སྒྲ་
+  - Open-Edition: སྒྲ་
+9dda30bdd9cd450689a490866fc9cea3:
+  span:
+    start: 46706
+    end: 46713
+    errors: null
+  diffs:
+  - Narthang: ཅི་ཕྱིར་
+  - Peking: ཅི་ཕྱིར་
+  - Derge: ཇི་ལྟར་
+  - Open-Edition: ཇི་ལྟར་
+da28cee2f8b644dc9ff6ef79059f0fc8:
+  span:
+    start: 46738
+    end: 46743
+    errors: null
+  diffs:
+  - Narthang: བྱུང་
+  - Peking: བྱུང་
+  - Derge: གྱུར་
+  - Open-Edition: གྱུར་
+9b76b718b79546c2a6e6fb1a712fe37b:
+  span:
+    start: 48071
+    end: 48074
+    errors: null
+  diffs:
+  - Narthang: འདི།
+  - Peking: འདི།
+  - Derge: ནི།
+  - Open-Edition: ནི།
+afc1044f2b184469a4dff72ff779a203:
+  span:
+    start: 48268
+    end: 48272
+    errors: null
+  diffs:
+  - Narthang: ཡི།
+  - Peking: ཡི།
+  - Derge: བའི།
+  - Open-Edition: བའི།
+f1024d59a7624da7a299db0e4004c8ee:
+  span:
+    start: 48456
+    end: 48461
+    errors: null
+  diffs:
+  - Narthang: བྱེད་
+  - Peking: བྱེད་
+  - Derge: མཆོད་
+  - Open-Edition: མཆོད་
+6285597809f643d188d2c2f49642f722:
+  span:
+    start: 49135
+    end: 49138
+    errors: null
+  diffs:
+  - Narthang: པར་
+  - Peking: པར་
+  - Derge: བར་
+  - Open-Edition: བར་
+2c279b377a1241f5878ae4da66c03997:
+  span:
+    start: 49212
+    end: 49215
+    errors: null
+  diffs:
+  - Narthang: ཞིག་
+  - Peking: ཞིག་
+  - Derge: ངག་
+  - Open-Edition: ངག་
+af74862df42f44d6b55740ff1a9baac8:
+  span:
+    start: 49496
+    end: 49500
+    errors: null
+  diffs:
+  - Narthang: མགུ་
+  - Peking: མགུ་
+  - Derge: དགུ་
+  - Open-Edition: དགུ་
+c9e8740136ef43528e12c4dc3bb7a416:
+  span:
+    start: 49504
+    end: 49507
+    errors: null
+  diffs:
+  - Narthang: དུ་
+  - Peking: དུ་
+  - Derge: ཏུ་
+  - Open-Edition: ཏུ་
+aebe94a0b7864d0dbfeefbbbb341559b:
+  span:
+    start: 49755
+    end: 49757
+    errors: null
+  diffs:
+  - Narthang: དབང་
+  - Peking: དབང་
+  - Derge: པ་
+  - Open-Edition: པ་
+39bcf307946540cc8ebf7ecab4c91f7f:
+  span:
+    start: 49970
+    end: 49972
+    errors: null
+  diffs:
+  - Narthang: བ་
+  - Peking: བ་
+  - Derge: ལ་
+  - Open-Edition: ལ་
+8f27b360b6994729b6928ac24a379794:
+  span:
+    start: 50081
+    end: 50085
+    errors: null
+  diffs:
+  - Narthang: ཀུན་
+  - Peking: ཀུན་
+  - Derge: ཐུབ་
+  - Open-Edition: ཐུབ་
+ac3e9485b2d64cb0aced7bf3388f482c:
+  span:
+    start: 50188
+    end: 50193
+    errors: null
+  diffs:
+  - Narthang: རྟོག་
+  - Peking: རྟོག་
+  - Derge: རྡོག་
+  - Open-Edition: རྡོག་
+2d21a998fc3d444187079a1b24519edc:
+  span:
+    start: 50214
+    end: 50217
+    errors: null
+  diffs:
+  - Narthang: གང་།
+  - Peking: གང་།
+  - Derge: གམ།
+  - Open-Edition: གམ།
+fb3e7794e2a54f078cb1a5cd4d53110c:
+  span:
+    start: 50232
+    end: 50236
+    errors: null
+  diffs:
+  - Narthang: བསྟོ
+  - Peking: བསྟོ
+  - Derge: བསྡོ
+  - Open-Edition: བསྡོ
+6c770a5ac0534d9aa598d2267e2fb928:
+  span:
+    start: 50731
+    end: 50734
+    errors: null
+  diffs:
+  - Narthang: དཔུ
+  - Peking: དཔུ
+  - Derge: མཐུ
+  - Open-Edition: མཐུ
+dfc4f5bd80554f3ab972b3b49c0e7039:
+  span:
+    start: 50854
+    end: 50857
+    errors: null
+  diffs:
+  - Narthang: ཇི་
+  - Peking: ཇི་
+  - Derge: དེ་
+  - Open-Edition: དེ་
+5384904a5f344de3b030fe31b9d09c47:
+  span:
+    start: 51233
+    end: 51239
+    errors: null
+  diffs:
+  - Narthang: སྐྱིད་
+  - Peking: སྐྱིད་
+  - Derge: སྐྱེད་
+  - Open-Edition: སྐྱེད་
+3d878170283542eaa43dd1ce52693f98:
+  span:
+    start: 51310
+    end: 51314
+    errors: null
+  diffs:
+  - Narthang: དང་།
+  - Peking: དང་།
+  - Derge: ཡིས།
+  - Open-Edition: ཡིས།
+d9a2635f54364abfa48178a818081308:
+  span:
+    start: 51641
+    end: 51644
+    errors: null
+  diffs:
+  - Narthang: ན།
+  - Peking: ན།
+  - Derge: བྱ།
+  - Open-Edition: བྱ།
+30bb4634d80344d9af3401ce8b909d04:
+  span:
+    start: 51727
+    end: 51732
+    errors: null
+  diffs:
+  - Narthang: གཉིས་
+  - Peking: གཉིས་
+  - Derge: གཉིད་
+  - Open-Edition: གཉིད་
+1879e5c32a4240e0a7f023ba171c3d4a:
+  span:
+    start: 51795
+    end: 51797
+    errors: null
+  diffs:
+  - Narthang: ངེ
+  - Peking: ངེ
+  - Derge: ཉེ
+  - Open-Edition: ཉེ
+26915101f41840789868d9e5e99f1dc5:
+  span:
+    start: 51798
+    end: 51801
+    errors: null
+  diffs:
+  - Narthang: པར་
+  - Peking: པར་
+  - Derge: བར་
+  - Open-Edition: བར་
+f7d0325a4e694bcf97e5375e0d0c9586:
+  span:
+    start: 52294
+    end: 52299
+    errors: null
+  diffs:
+  - Narthang: བྱེད་
+  - Peking: བྱེད་
+  - Derge: ཕྱེད་
+  - Open-Edition: ཕྱེད་
+9f53ae22024348ccb8198cdeae2e10f3:
+  span:
+    start: 52316
+    end: 52320
+    errors: null
+  diffs:
+  - Narthang: བློ་
+  - Peking: བློ་
+  - Derge: གློ་
+  - Open-Edition: གློ་
+9463ad110e694634b226a0f00ad61f40:
+  span:
+    start: 52507
+    end: 52509
+    errors: null
+  diffs:
+  - Narthang: པ་
+  - Peking: པ་
+  - Derge: བ་
+  - Open-Edition: བ་
+9526e7caeb2e4ce9b2c70dad5c4922e6:
+  span:
+    start: 52617
+    end: 52622
+    errors: null
+  diffs:
+  - Narthang: འདྲེ་
+  - Peking: འདྲེ་
+  - Derge: འགྲེ་
+  - Open-Edition: འགྲེ་
+66b54913ced64c30b236909699cac57d:
+  span:
+    start: 52855
+    end: 52859
+    errors: null
+  diffs:
+  - Narthang: གཟེ་
+  - Peking: གཟེ་
+  - Derge: བཟེ་
+  - Open-Edition: བཟེ་
+94638aa825da44d187a6d29073c784ed:
+  span:
+    start: 52894
+    end: 52899
+    errors: null
+  diffs:
+  - Narthang: བཞིང་
+  - Peking: བཞིང་
+  - Derge: བཞིན་
+  - Open-Edition: བཞིན་
+b25922dfcbbb40629badca0c15f3b330:
+  span:
+    start: 52990
+    end: 52996
+    errors: null
+  diffs:
+  - Narthang: གྲོལ།
+  - Peking: གྲོལ།
+  - Derge: སྒྲོལ།
+  - Open-Edition: སྒྲོལ།
+7745cd5ad35e4c2b8778142c7b6f003a:
+  span:
+    start: 53390
+    end: 53393
+    errors: null
+  diffs:
+  - Narthang: པས་
+  - Peking: པས་
+  - Derge: བས་
+  - Open-Edition: བས་
+86e742c72836451a973296b837b1e0ac:
+  span:
+    start: 53638
+    end: 53643
+    errors: null
+  diffs:
+  - Narthang: མཐོང་།
+  - Peking: མཐོང་།
+  - Derge: འཐོབ།
+  - Open-Edition: འཐོབ།
+e60b17c34cc5479fb1c2a01e3485ec23:
+  span:
+    start: 53794
+    end: 53798
+    errors: null
+  diffs:
+  - Narthang: བཅས་
+  - Peking: བཅས་
+  - Derge: བཅད་
+  - Open-Edition: བཅད་
+32a3b1cb4abe427eadf73a48a4a82095:
+  span:
+    start: 53800
+    end: 53806
+    errors: null
+  diffs:
+  - Narthang: ན།
+  - Peking: ན།
+  - Derge: དང་། །
+  - Open-Edition: དང་། །
+42cbf200d352456891b0b04e4c3a7ba3:
+  span:
+    start: 54523
+    end: 54528
+    errors: null
+  diffs:
+  - Narthang: ལུས་
+  - Peking: ལུས་
+  - Derge: སེམས་
+  - Open-Edition: སེམས་
+24c4d93eff864b2e9dbe5a324116ce5c:
+  span:
+    start: 54531
+    end: 54535
+    errors: null
+  diffs:
+  - Narthang: སེམས་
+  - Peking: སེམས་
+  - Derge: ལུས་
+  - Open-Edition: ལུས་
+03441008882b4d16a0b95170f5f957b6:
+  span:
+    start: 54768
+    end: 54771
+    errors: null
+  diffs:
+  - Narthang: ལས་
+  - Peking: ལས་
+  - Derge: པས་
+  - Open-Edition: པས་
+b31907dd6d434093941f6e1c437b08b5:
+  span:
+    start: 54913
+    end: 54918
+    errors: null
+  diffs:
+  - Narthang: སྒྲུབ་
+  - Peking: སྒྲུབ་
+  - Derge: གྲུབ་
+  - Open-Edition: གྲུབ་
+dcfb0331c9204d1bb0eeeac280cd980f:
+  span:
+    start: 55084
+    end: 55088
+    errors: null
+  diffs:
+  - Narthang: བླང་
+  - Peking: བླང་
+  - Derge: ལེན་
+  - Open-Edition: ལེན་
+cc06268c7d024324b47d119b8a0b79e0:
+  span:
+    start: 55346
+    end: 55351
+    errors: null
+  diffs:
+  - Narthang: སྟེང་
+  - Peking: སྟེང་
+  - Derge: ཕྱིར་
+  - Open-Edition: ཕྱིར་
+d1dc824cfdef4e6d937627f16da9d7ae:
+  span:
+    start: 55479
+    end: 55481
+    errors: null
+  diffs:
+  - Narthang: གི
+  - Peking: གི
+  - Derge: ནི
+  - Open-Edition: ནི
+82941e81595b4471a8efc4a06fde4f06:
+  span:
+    start: 55548
+    end: 55551
+    errors: null
+  diffs:
+  - Narthang: ཡང་།
+  - Peking: ཡང་།
+  - Derge: ནི།
+  - Open-Edition: ནི།
+a8088edc195a4f279f133a2c6c64eaac:
+  span:
+    start: 55739
+    end: 55744
+    errors: null
+  diffs:
+  - Narthang: བྱས་
+  - Peking: བྱས་
+  - Derge: བྱིན་
+  - Open-Edition: བྱིན་
+673b5693ff0949e5886381e62d5a07f1:
+  span:
+    start: 55980
+    end: 55983
+    errors: null
+  diffs:
+  - Narthang: ཡང་
+  - Peking: ཡང་
+  - Derge: ཡི་
+  - Open-Edition: ཡི་
+5ec9a11af58847898a7d9020a802ee51:
+  span:
+    start: 56790
+    end: 56795
+    errors: null
+  diffs:
+  - Narthang: ལྟུང་
+  - Peking: ལྟུང་
+  - Derge: ལྷུང་
+  - Open-Edition: ལྷུང་
+d8b356b616cd405cb9352394fda419ae:
+  span:
+    start: 56964
+    end: 56967
+    errors: null
+  diffs:
+  - Narthang: འམ་
+  - Peking: འམ་
+  - Derge: མམ་
+  - Open-Edition: མམ་
+79a99e42717940feb6136a063d5a544a:
+  span:
+    start: 57149
+    end: 57155
+    errors: null
+  diffs:
+  - Narthang: འགྲུབ་
+  - Peking: འགྲུབ་
+  - Derge: སྒྲུབ་
+  - Open-Edition: སྒྲུབ་
+7d519c8ef33f47688e608fc7dc93f4c2:
+  span:
+    start: 57461
+    end: 57468
+    errors: null
+  diffs:
+  - Narthang: བྱེད་དེ།
+  - Peking: བྱེད་དེ།
+  - Derge: བྱས་ཏེ།
+  - Open-Edition: བྱས་ཏེ།
+69e79db2873b419aa4426d588c1b7027:
+  span:
+    start: 57764
+    end: 57767
+    errors: null
+  diffs:
+  - Narthang: པ་
+  - Peking: པ་
+  - Derge: བྱ་
+  - Open-Edition: བྱ་
+9f3816c8a1e648b0b7db093a7dede5d5:
+  span:
+    start: 57795
+    end: 57797
+    errors: null
+  diffs:
+  - Narthang: ཏེ།
+  - Peking: ཏེ།
+  - Derge: ན།
+  - Open-Edition: ན།
+fd60e647f05d45a6b8577332af2497b6:
+  span:
+    start: 57912
+    end: 57916
+    errors: null
+  diffs:
+  - Narthang: པས།
+  - Peking: པས།
+  - Derge: གིས།
+  - Open-Edition: གིས།
+327bed2bc96c4ecfb951cf8f8e173c5c:
+  span:
+    start: 58160
+    end: 58163
+    errors: null
+  diffs:
+  - Narthang: ཟན་
+  - Peking: ཟན་
+  - Derge: ཟས་
+  - Open-Edition: ཟས་
+c2f8c7d8de5e4612b3780a3de133e751:
+  span:
+    start: 58367
+    end: 58369
+    errors: null
+  diffs:
+  - Narthang: ཉི
+  - Peking: ཉི
+  - Derge: ནི
+  - Open-Edition: ནི
+4b8cc29d590a41eb84c067f197b3af52:
+  span:
+    start: 58567
+    end: 58570
+    errors: null
+  diffs:
+  - Narthang: པའི་
+  - Peking: པའི་
+  - Derge: པས་
+  - Open-Edition: པས་
+af253cf8a96d468fbd7f378d993ac369:
+  span:
+    start: 58593
+    end: 58598
+    errors: null
+  diffs:
+  - Narthang: ཕྱོགས་
+  - Peking: ཕྱོགས་
+  - Derge: ཚོགས་
+  - Open-Edition: ཚོགས་
+e10463a9c3ba4c8d98b082d5a3dfdb38:
+  span:
+    start: 58941
+    end: 58945
+    errors: null
+  diffs:
+  - Narthang: པའི་
+  - Peking: པའི་
+  - Derge: བའི་
+  - Open-Edition: བའི་
+622b5dcda56249148b8b6c59d185feda:
+  span:
+    start: 59341
+    end: 59344
+    errors: null
+  diffs:
+  - Narthang: ནི་
+  - Peking: ནི་
+  - Derge: ཡང་
+  - Open-Edition: ཡང་
+6bab69ddad79485c8370271fa331b0b6:
+  span:
+    start: 59471
+    end: 59476
+    errors: null
+  diffs:
+  - Narthang: སྙིང་
+  - Peking: སྙིང་
+  - Derge: རྙིང་
+  - Open-Edition: རྙིང་
+20fc8a9147ae439f82fcc85bdac7774e:
+  span:
+    start: 59508
+    end: 59510
+    errors: null
+  diffs:
+  - Narthang: ག་
+  - Peking: ག་
+  - Derge: ཁ་
+  - Open-Edition: ཁ་
+d00a4d6ffd27418d957479b192d32807:
+  span:
+    start: 59541
+    end: 59546
+    errors: null
+  diffs:
+  - Narthang: བཟུང་
+  - Peking: བཟུར་
+  - Derge: གཟུར་
+  - Open-Edition: གཟུར་
+cc2b7542e86343eda0f080e24eff875d:
+  span:
+    start: 59574
+    end: 59579
+    errors: null
+  diffs:
+  - Narthang: འཇེབས་
+  - Peking: འཇེབས་
+  - Derge: གཞོམ་
+  - Open-Edition: གཞོམ་
+fbf1ea9ec16540369bc7f5b8d0e4c576:
+  span:
+    start: 59742
+    end: 59744
+    errors: null
+  diffs:
+  - Narthang: གི
+  - Peking: གི
+  - Derge: ནི
+  - Open-Edition: ནི
+21f3aaaa0ecd41b696cf213790be7536:
+  span:
+    start: 59824
+    end: 59829
+    errors: null
+  diffs:
+  - Narthang: ཉུངས་
+  - Peking: ཉུངས་
+  - Derge: ཡུངས་
+  - Open-Edition: ཡུངས་
+3c5f1e52dddd43848840ac76af03f96f:
+  span:
+    start: 59879
+    end: 59882
+    errors: null
+  diffs:
+  - Narthang: སྟེ།
+  - Peking: སྟེ།
+  - Derge: དེ།
+  - Open-Edition: དེ།
+f3ea981fd6c34dc99f99bbfae7bb9dbe:
+  span:
+    start: 60363
+    end: 60367
+    errors: null
+  diffs:
+  - Narthang: གིས་
+  - Peking: གིས་
+  - Derge: ཉིད་
+  - Open-Edition: ཉིད་
+7a74432f1673448fbd0e839d8bfbd738:
+  span:
+    start: 60646
+    end: 60649
+    errors: null
+  diffs:
+  - Narthang: གཞག
+  - Peking: གཞག
+  - Derge: བཞག
+  - Open-Edition: བཞག
+41ef335263aa42cb8e62db7dcff7a1d2:
+  span:
+    start: 60773
+    end: 60783
+    errors: null
+  diffs:
+  - Narthang: སྡུག་བསྔལ་
+  - Peking: སྡུག་བསྔལ་
+  - Derge: འཇིག་རྟེན་
+  - Open-Edition: འཇིག་རྟེན་
+90aaa48e2dff45dda170729cc5ebe5e3:
+  span:
+    start: 60881
+    end: 60885
+    errors: null
+  diffs:
+  - Narthang: ཏེ།
+  - Peking: ཏེ།
+  - Derge: སྟེ།
+  - Open-Edition: སྟེ།
+bd00e69ed6544dcf84b68023faef2523:
+  span:
+    start: 61158
+    end: 61162
+    errors: null
+  diffs:
+  - Narthang: དག་
+  - Peking: དག་
+  - Derge: ཕྲག་
+  - Open-Edition: ཕྲག་
+c360c13a87024aa3861412b96658db3e:
+  span:
+    start: 61647
+    end: 61653
+    errors: null
+  diffs:
+  - Narthang: བརྟེན་
+  - Peking: བརྟེན་
+  - Derge: བསྟེན་
+  - Open-Edition: བསྟེན་
+c4080938af8c43428a82493e0b352ed9:
+  span:
+    start: 61685
+    end: 61689
+    errors: null
+  diffs:
+  - Narthang: མཛར་
+  - Peking: མཛར་
+  - Derge: མཛའ་
+  - Open-Edition: མཛའ་
+c7bf91aabd1949f1a472ee2e3b641f85:
+  span:
+    start: 61711
+    end: 61714
+    errors: null
+  diffs:
+  - Narthang: གི་
+  - Peking: གི་
+  - Derge: ནི་
+  - Open-Edition: ནི་
+7c9fe2dc4b6a4819919e1c6b31d4f08c:
+  span:
+    start: 61882
+    end: 61886
+    errors: null
+  diffs:
+  - Narthang: འདོ
+  - Peking: འདོ
+  - Derge: འགྲོ
+  - Open-Edition: འགྲོ
+1616f96541074bb1bf5cade2bdd16df7:
+  span:
+    start: 61916
+    end: 61919
+    errors: null
+  diffs:
+  - Narthang: ལ་
+  - Peking: ལ་
+  - Derge: དང་
+  - Open-Edition: དང་
+397c52110bab4393a7d8bc83cd224b5a:
+  span:
+    start: 62318
+    end: 62321
+    errors: null
+  diffs:
+  - Narthang: བས།
+  - Peking: བས།
+  - Derge: བར།
+  - Open-Edition: བར།
+bb4641a973bd409ba689bb94a915a535:
+  span:
+    start: 62636
+    end: 62643
+    errors: null
+  diffs:
+  - Narthang: བསྟོངས་
+  - Peking: བསྟོངས་
+  - Derge: བསྡོངས་
+  - Open-Edition: བསྡོངས་
+a7f6dd964ff04e59a11de5d265435f2e:
+  span:
+    start: 62681
+    end: 62685
+    errors: null
+  diffs:
+  - Narthang: ཞིང་
+  - Peking: ཞིང་
+  - Derge: ཅིང་
+  - Open-Edition: ཅིང་
+f07dbe443e084e029320cbd2ce120fc6:
+  span:
+    start: 63317
+    end: 63326
+    errors: null
+  diffs:
+  - Narthang: དང་
+  - Peking: དང་
+  - Derge: པ་འགའ་ཡང་
+  - Open-Edition: པ་འགའ་ཡང་
+875461f6aefe4cd18fa8a502ee6fcffe:
+  span:
+    start: 63331
+    end: 63339
+    errors: null
+  diffs:
+  - Narthang: མེད་ཅེས།
+  - Peking: མེད་ཅེས།
+  - Derge: མིན་ཞེས།
+  - Open-Edition: མིན་ཞེས།
+130b2cd49f9a47fbb43db4440ef4c2b4:
+  span:
+    start: 63392
+    end: 63397
+    errors: null
+  diffs:
+  - Narthang: དག་
+  - Peking: དག་
+  - Derge: རྣམས་
+  - Open-Edition: རྣམས་
+398892c5850746f9976cdf5516c98519:
+  span:
+    start: 63783
+    end: 63787
+    errors: null
+  diffs:
+  - Narthang: ནི་
+  - Peking: ནི་
+  - Derge: འདི་
+  - Open-Edition: འདི་
+d2db03a6832f48e196a28a91457bcfb8:
+  span:
+    start: 63900
+    end: 63904
+    errors: null
+  diffs:
+  - Narthang: ཚོག་
+  - Peking: ཚོག་
+  - Derge: ཆོས་
+  - Open-Edition: ཆོས་
+d2bcf9087290400ea9e991a8c449e578:
+  span:
+    start: 64163
+    end: 64166
+    errors: null
+  diffs:
+  - Narthang: ལྟ་
+  - Peking: ལྟ་
+  - Derge: དག་
+  - Open-Edition: དག་
+9ecb556cbf894bbba8cd6c9503047ec5:
+  span:
+    start: 64703
+    end: 64707
+    errors: null
+  diffs:
+  - Narthang: འདེ་
+  - Peking: འདེ་
+  - Derge: འདི་
+  - Open-Edition: འདི་
+68c2858ca2bb4ebeb84b8c180aab9d76:
+  span:
+    start: 64815
+    end: 64821
+    errors: null
+  diffs:
+  - Narthang: སྐྱེད་
+  - Peking: སྐྱེད་
+  - Derge: སྐྱིད་
+  - Open-Edition: སྐྱིད་
+568a79956c0d432fb7bca1219ff5bcb3:
+  span:
+    start: 64893
+    end: 64895
+    errors: null
+  diffs:
+  - Narthang: གྱི
+  - Peking: གྱི
+  - Derge: ནི
+  - Open-Edition: ནི
+2113e20bf10242c1b105dc0f2d09a9dc:
+  span:
+    start: 64988
+    end: 64991
+    errors: null
+  diffs:
+  - Narthang: དེ་
+  - Peking: དེ་
+  - Derge: ཏེ་
+  - Open-Edition: ཏེ་
+8abedbb885e641fcaf89c7dc6aaa329d:
+  span:
+    start: 65220
+    end: 65226
+    errors: null
+  diffs:
+  - Narthang: གཟེམས་
+  - Peking: གཟེམས་
+  - Derge: འཛོམས་
+  - Open-Edition: འཛོམས་
+b7e3e366b6b64797808b7020d9ff387f:
+  span:
+    start: 65301
+    end: 65307
+    errors: null
+  diffs:
+  - Narthang: བཞུད་
+  - Peking: བཞུད་
+  - Derge: འཁྱུད་
+  - Open-Edition: འཁྱུད་
+79e7f0e464fb4927ae4b19ba705abd1f:
+  span:
+    start: 65641
+    end: 65645
+    errors: null
+  diffs:
+  - Narthang: གསལ་
+  - Peking: གསལ་
+  - Derge: བསལ་
+  - Open-Edition: བསལ་
+79cb957004df42e7979bd46016c8441d:
+  span:
+    start: 65672
+    end: 65681
+    errors: null
+  diffs:
+  - Narthang: འབྱེད་པར་
+  - Peking: འབྱེད་པར་
+  - Derge: འབྱེར་བར་
+  - Open-Edition: འབྱེར་བར་
+aadc4699ba5d46e48de487ed3a2d3149:
+  span:
+    start: 65717
+    end: 65720
+    errors: null
+  diffs:
+  - Narthang: གའ་
+  - Peking: གའ་
+  - Derge: གང་
+  - Open-Edition: གང་
+07d06d78f1954fe782831589c3f55b98:
+  span:
+    start: 66471
+    end: 66476
+    errors: null
+  diffs:
+  - Narthang: བཟེབ་
+  - Peking: བཟེབ་
+  - Derge: གཟེབ་
+  - Open-Edition: གཟེབ་
+704572c368e04c8088f5152930aedacc:
+  span:
+    start: 66595
+    end: 66599
+    errors: null
+  diffs:
+  - Narthang: བརྟན་
+  - Peking: བརྟན་
+  - Derge: གཏན་
+  - Open-Edition: གཏན་
+17a8344179c6424d9cb9dcd981b905ae:
+  span:
+    start: 66716
+    end: 66719
+    errors: null
+  diffs:
+  - Narthang: གོ།
+  - Peking: གོ།
+  - Derge: ཀོ།
+  - Open-Edition: ཀོ།
+09bc7981926c49a99e86b8aca3273495:
+  span:
+    start: 66759
+    end: 66764
+    errors: null
+  diffs:
+  - Narthang: གོ་ཅི
+  - Peking: གོ་ཅི
+  - Derge: ཀོ་ཇི
+  - Open-Edition: ཀོ་ཇི
+64a31e5405044d59ae675c05db9794ea:
+  span:
+    start: 66765
+    end: 66769
+    errors: null
+  diffs:
+  - Narthang: མི་
+  - Peking: མི་
+  - Derge: ལྟར་
+  - Open-Edition: ལྟར་
+7b9a676dfe1446519f940fb31d1b53f0:
+  span:
+    start: 67305
+    end: 67310
+    errors: null
+  diffs:
+  - Narthang: ཡོད་
+  - Peking: ཡོད་
+  - Derge: ཁྱོད་
+  - Open-Edition: ཁྱོད་
+096901099fff4c88842cb60a28b4e8d1:
+  span:
+    start: 67463
+    end: 67465
+    errors: null
+  diffs:
+  - Narthang: གི
+  - Peking: གི
+  - Derge: ཉི
+  - Open-Edition: ཉི
+5f3ab460ab8e4f59814de04eb488ed4a:
+  span:
+    start: 67658
+    end: 67663
+    errors: null
+  diffs:
+  - Narthang: བརྩོག་
+  - Peking: བརྩོག་
+  - Derge: བཙོག་
+  - Open-Edition: བཙོག་
+4fe114833f7f49368561e770652bc844:
+  span:
+    start: 67964
+    end: 67972
+    errors: null
+  diffs:
+  - Narthang: ཡིས་
+  - Peking: ཡིས་གཞད་
+  - Derge: དེས་གཞན་
+  - Open-Edition: དེས་གཞན་
+fbe4b2db5245492dbcc64bbdd2c48e05:
+  span:
+    start: 68075
+    end: 68080
+    errors: null
+  diffs:
+  - Narthang: སྲེད་
+  - Peking: སྲེད་
+  - Derge: སྲེག་
+  - Open-Edition: སྲེག་
+a397096f95e7429a848456ec905a2008:
+  span:
+    start: 68086
+    end: 68089
+    errors: null
+  diffs:
+  - Narthang: ཅི་
+  - Peking: ཅི་
+  - Derge: ཇི་
+  - Open-Edition: ཇི་
+831f2f10c6c5454abc42a3fb920a0ecc:
+  span:
+    start: 68360
+    end: 68363
+    errors: null
+  diffs:
+  - Narthang: ན།
+  - Peking: ན།
+  - Derge: དུ།
+  - Open-Edition: དུ།
+c2f36cc6c9dc4493a591cf61599158df:
+  span:
+    start: 68462
+    end: 68466
+    errors: null
+  diffs:
+  - Narthang: འགའ་
+  - Peking: འགའ་
+  - Derge: འབའ་
+  - Open-Edition: འབའ་
+3c6d642efd9e42248bd4b0781af27f85:
+  span:
+    start: 68664
+    end: 68668
+    errors: null
+  diffs:
+  - Narthang: པས་
+  - Peking: པས་
+  - Derge: པའི་
+  - Open-Edition: པའི་
+3e680471946e4f0c88af73f86e6b9dca:
+  span:
+    start: 68722
+    end: 68729
+    errors: null
+  diffs:
+  - Narthang: འདིར་
+  - Peking: འདིར་
+  - Derge: འདི་ཅི་
+  - Open-Edition: འདི་ཅི་
+0e78deccac9140e287ac9978f98739fc:
+  span:
+    start: 68750
+    end: 68753
+    errors: null
+  diffs:
+  - Narthang: ཚིག་
+  - Peking: ཚིག་
+  - Derge: ཚེ་
+  - Open-Edition: ཚེ་
+f4b842de86ea4d3cb50ae46fec3ae626:
+  span:
+    start: 69037
+    end: 69042
+    errors: null
+  diffs:
+  - Narthang: འདོགས་
+  - Peking: འདོགས་
+  - Derge: འདོད་
+  - Open-Edition: འདོད་
+1b623cc291ec4ad9acf7e7385e2b87b4:
+  span:
+    start: 69071
+    end: 69075
+    errors: null
+  diffs:
+  - Narthang: བརྩོང
+  - Peking: བརྩོང
+  - Derge: བཙོང
+  - Open-Edition: བཙོང
+1a1eb07a19f2407c9ed606d2381575d4:
+  span:
+    start: 69076
+    end: 69078
+    errors: null
+  diffs:
+  - Narthang: པ་
+  - Peking: པ་
+  - Derge: བ་
+  - Open-Edition: བ་
+cb64938eed83497a91aac97241286acd:
+  span:
+    start: 69154
+    end: 69158
+    errors: null
+  diffs:
+  - Narthang: བརྩོང
+  - Peking: བརྩོང
+  - Derge: བཙོང
+  - Open-Edition: བཙོང
+1f5a6ee7240b4196bd94860ec95171cf:
+  span:
+    start: 69159
+    end: 69163
+    errors: null
+  diffs:
+  - Narthang: ཤིང་
+  - Peking: ཤིང་
+  - Derge: ཞིང་
+  - Open-Edition: ཞིང་
+7734a0a7445043c3b167f8ca80a306b7:
+  span:
+    start: 69311
+    end: 69316
+    errors: null
+  diffs:
+  - Narthang: སྲེག་
+  - Peking: སྲེག་
+  - Derge: སྲོག་
+  - Open-Edition: སྲོག་
+d05859b04bc8452c93f94fc0bc30e042:
+  span:
+    start: 70600
+    end: 70603
+    errors: null
+  diffs:
+  - Narthang: པའི་
+  - Peking: པའི་
+  - Derge: པར་
+  - Open-Edition: པར་
+ec8a9cf4fc9b4ef589c9180db5493d7f:
+  span:
+    start: 70672
+    end: 70674
+    errors: null
+  diffs:
+  - Narthang: པའི།
+  - Peking: པའི།
+  - Derge: ' །'
+  - Open-Edition: ' །'
+e22d378b175643deb70835403239769e:
+  span:
+    start: 71038
+    end: 71045
+    errors: null
+  diffs:
+  - Narthang: པའི་
+  - Peking: པའི་
+  - Derge: བ་ཐ་དད་
+  - Open-Edition: བ་ཐ་དད་
+77c81ff0ad9847d4ab77170db09e5f24:
+  span:
+    start: 71292
+    end: 71295
+    errors: null
+  diffs:
+  - Narthang: ཏེ།
+  - Peking: ཏེ།
+  - Derge: དེ།
+  - Open-Edition: དེ།
+a8b883e8987e4597950ffe3b25cd5fae:
+  span:
+    start: 72216
+    end: 72220
+    errors: null
+  diffs:
+  - Narthang: དབང་
+  - Peking: དབང་
+  - Derge: སྤང་
+  - Open-Edition: སྤང་
+5ea64e36b839481589cbedcda3c5c001:
+  span:
+    start: 72325
+    end: 72329
+    errors: null
+  diffs:
+  - Narthang: དེས་
+  - Peking: དེས་
+  - Derge: དེར་
+  - Open-Edition: དེར་
+36c28eff69fe43629bdcee5c77b4b161:
+  span:
+    start: 72493
+    end: 72495
+    errors: null
+  diffs:
+  - Narthang: བས།
+  - Peking: བས།
+  - Derge: པ།
+  - Open-Edition: པ།
+c33df6856746458fbf5645e8a0f2703d:
+  span:
+    start: 72632
+    end: 72635
+    errors: null
+  diffs:
+  - Narthang: དུ་
+  - Peking: དུ་
+  - Derge: པོ་
+  - Open-Edition: པོ་
+ae18d93bb70243ed81286d81082bad29:
+  span:
+    start: 72952
+    end: 72955
+    errors: null
+  diffs:
+  - Narthang: ནི་
+  - Peking: ནི་
+  - Derge: པར་
+  - Open-Edition: པར་
+aa1cf9a0c6ea4c9f98be2f9ccdd87551:
+  span:
+    start: 73049
+    end: 73053
+    errors: null
+  diffs:
+  - Narthang: ལྟར་
+  - Peking: ལྟར་
+  - Derge: ལྟས་
+  - Open-Edition: ལྟས་
+4558872d3ecb45239b891f25fdf63573:
+  span:
+    start: 73086
+    end: 73089
+    errors: null
+  diffs:
+  - Narthang: དེ་
+  - Peking: དེ་
+  - Derge: དང་
+  - Open-Edition: དང་
+f287640990c04bbc8dcee7ed14d9eab4:
+  span:
+    start: 73467
+    end: 73471
+    errors: null
+  diffs:
+  - Narthang: གཞག་
+  - Peking: གཞག་
+  - Derge: བཞག་
+  - Open-Edition: བཞག་
+4a50bd908466456bbe72120e44c54316:
+  span:
+    start: 74192
+    end: 74197
+    errors: null
+  diffs:
+  - Narthang: བཟློག་
+  - Peking: བཟློག་
+  - Derge: ལྡོག་
+  - Open-Edition: ལྡོག་
+4996e1fcb2d24c008a4afd7141187591:
+  span:
+    start: 74372
+    end: 74375
+    errors: null
+  diffs:
+  - Narthang: བར་
+  - Peking: བར་
+  - Derge: བྱ་
+  - Open-Edition: བྱ་
+d62d02dab2af45f38e0609272b761fe8:
+  span:
+    start: 74950
+    end: 74954
+    errors: null
+  diffs:
+  - Narthang: ཞེས།
+  - Peking: ཞེས།
+  - Derge: ཅེས།
+  - Open-Edition: ཅེས།
+1634c281cda042d2b446df4ceb9cb76b:
+  span:
+    start: 75032
+    end: 75035
+    errors: null
+  diffs:
+  - Narthang: བར་
+  - Peking: བར་
+  - Derge: པར་
+  - Open-Edition: པར་
+b33f4316691b4f50a0ee3f8e4a8da254:
+  span:
+    start: 75740
+    end: 75744
+    errors: null
+  diffs:
+  - Narthang: ངན་
+  - Peking: ངན་
+  - Derge: རྔན་
+  - Open-Edition: རྔན་
+a7835632babd4295b79502a4fc3bf1b6:
+  span:
+    start: 75882
+    end: 75888
+    errors: null
+  diffs:
+  - Narthang: རྒྱུད།
+  - Peking: རྒྱུད།
+  - Derge: རྒྱུས།
+  - Open-Edition: རྒྱུས།
+8a1e9e7f352d4079bc28379c9c1bfcdd:
+  span:
+    start: 75937
+    end: 75941
+    errors: null
+  diffs:
+  - Narthang: འཚོ་
+  - Peking: འཚོ་
+  - Derge: འཚེ་
+  - Open-Edition: འཚེ་
+d955e6d2c7454ea2a8768870d3686791:
+  span:
+    start: 76173
+    end: 76177
+    errors: null
+  diffs:
+  - Narthang: ལྟས་
+  - Peking: ལྟས་
+  - Derge: ལྟར་
+  - Open-Edition: ལྟར་
+c12c709218e74cbd88051b2e13fef866:
+  span:
+    start: 76181
+    end: 76186
+    errors: null
+  diffs:
+  - Narthang: ཉིད་
+  - Peking: ཉིད་
+  - Derge: གནོད་
+  - Open-Edition: གནོད་
+5a10a31da11049afb3fc67d35ca9a0ee:
+  span:
+    start: 76244
+    end: 76254
+    errors: null
+  diffs:
+  - Narthang: བཏང་བར་
+  - Peking: བཏང་བར་
+  - Derge: གཏང་བྱ་དང་
+  - Open-Edition: གཏང་བྱ་དང་
+d39d1876417e4069bcf41b19bbb9104b:
+  span:
+    start: 76275
+    end: 76280
+    errors: null
+  diffs:
+  - Narthang: བཟུང་
+  - Peking: བཟུང་
+  - Derge: གཟུང་
+  - Open-Edition: གཟུང་
+4bdc2606314e45cd9f4c272b3761b313:
+  span:
+    start: 76444
+    end: 76447
+    errors: null
+  diffs:
+  - Narthang: པའི་
+  - Peking: པའི་
+  - Derge: པར་
+  - Open-Edition: པར་
+557ec021cb894308b49601669932f3da:
+  span:
+    start: 76533
+    end: 76537
+    errors: null
+  diffs:
+  - Narthang: ཏེ།
+  - Peking: ས་ཏེ།
+  - Derge: སྟེ།
+  - Open-Edition: སྟེ།
+4559a03d267c4943b9b43b9161587bae:
+  span:
+    start: 76543
+    end: 76545
+    errors: null
+  diffs:
+  - Narthang: ཉི
+  - Peking: ཉི
+  - Derge: གི
+  - Open-Edition: གི
+f55aaf3446864e04bb3468170db5c3c4:
+  span:
+    start: 77087
+    end: 77091
+    errors: null
+  diffs:
+  - Narthang: རྒུད་
+  - Peking: རྒུད་
+  - Derge: གུད་
+  - Open-Edition: གུད་
+01e8607f95f1467cbac719c4408fb03f:
+  span:
+    start: 77399
+    end: 77403
+    errors: null
+  diffs:
+  - Narthang: སྡོ་
+  - Peking: སྡོ་
+  - Derge: བདོ་
+  - Open-Edition: བདོ་
+f33672042f044376b1d6962660851a0f:
+  span:
+    start: 77449
+    end: 77451
+    errors: null
+  diffs:
+  - Narthang: གི
+  - Peking: གི
+  - Derge: ཉི
+  - Open-Edition: ཉི
+75c364fec1a549e2a107d07965976cbc:
+  span:
+    start: 77473
+    end: 77476
+    errors: null
+  diffs:
+  - Narthang: ནི་
+  - Peking: ནི་
+  - Derge: གི་
+  - Open-Edition: གི་
+32e34f3da17e47c59635a9cada60a273:
+  span:
+    start: 77570
+    end: 77574
+    errors: null
+  diffs:
+  - Narthang: གསལ་
+  - Peking: གསལ་
+  - Derge: བསལ་
+  - Open-Edition: བསལ་
+69a36e1bbf514a1887e1abf8c35153aa:
+  span:
+    start: 77845
+    end: 77850
+    errors: null
+  diffs:
+  - Narthang: གནོད་
+  - Peking: གནོད་
+  - Derge: སྨོད་
+  - Open-Edition: སྨོད་
+942877d32dbb42f980083288815cac93:
+  span:
+    start: 77910
+    end: 77919
+    errors: null
+  diffs:
+  - Narthang: ཞེས་གྲགས།།
+  - Peking: ཞེས་གྲགས།།
+  - Derge: ཅེས་གྲག །
+  - Open-Edition: ཅེས་གྲག །
+f3355787a9a246aaab3dee3678b8974b:
+  span:
+    start: 77990
+    end: 77997
+    errors: null
+  diffs:
+  - Narthang: གྲགས་
+  - Peking: གྲགས་
+  - Derge: བསྒྲགས་
+  - Open-Edition: བསྒྲགས་
+c4cc82cd2242400b8a2ce7dd2e16b9cd:
+  span:
+    start: 78054
+    end: 78058
+    errors: null
+  diffs:
+  - Narthang: བའི།
+  - Peking: བའི།
+  - Derge: པའི།
+  - Open-Edition: པའི།
+1b68ab766c82488599dd75169f16c076:
+  span:
+    start: 78209
+    end: 78212
+    errors: null
+  diffs:
+  - Narthang: བས་
+  - Peking: བས་
+  - Derge: ལས་
+  - Open-Edition: ལས་
+4b72e58ff308464b83c4eca30d878f48:
+  span:
+    start: 78233
+    end: 78238
+    errors: null
+  diffs:
+  - Narthang: སྣོད་
+  - Peking: སྣོད་
+  - Derge: གནོད་
+  - Open-Edition: གནོད་
+a3e02df21d1240d491fc968633a7fd66:
+  span:
+    start: 78358
+    end: 78362
+    errors: null
+  diffs:
+  - Narthang: འདའ་
+  - Peking: འདའ་
+  - Derge: འདས་
+  - Open-Edition: འདས་
+8f36fa4d2d634597b11d3d679aa5acac:
+  span:
+    start: 78392
+    end: 78396
+    errors: null
+  diffs:
+  - Narthang: བུས།
+  - Peking: བུས།
+  - Derge: བུར།
+  - Open-Edition: བུར།
+cabfc62ef0e4432bb501b5a0b7dfed11:
+  span:
+    start: 78640
+    end: 78642
+    errors: null
+  diffs:
+  - Narthang: སྲིད
+  - Peking: སྲིད
+  - Derge: འད
+  - Open-Edition: འད
+7c4df94bba52464da8b96ad208e77f57:
+  span:
+    start: 78671
+    end: 78675
+    errors: null
+  diffs:
+  - Narthang: ཇི་
+  - Peking: ཇི་
+  - Derge: འདི་
+  - Open-Edition: འདི་
+46250fbbc5994be6926321b7a619d7e9:
+  span:
+    start: 78686
+    end: 78688
+    errors: null
+  diffs:
+  - Narthang: ནི
+  - Peking: ནི
+  - Derge: གི
+  - Open-Edition: གི
+52b281bf3ccf493a8832da6ebbe46eb8:
+  span:
+    start: 79353
+    end: 79356
+    errors: null
+  diffs:
+  - Narthang: ཅས་
+  - Peking: ཅས་
+  - Derge: ཅན་
+  - Open-Edition: ཅན་
+91263a4084fd4b288835e692de4361cd:
+  span:
+    start: 79761
+    end: 79765
+    errors: null
+  diffs:
+  - Narthang: ས་ཏེ།
+  - Peking: ཏེ།
+  - Derge: སྟེ།
+  - Open-Edition: སྟེ།
+a79602b4596a49cda9ccb8757f38d44d:
+  span:
+    start: 79782
+    end: 79786
+    errors: null
+  diffs:
+  - Narthang: བཅད་
+  - Peking: བཅད་
+  - Derge: གཅད་
+  - Open-Edition: གཅད་
+11d55270b2d34b91a7f9056deaf46217:
+  span:
+    start: 79819
+    end: 79824
+    errors: null
+  diffs:
+  - Narthang: ཡིད་
+  - Peking: ཡིད་
+  - Derge: སེམས་
+  - Open-Edition: སེམས་
+e28f2ace49e44a5dbaa95bc45f9d5079:
+  span:
+    start: 79865
+    end: 79871
+    errors: null
+  diffs:
+  - Narthang: བརྟེན་
+  - Peking: བརྟེན་
+  - Derge: བསྟེན་
+  - Open-Edition: བསྟེན་
+5d475f7a865b4a3199d3e6a41f998f88:
+  span:
+    start: 79888
+    end: 79892
+    errors: null
+  diffs:
+  - Narthang: བཅད་
+  - Peking: བཅད་
+  - Derge: གཅད་
+  - Open-Edition: གཅད་
+c947df2517a342bcb9ef3873e748af6f:
+  span:
+    start: 80096
+    end: 80100
+    errors: null
+  diffs:
+  - Narthang: ཀྱིས།
+  - Peking: ཀྱིས།
+  - Derge: གིས།
+  - Open-Edition: གིས།
+c819208cf08f43b1bedc8c237c607e27:
+  span:
+    start: 80416
+    end: 80419
+    errors: null
+  diffs:
+  - Narthang: གི་
+  - Peking: གི་
+  - Derge: ནི་
+  - Open-Edition: ནི་
+04223fdd61c84b1e853e5d783a1c8c10:
+  span:
+    start: 80438
+    end: 80441
+    errors: null
+  diffs:
+  - Narthang: རྣམས་
+  - Peking: རྣམས་
+  - Derge: དག་
+  - Open-Edition: དག་
+23eedb38cb824ca6a38de65dcfb22846:
+  span:
+    start: 80483
+    end: 80486
+    errors: null
+  diffs:
+  - Narthang: ལ།
+  - Peking: ལ།
+  - Derge: ནི།
+  - Open-Edition: ནི།
+62df3340d8ce4e569c00af29efa6ff9a:
+  span:
+    start: 80515
+    end: 80517
+    errors: null
+  diffs:
+  - Narthang: བ།
+  - Peking: བ།
+  - Derge: པ།
+  - Open-Edition: པ།
+8f7153afd6274989a37f43faff8be22b:
+  span:
+    start: 80544
+    end: 80548
+    errors: null
+  diffs:
+  - Narthang: གཟེ་
+  - Peking: གཟེ་
+  - Derge: བཟེ་
+  - Open-Edition: བཟེ་
+f34a5d659f9d45378f6eed076bb58437:
+  span:
+    start: 80695
+    end: 80697
+    errors: null
+  diffs:
+  - Narthang: ལ་
+  - Peking: ལ་
+  - Derge: པ་
+  - Open-Edition: པ་
+aabe0c2e4f5b4ac6bc764a7afc198c5a:
+  span:
+    start: 80962
+    end: 80964
+    errors: null
+  diffs:
+  - Narthang: པ།
+  - Peking: པ།
+  - Derge: བ།
+  - Open-Edition: བ།
+5580b7e4b0b7476782c6876af97e5cf8:
+  span:
+    start: 81176
+    end: 81180
+    errors: null
+  diffs:
+  - Narthang: ཉེས་
+  - Peking: ཉེས་
+  - Derge: ཉེར་
+  - Open-Edition: ཉེར་
+0365228273344ca2bd8be5100bd3c4ab:
+  span:
+    start: 81493
+    end: 81495
+    errors: null
+  diffs:
+  - Narthang: པ།
+  - Peking: པ།
+  - Derge: བ།
+  - Open-Edition: བ།
+4c230f68c9b34563bb5b7cefee7cd3f7:
+  span:
+    start: 81672
+    end: 81677
+    errors: null
+  diffs:
+  - Narthang: བཟུང་
+  - Peking: བཟུང་
+  - Derge: གཟུང་
+  - Open-Edition: གཟུང་
+557519c8d84042798e1ba3d0f48668ae:
+  span:
+    start: 81971
+    end: 81975
+    errors: null
+  diffs:
+  - Narthang: གླན་
+  - Peking: གླན་
+  - Derge: བླན་
+  - Open-Edition: བླན་
+b7608364e7a14a22b5cef707b369c89b:
+  span:
+    start: 82022
+    end: 82026
+    errors: null
+  diffs:
+  - Narthang: བཞག་
+  - Peking: བཞག་
+  - Derge: གཞག་
+  - Open-Edition: གཞག་
+1ff8b4895d624b2088637224646f8ac5:
+  span:
+    start: 82454
+    end: 82459
+    errors: null
+  diffs:
+  - Narthang: གནོན་
+  - Peking: གནོན་
+  - Derge: གནོད་
+  - Open-Edition: གནོད་
+3e28b86cef1e494895e7782ba529dd9b:
+  span:
+    start: 82832
+    end: 82836
+    errors: null
+  diffs:
+  - Narthang: བཞུག
+  - Peking: བཞུག
+  - Derge: གཞུག
+  - Open-Edition: གཞུག
+118b186b3f3e4fefb01d3a26fedb4d38:
+  span:
+    start: 83790
+    end: 83793
+    errors: null
+  diffs:
+  - Narthang: གྱུར་
+  - Peking: གྱུར་
+  - Derge: པས་
+  - Open-Edition: པས་
+5208bca0c6ee46ca9b60f260c5412e1e:
+  span:
+    start: 85683
+    end: 85687
+    errors: null
+  diffs:
+  - Narthang: ཞིང་།
+  - Peking: ཞིང་།
+  - Derge: ཉིད།
+  - Open-Edition: ཉིད།
+e6d22f87cb764824bc0b14c1ad6ae3ad:
+  span:
+    start: 86273
+    end: 86277
+    errors: null
+  diffs:
+  - Narthang: དང་
+  - Peking: དང་
+  - Derge: པའི་
+  - Open-Edition: པའི་
+c7b56402b5824d28b1e8ff45fe1cb5cf:
+  span:
+    start: 86401
+    end: 86405
+    errors: null
+  diffs:
+  - Narthang: བྱེད་
+  - Peking: བྱེད་
+  - Derge: བྱས་
+  - Open-Edition: བྱས་
+23283d91ca1047faabbc838eec476abf:
+  span:
+    start: 86479
+    end: 86486
+    errors: null
+  diffs:
+  - Narthang: ཁོ་ནར་
+  - Peking: ཁོ་ནར་
+  - Derge: ཉིད་དུ་
+  - Open-Edition: ཉིད་དུ་
+a0f9c5c086234327a33c04f60587f4d1:
+  span:
+    start: 86631
+    end: 86634
+    errors: null
+  diffs:
+  - Narthang: བར་
+  - Peking: བར་
+  - Derge: བས་
+  - Open-Edition: བས་
+4f256308839749cdb0d7756bf55cc58f:
+  span:
+    start: 86927
+    end: 86930
+    errors: null
+  diffs:
+  - Narthang: མི།
+  - Peking: མི།
+  - Derge: ནི།
+  - Open-Edition: ནི།
+8db3ce185dba48569a846141c62a4613:
+  span:
+    start: 86979
+    end: 86983
+    errors: null
+  diffs:
+  - Narthang: བཅད་
+  - Peking: བཅད་
+  - Derge: བཅས་
+  - Open-Edition: བཅས་
+7c03ffccd41b44899ff3d5033ad00f89:
+  span:
+    start: 87361
+    end: 87369
+    errors: null
+  diffs:
+  - Narthang: སྲིད་དི་
+  - Peking: སྲིད་དི་
+  - Derge: སྲེད་དེ་
+  - Open-Edition: སྲེད་དེ་
+6acbe55df584466fadecf5b9b185f048:
+  span:
+    start: 87678
+    end: 87681
+    errors: null
+  diffs:
+  - Narthang: སྟེ།
+  - Peking: སྟེ།
+  - Derge: དེ།
+  - Open-Edition: དེ།
+0236422c68c54acf87c9c70ab7b1c9f2:
+  span:
+    start: 87778
+    end: 87784
+    errors: null
+  diffs:
+  - Narthang: རྟོགས་
+  - Peking: རྟོགས་
+  - Derge: གཏོགས་
+  - Open-Edition: གཏོགས་
+dd0ef3f131924a4981b0d239f03d5cc3:
+  span:
+    start: 88177
+    end: 88181
+    errors: null
+  diffs:
+  - Narthang: དུས་
+  - Peking: དུས་
+  - Derge: དེས་
+  - Open-Edition: དེས་
+dfb4f15652b44e7c8b004bb879cc7939:
+  span:
+    start: 88267
+    end: 88272
+    errors: null
+  diffs:
+  - Narthang: སྙིང་
+  - Peking: སྙིང་
+  - Derge: གཉེན་
+  - Open-Edition: གཉེན་
+18be30a36a60424fa8df6cec46ac02b9:
+  span:
+    start: 88709
+    end: 88713
+    errors: null
+  diffs:
+  - Narthang: བློ་
+  - Peking: བློ་
+  - Derge: གློ་
+  - Open-Edition: གློ་
+1780e43ee20f483fa835d6480264636c:
+  span:
+    start: 88968
+    end: 88977
+    errors: null
+  diffs:
+  - Narthang: རིག་ན། །
+  - Peking: རིག་ན། །
+  - Derge: ཞིག་རིག །
+  - Open-Edition: ཞིག་རིག །
+b835bfdce4d348d893df677df1a90096:
+  span:
+    start: 89537
+    end: 89539
+    errors: null
+  diffs:
+  - Narthang: ཉི
+  - Peking: ཉི
+  - Derge: ནི
+  - Open-Edition: ནི
+80f80180b1e34ff8bde96c41ea267a6e:
+  span:
+    start: 89549
+    end: 89555
+    errors: null
+  diffs:
+  - Narthang: གཅིང་། །
+  - Peking: གཅིང་། །
+  - Derge: གཅིག །
+  - Open-Edition: གཅིག །
+628662c5d58c473eb94d98875501533d:
+  span:
+    start: 90124
+    end: 90128
+    errors: null
+  diffs:
+  - Narthang: གཞི་
+  - Peking: གཞི་
+  - Derge: བཞི་
+  - Open-Edition: བཞི་
+739d42b102e943fd92ac160c64b2a4cc:
+  span:
+    start: 90176
+    end: 90178
+    errors: null
+  diffs:
+  - Narthang: ཀ་
+  - Peking: ཀ་
+  - Derge: ག་
+  - Open-Edition: ག་
+717f48ad360b425fb7de363dab8ef1ad:
+  span:
+    start: 90195
+    end: 90200
+    errors: null
+  diffs:
+  - Narthang: བཅས་
+  - Peking: བཅད་
+  - Derge: བརྩད་
+  - Open-Edition: བརྩད་
+36f59c4a07ee47d19a04cfe70cba8aae:
+  span:
+    start: 90276
+    end: 90282
+    errors: null
+  diffs:
+  - Narthang: རྒྱུན་
+  - Peking: རྒྱུན་
+  - Derge: རྒྱུད་
+  - Open-Edition: རྒྱུད་
+8df672f9c8294e809e7a5f8618cd831d:
+  span:
+    start: 91089
+    end: 91092
+    errors: null
+  diffs:
+  - Narthang: ལུས་
+  - Peking: ལུས་
+  - Derge: དེ་
+  - Open-Edition: དེ་
+a97eaa7e7da34e19ac3c08a7586a37e2:
+  span:
+    start: 91139
+    end: 91142
+    errors: null
+  diffs:
+  - Narthang: འདི་
+  - Peking: འདི་
+  - Derge: ནི་
+  - Open-Edition: ནི་
+99c30995bf204d838e4d4ce04d4c35ed:
+  span:
+    start: 91530
+    end: 91537
+    errors: null
+  diffs:
+  - Narthang: དབྱིངས་
+  - Peking: དབྱིངས་
+  - Derge: དབྱིབས་
+  - Open-Edition: དབྱིབས་
+9d22d2ede21a4d46ac31e06cdb89a244:
+  span:
+    start: 91621
+    end: 91628
+    errors: null
+  diffs:
+  - Narthang: མཐོ་ཡོར་
+  - Peking: མཐོ་ཡོར་
+  - Derge: ལུས་ནི་
+  - Open-Edition: ལུས་ནི་
+4393d68e7df64c9a848bc07274a621e2:
+  span:
+    start: 91799
+    end: 91804
+    errors: null
+  diffs:
+  - Narthang: ཆགས་
+  - Peking: ཆགས་
+  - Derge: ཚིགས་
+  - Open-Edition: ཚིགས་
+da5624cdb78d4113babbb2f8450ff918:
+  span:
+    start: 91845
+    end: 91848
+    errors: null
+  diffs:
+  - Narthang: ན།
+  - Peking: ན།
+  - Derge: ཏེ།
+  - Open-Edition: ཏེ།
+a08d04823ec6455fb45a18ffd900b187:
+  span:
+    start: 93119
+    end: 93126
+    errors: null
+  diffs:
+  - Narthang: གལ་ལས་
+  - Peking: གལ་ལས་
+  - Derge: གང་གིས་
+  - Open-Edition: གང་གིས་
+8e17dccbec454021a65800893050b80b:
+  span:
+    start: 93195
+    end: 93197
+    errors: null
+  diffs:
+  - Narthang: ན།
+  - Peking: ན།
+  - Derge: པ།
+  - Open-Edition: པ།
+80d49927bffa414f8f79f58c4582b3f0:
+  span:
+    start: 93228
+    end: 93233
+    errors: null
+  diffs:
+  - Narthang: སྲིད་
+  - Peking: སྲིད་
+  - Derge: སྲེད་
+  - Open-Edition: སྲེད་
+6debfb9356cd4e0eab6838c75a09987f:
+  span:
+    start: 93769
+    end: 93771
+    errors: null
+  diffs:
+  - Narthang: དེ།
+  - Peking: དེ།
+  - Derge: པ།
+  - Open-Edition: པ།
+694f9765a74749dd8655d5d55d0342bf:
+  span:
+    start: 94239
+    end: 94243
+    errors: null
+  diffs:
+  - Narthang: མེད་
+  - Peking: མེད་
+  - Derge: མིན་
+  - Open-Edition: མིན་
+1d54398da31846cdb6fb827b9ae77c75:
+  span:
+    start: 94803
+    end: 94805
+    errors: null
+  diffs:
+  - Narthang: ཀ་
+  - Peking: ཀ་
+  - Derge: ག་
+  - Open-Edition: ག་
+79064cca85f04829adf5b3d7b0e87363:
+  span:
+    start: 94852
+    end: 94854
+    errors: null
+  diffs:
+  - Narthang: ནི
+  - Peking: ནི
+  - Derge: ཉི
+  - Open-Edition: ཉི
+0f662c10ca6746e28c1604c9d6014a9f:
+  span:
+    start: 94875
+    end: 94878
+    errors: null
+  diffs:
+  - Narthang: ཕ་
+  - Peking: ཕ་
+  - Derge: བུ་
+  - Open-Edition: བུ་
+8fd345c1cf1542cf8d545387c0d34a5f:
+  span:
+    start: 94888
+    end: 94890
+    errors: null
+  diffs:
+  - Narthang: བུ་
+  - Peking: བུ་
+  - Derge: ཕ་
+  - Open-Edition: ཕ་
+8cfc9e7874b14c5990bfa0b70e43e6c2:
+  span:
+    start: 95296
+    end: 95298
+    errors: null
+  diffs:
+  - Narthang: ཤེ
+  - Peking: ཤེ
+  - Derge: ཞེ
+  - Open-Edition: ཞེ
+8e53401153234e059c0f6449fdd24184:
+  span:
+    start: 95566
+    end: 95571
+    errors: null
+  diffs:
+  - Narthang: བགོམ་
+  - Peking: བགོམ་
+  - Derge: འགོམ་
+  - Open-Edition: འགོམ་
+f3a322a9cb1745138f1c58c60dd32f73:
+  span:
+    start: 95935
+    end: 95939
+    errors: null
+  diffs:
+  - Narthang: ལ།
+  - Peking: ལ།
+  - Derge: ན། །
+  - Open-Edition: ན། །
+91586f46e3f74c3284535497853403fc:
+  span:
+    start: 96184
+    end: 96192
+    errors: null
+  diffs:
+  - Narthang: པ་མིན།
+  - Peking: ད་པ་མིན།
+  - Derge: དབང་མེད།
+  - Open-Edition: དབང་མེད།
+0b708c93574040e2b43593f82c4ea6fe:
+  span:
+    start: 96312
+    end: 96315
+    errors: null
+  diffs:
+  - Narthang: དང་
+  - Peking: དང་
+  - Derge: དག་
+  - Open-Edition: དག་
+5cc994499729485ca3c1528594b73b18:
+  span:
+    start: 96780
+    end: 96787
+    errors: null
+  diffs:
+  - Narthang: རྒྱུའམ་
+  - Peking: རྒྱུའམ་
+  - Derge: རྒྱུའི་
+  - Open-Edition: རྒྱུའི་
+8774767adf3f4ae791fc3135296fbd09:
+  span:
+    start: 97525
+    end: 97534
+    errors: null
+  diffs:
+  - Narthang: ཀྱིའང་གཞག་
+  - Peking: ཀྱིའང་གཞག་
+  - Derge: ཀྱིས་བཞག་
+  - Open-Edition: ཀྱིས་བཞག་
+6dc2c37651324219876f116df8b06a54:
+  span:
+    start: 97747
+    end: 97751
+    errors: null
+  diffs:
+  - Narthang: མཐར་
+  - Peking: མཐར་
+  - Derge: འཐད་
+  - Open-Edition: འཐད་
+dbbb7ebd7b5c423bad8cec7141bd0db0:
+  span:
+    start: 98222
+    end: 98227
+    errors: null
+  diffs:
+  - Narthang: སྒྱུ་
+  - Peking: སྒྱུ་
+  - Derge: རྒྱུ་
+  - Open-Edition: རྒྱུ་
+be921e26b3224baf9cd6cf00dfb97728:
+  span:
+    start: 98262
+    end: 98265
+    errors: null
+  diffs:
+  - Narthang: ལས་
+  - Peking: ལས་
+  - Derge: ནས་
+  - Open-Edition: ནས་
+0b333c86bf33490b94353d0c9eae9ca2:
+  span:
+    start: 98275
+    end: 98280
+    errors: null
+  diffs:
+  - Narthang: ཅིག།
+  - Peking: ཅིག།
+  - Derge: ཅིང་།
+  - Open-Edition: ཅིང་།
+4a331bffd5e1477a87071455701111b9:
+  span:
+    start: 98368
+    end: 98371
+    errors: null
+  diffs:
+  - Narthang: བུ་
+  - Peking: བུ་
+  - Derge: སུ་
+  - Open-Edition: སུ་
+db0312519c5540c688df5d00f2e73d84:
+  span:
+    start: 98416
+    end: 98420
+    errors: null
+  diffs:
+  - Narthang: ཡིན།
+  - Peking: ཡིན།
+  - Derge: ཡོད།
+  - Open-Edition: ཡོད།
+13ae930586844096ade8c32ad398652c:
+  span:
+    start: 98751
+    end: 98754
+    errors: null
+  diffs:
+  - Narthang: དང་
+  - Peking: དང་
+  - Derge: དེ་
+  - Open-Edition: དེ་
+1730021aa04243cba168f4fd6c0babbe:
+  span:
+    start: 99032
+    end: 99044
+    errors: null
+  diffs:
+  - Narthang: ཆུ་ཤིང་
+  - Peking: ཆུ་ཤིང་
+  - Derge: རྣམ་པར་དཔྱད་
+  - Open-Edition: རྣམ་པར་དཔྱད་
+d55ac3b5e74a47b5a21bb4c000984951:
+  span:
+    start: 99434
+    end: 99437
+    errors: null
+  diffs:
+  - Narthang: གང་
+  - Peking: གང་
+  - Derge: དང་
+  - Open-Edition: དང་
+5ab31c040e1748d8a8fd08e4095f4033:
+  span:
+    start: 99678
+    end: 99683
+    errors: null
+  diffs:
+  - Narthang: ཚོགས་
+  - Peking: ཚོགས་
+  - Derge: ཚེགས་
+  - Open-Edition: ཚེགས་
+c8217af045394b2d905750822f0a444e:
+  span:
+    start: 100070
+    end: 100074
+    errors: null
+  diffs:
+  - Narthang: པའི་
+  - Peking: པའི་
+  - Derge: ནའི་
+  - Open-Edition: ནའི་
+1f74e22c5bc647feb23c23b394ee670a:
+  span:
+    start: 100093
+    end: 100097
+    errors: null
+  diffs:
+  - Narthang: འཚོ་
+  - Peking: འཚོ་
+  - Derge: འཚེ་
+  - Open-Edition: འཚེ་
+b3ecc3867c0148a59716774a530b1b38:
+  span:
+    start: 100148
+    end: 100151
+    errors: null
+  diffs:
+  - Narthang: འདི་
+  - Peking: འདི་
+  - Derge: ནི་
+  - Open-Edition: ནི་
+be6159793928406d985b825392c8acf9:
+  span:
+    start: 100168
+    end: 100170
+    errors: null
+  diffs:
+  - Narthang: ཞི
+  - Peking: ཞི
+  - Derge: ཡི
+  - Open-Edition: ཡི
+d406088a741c48468c691c93bdd6e89e:
+  span:
+    start: 100227
+    end: 100230
+    errors: null
+  diffs:
+  - Narthang: འདི།
+  - Peking: འདི།
+  - Derge: ནི།
+  - Open-Edition: ནི།
+59fe9eddd48a4f51a8c33a80faa5a340:
+  span:
+    start: 100890
+    end: 100895
+    errors: null
+  diffs:
+  - Narthang: བྱུང
+  - Peking: བྱུང
+  - Derge: འཁྲུང
+  - Open-Edition: འཁྲུང
+39cb9df218fd46d3adeedca2aa8b5d9f:
+  span:
+    start: 100897
+    end: 100901
+    errors: null
+  diffs:
+  - Narthang: བའི།
+  - Peking: བའི།
+  - Derge: པའི།
+  - Open-Edition: པའི།
+fa99b0510b2045f28a87f60ebfbcb82a:
+  span:
+    start: 101128
+    end: 101134
+    errors: null
+  diffs:
+  - Narthang: བསྟན་པ་
+  - Peking: བསྟན་པ་
+  - Derge: ཀྱི་ཕ་
+  - Open-Edition: ཀྱི་ཕ་
+7f8524897f56464f88bb74a093a547ce:
+  span:
+    start: 101146
+    end: 101150
+    errors: null
+  diffs:
+  - Narthang: བ་
+  - Peking: བ་
+  - Derge: པའི་
+  - Open-Edition: པའི་
+6d00560c89b04a358a08f9675922de51:
+  span:
+    start: 101402
+    end: 101406
+    errors: null
+  diffs:
+  - Narthang: སངས་ར
+  - Peking: སངས་ར
+  - Derge: འཁོར
+  - Open-Edition: འཁོར
+86c87522f1ce4ae6a7924d5df4ff34b3:
+  span:
+    start: 101409
+    end: 101415
+    errors: null
+  diffs:
+  - Narthang: ཐོབ་ཀྱི
+  - Peking: ཐོབ་ཀྱི
+  - Derge: ཇི་སྲི
+  - Open-Edition: ཇི་སྲི
+e4d3e8924b494a498c11fbca80409d9c:
+  span:
+    start: 101415
+    end: 101417
+    errors: null
+  diffs:
+  - Narthang: །བར་
+  - Peking: །བར་
+  - Derge: ད་
+  - Open-Edition: ད་
+19acc55e616e47fea967c5a833d4ba26:
+  span:
+    start: 101432
+    end: 101435
+    errors: null
+  diffs:
+  - Narthang: བ་
+  - Peking: བ་
+  - Derge: ལས་
+  - Open-Edition: ལས་
+c4d8e0b284fb4837ad8f389064fc32fb:
+  span:
+    start: 101456
+    end: 101464
+    errors: null
+  diffs:
+  - Narthang: བླ་ན་
+  - Peking: བླ་ན་
+  - Derge: བྱང་ཆུབ་
+  - Open-Edition: བྱང་ཆུབ་
+81af30ce3f40430e8b54ff135785008b:
+  span:
+    start: 101464
+    end: 101469
+    errors: null
+  diffs:
+  - Narthang: སེམེད་
+  - Peking: སེམེད་
+  - Derge: སེམས་
+  - Open-Edition: སེམས་
+79ddfd80023046c2b59c47a56c26b174:
+  span:
+    start: 101763
+    end: 101766
+    errors: null
+  diffs:
+  - Narthang: སྡུ
+  - Peking: སྡུ
+  - Derge: སྟུ
+  - Open-Edition: སྟུ
+be9484eaf5e347f1bccb52bc577591b5:
+  span:
+    start: 101829
+    end: 101834
+    errors: null
+  diffs:
+  - Narthang: མཐིང་
+  - Peking: མཐིང་
+  - Derge: འཐིང་
+  - Open-Edition: འཐིང་
+f016ee0b49324cf9b48593ee982a0f4a:
+  span:
+    start: 101982
+    end: 101985
+    errors: null
+  diffs:
+  - Narthang: ཡང་
+  - Peking: ཡང་
+  - Derge: དག་
+  - Open-Edition: དག་
+2b777d550e504f63aa32e2713d03abf8:
+  span:
+    start: 102031
+    end: 102036
+    errors: null
+  diffs:
+  - Narthang: བསྟན་
+  - Peking: བསྟན་
+  - Derge: བསྟར་
+  - Open-Edition: བསྟར་
+c08353faead446e7a3350074e1bec6f9:
+  span:
+    start: 102162
+    end: 102167
+    errors: null
+  diffs:
+  - Narthang: གཟུང་
+  - Peking: གཟུང་
+  - Derge: བཟུང་
+  - Open-Edition: བཟུང་
+bbe7723b0b0e4adb853ddaba6fc4bd2c:
+  span:
+    start: 102681
+    end: 102684
+    errors: null
+  diffs:
+  - Narthang: དག་
+  - Peking: དག་
+  - Derge: དང་
+  - Open-Edition: དང་
+6e58eaa6275548c1ab2b22d5dec5e668:
+  span:
+    start: 102793
+    end: 102797
+    errors: null
+  diffs:
+  - Narthang: བློ་
+  - Peking: བློ་
+  - Derge: གློ་
+  - Open-Edition: གློ་
+ae17df76d0c642ca8646e23bbe97cd59:
+  span:
+    start: 102893
+    end: 102897
+    errors: null
+  diffs:
+  - Narthang: འོར་
+  - Peking: འོར་
+  - Derge: བོར་
+  - Open-Edition: བོར་
+34be5cfd283a4a0d921c236221c88a30:
+  span:
+    start: 102958
+    end: 102962
+    errors: null
+  diffs:
+  - Narthang: ཐམས་ཅད་
+  - Peking: ཐམས་ཅད་
+  - Derge: ཀུན་
+  - Open-Edition: ཀུན་
+1d6bee689661427a9e192623823b3a60:
+  span:
+    start: 102974
+    end: 102979
+    errors: null
+  diffs:
+  - Narthang: དབུགས་
+  - Peking: དབུགས་
+  - Derge: ཤུགས་
+  - Open-Edition: ཤུགས་
+43db79094b3c49608eeb659895b1a478:
+  span:
+    start: 103174
+    end: 103180
+    errors: null
+  diffs:
+  - Narthang: རྗེས་
+  - Peking: རྗེས་
+  - Derge: རྗེའི་
+  - Open-Edition: རྗེའི་
+723472b2fdc847a6847b984d8c5ed230:
+  span:
+    start: 103184
+    end: 103189
+    errors: null
+  diffs:
+  - Narthang: ཅན་
+  - Peking: ཅན་
+  - Derge: སྤྱན་
+  - Open-Edition: སྤྱན་
+8e3e41558407437aad1c7b230149d8a5:
+  span:
+    start: 103282
+    end: 103286
+    errors: null
+  diffs:
+  - Narthang: པ་
+  - Peking: པ་
+  - Derge: ལྡན་
+  - Open-Edition: ལྡན་
+91261f94a9974e16a31478cc9e81ac2d:
+  span:
+    start: 103341
+    end: 103343
+    errors: null
+  diffs:
+  - Narthang: ཀུ་
+  - Peking: ཀུ་
+  - Derge: ཅ་
+  - Open-Edition: ཅ་
+aed12c4257fb42deba28985b60fde013:
+  span:
+    start: 103468
+    end: 103472
+    errors: null
+  diffs:
+  - Narthang: ལྡང་
+  - Peking: ལྡང་
+  - Derge: ལྡན་
+  - Open-Edition: ལྡན་
+528906da3c13400f8d01dc8eaa6ffa38:
+  span:
+    start: 103522
+    end: 103526
+    errors: null
+  diffs:
+  - Narthang: དགར་
+  - Peking: དགར་
+  - Derge: དགའ་
+  - Open-Edition: དགའ་
+7489d53ac0604f7b9b4ca0701ddde51b:
+  span:
+    start: 103787
+    end: 103790
+    errors: null
+  diffs:
+  - Narthang: གཟུག
+  - Peking: གཟུག
+  - Derge: མིག
+  - Open-Edition: མིག
+8c4e0efdfe6e4c6a8851b92ec7983ec5:
+  span:
+    start: 104006
+    end: 104012
+    errors: null
+  diffs:
+  - Narthang: བཀྲེས་
+  - Peking: བཀྲེས་
+  - Derge: བཀྲེན་
+  - Open-Edition: བཀྲེན་
+dea3b9b800ca48659a587e4b5db4453e:
+  span:
+    start: 104347
+    end: 104353
+    errors: null
+  diffs:
+  - Narthang: འགྲོན་
+  - Peking: འགྲོན་
+  - Derge: འདྲོན་
+  - Open-Edition: འདྲོན་
+a6e3e43a39844a9583094d4eea5ee2dd:
+  span:
+    start: 104600
+    end: 104606
+    errors: null
+  diffs:
+  - Narthang: འགྲོན་
+  - Peking: འགྲོན་
+  - Derge: འདྲོན་
+  - Open-Edition: འདྲོན་
+9f2eaa36ca334ee28996a25d9a0d9480:
+  span:
+    start: 104608
+    end: 104611
+    errors: null
+  diffs:
+  - Narthang: རྣམས་
+  - Peking: རྣམས་
+  - Derge: དག་
+  - Open-Edition: དག་
+0205c27bd2974a69a0415750ca54d58a:
+  span:
+    start: 105353
+    end: 105358
+    errors: null
+  diffs:
+  - Narthang: སྤྱོད་
+  - Peking: སྤྱོད་
+  - Derge: བྱེད་
+  - Open-Edition: བྱེད་
+b0762c02640f477daf2286480577a95c:
+  span:
+    start: 105450
+    end: 105455
+    errors: null
+  diffs:
+  - Narthang: བཟུང་
+  - Peking: བཟུང་
+  - Derge: གཟུང་
+  - Open-Edition: གཟུང་
+efc576b7e62d4ad589c36af287685f9a:
+  span:
+    start: 105666
+    end: 105670
+    errors: null
+  diffs:
+  - Narthang: ཉན་
+  - Peking: ཉན་
+  - Derge: སྙན་
+  - Open-Edition: སྙན་
+0a0eb61a85314c028161b559ffd4907c:
+  span:
+    start: 105709
+    end: 105712
+    errors: null
+  diffs:
+  - Narthang: གའ་
+  - Peking: གའ་
+  - Derge: གང་
+  - Open-Edition: གང་
+6039bbba5ee84ac6ba25c299d18b454a:
+  span:
+    start: 106439
+    end: 106446
+    errors: null
+  diffs:
+  - Narthang: ་སྡིག་པར་མ་གྱུར་ན་མ་གྱུར་འཇིགས་
+  - Peking: ་སྡིག་པར་མ་གྱུར་ན་མ་གྱུར་འཇིགས་
+  - Derge: །འཇིགས་
+  - Open-Edition: །འཇིགས་
+726b1f559a9f4577b68a0e00e94f2bf2:
+  span:
+    start: 106531
+    end: 106535
+    errors: null
+  diffs:
+  - Narthang: ཏོན་
+  - Peking: ཏོན་
+  - Derge: ཐོན་
+  - Open-Edition: ཐོན་
+cd1d8e888e7a46aeacf8db9fd31c7572:
+  span:
+    start: 106540
+    end: 106546
+    errors: null
+  diffs:
+  - Narthang: བརྒྱས་
+  - Peking: བརྒྱས་
+  - Derge: བརྒྱན་
+  - Open-Edition: བརྒྱན་
+0df38cade81742a79f76db626c0beaa0:
+  span:
+    start: 106769
+    end: 106774
+    errors: null
+  diffs:
+  - Narthang: རྩོད་
+  - Peking: རྩོད་
+  - Derge: གནོད་
+  - Open-Edition: གནོད་
+3c7a42285b2c4b97811db0e38478db09:
+  span:
+    start: 108032
+    end: 108035
+    errors: null
+  diffs:
+  - Narthang: ཏེ།
+  - Peking: ཏེ།
+  - Derge: ནས།
+  - Open-Edition: ནས།
+1c936edd860c4654a480172f34ac71bb:
+  span:
+    start: 108671
+    end: 108673
+    errors: null
+  diffs:
+  - Narthang: གཏུ
+  - Peking: གཏུ
+  - Derge: ཞུ
+  - Open-Edition: ཞུ
+b013c791116849b0a3fe1469a63af350:
+  span:
+    start: 108755
+    end: 108758
+    errors: null
+  diffs:
+  - Narthang: ཙྪ་
+  - Peking: ཙྪ་
+  - Derge: ཙཱ་
+  - Open-Edition: ཙཱ་
+ed1e0f239b824bb581597202c14a494b:
+  span:
+    start: 108884
+    end: 108887
+    errors: null
+  diffs:
+  - Narthang: ཀྱི
+  - Peking: ཀྱི
+  - Derge: ཕྱི
+  - Open-Edition: ཕྱི
+c2ef818e6f6240bc96c8a27d259d9474:
+  span:
+    start: 108990
+    end: 108997
+    errors: null
+  diffs:
+  - Narthang: ཞུས་
+  - Peking: ཞུས་
+  - Derge: བསྒྱུར་
+  - Open-Edition: བསྒྱུར་
